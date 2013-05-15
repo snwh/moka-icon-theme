@@ -1,0 +1,74 @@
+#!/bin/bash
+# -*- Mode: sh; coding: utf-8; indent-tabs-mode: nil; tab-width: 4 -*-
+#
+# Authors:
+#   Sam Hewitt <hewittsamuel@gmail.com>
+#
+# Description:
+#   An installation bash script for Moka Icon Theme
+#
+# Legal Stuff:
+#
+# This file is part of the Moka Icon Theme and is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; version 3.
+#
+# This file is part of the Moka Icon Theme and is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program; if not, see <https://www.gnu.org/licenses/gpl-3.0.txt>
+
+ROOT_UID=0
+if [ "$UID" -ne "$ROOT_UID" ]
+then
+	echo "Moka Icon Theme will be installed in '$HOME/.icons'. To make them available for all users, run this script as root."
+else
+	echo "Moka Icon Theme will be installed in '/usr/share/icons' and will be available for all users."
+fi
+read -p "Do you want to continue ? [Y]es, [N]o : " input
+case $input in
+	[Yy]* ) ;;
+    [Nn]* ) exit 99;;
+    * ) echo "Uh oh, invalid response. Installaton aborted."; exit 1;;
+esac
+
+DIR="$( cd -P "$( dirname "$0" )" && pwd )"
+cd $DIR
+
+tar xf Moka.tar.gz 2>/dev/null
+
+if [ -d $HOME/.icons/Moka ]
+then
+	echo
+	read -p "An existing Moka installation has been detected in '$HOME/.icons'. Remove it? [Y]es, [N]o:" input
+	case $input in
+		[Yy]* ) rm -Rf "$HOME/.icons/Moka" 2>/dev/null;;
+	    * ) ;;
+	esac
+fi
+
+if [ "$UID" -eq "$ROOT_UID" ]
+then
+	if [ -d /usr/share/icons/Moka ]
+	then
+		echo
+		read -p "An existing Moka installation has been detected in '/usr/share/icons'. Remove it? [Y]es, [N]o:" input
+		case $input in
+			[Yy]* ) rm -Rf /usr/share/icons/Moka 2>/dev/null;;
+		    * ) ;;
+		esac
+		echo
+	fi
+	cp -R ./Moka/ /usr/share/icons/
+	install_dir=/usr/share/icons/
+else
+	cp -R ./Moka/ "$HOME/.icons/"
+	install_dir="$HOME/.icons/"
+fi
+
+echo
+echo "Installation complete! Exiting"
+exit 0
