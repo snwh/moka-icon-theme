@@ -3,7 +3,7 @@ Moka Icon Theme
 
 "Moka" is meant to be a comprehensive and well-designed icon set.
 
-Moka icon theme is distributed under the terms of either GNU LGPL v.3 or Creative Commons BY-SA 3.0 license.
+Moka Icon Theme is distributed under the terms of either GNU LGPL v.3 or Creative Commons BY-SA 3.0 license.
 
 ###Source
 
@@ -25,13 +25,24 @@ Running as root will copy the icon set to  /usr/share/icons to be available syst
     
     sudo ./INSTALL
 
-###Making new icons
+###Making New Icons
 
-
-To render icons using the provided scripts you will need:
+To run the provided scripts (and edit icons) you will need:
 
  * inkscape
  * ruby
- * python
+ * python3
+
+To render a new icon, run the following.
+
+    ./render-pngs.py
+
+This will read the SVGs in the "src" directory, and render the respective icons (provided there are changes).
+
+To render symbolic icons, run:
+
+    ./render-symbolic.rb
+
+I'd like to thank whomever in the GNOME project wrote those scripts, which I poached and modified. :-)
 
 -----------
