@@ -12,12 +12,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="90.000000"
    inkscape:export-xdpi="90.000000"
-   width="240"
+   width="600"
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="source-battery-status.svg"
+   sodipodi:docname="tray-batteries.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new"
@@ -34,17 +34,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="207.43605"
-     inkscape:cy="22.709394"
-     inkscape:current-layer="g3578"
+     inkscape:cx="356.54546"
+     inkscape:cy="195.51944"
+     inkscape:current-layer="svg11300"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="711"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      width="400px"
      height="300px"
      inkscape:snap-nodes="true"
@@ -1262,7 +1262,7 @@
      id="layer1">
     <g
        style="display:none"
-       inkscape:label="Baseplate"
+       inkscape:label="Baseplate battery-full"
        id="layer7"
        inkscape:groupmode="layer">
       <text
@@ -1317,6 +1317,61 @@
     </g>
     <g
        inkscape:groupmode="layer"
+       id="g3320"
+       inkscape:label="Baseplate battery-full-symbolic"
+       style="display:none">
+      <text
+         id="text3322"
+         inkscape:label="context"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="15.006836"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan3324"
+           sodipodi:role="line"
+           x="15.006836"
+           y="26.115234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">status</tspan></text>
+      <text
+         id="text3326"
+         inkscape:label="icon-name"
+         sodipodi:linespacing="125%"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="126.48828"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan3328"
+           sodipodi:role="line"
+           x="126.48828"
+           y="26.115234"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">battery-full-symbolic</tspan></text>
+      <rect
+         inkscape:label="16x16"
+         y="268"
+         x="20"
+         height="16"
+         width="16"
+         id="rect3330"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:label="24x24"
+         y="228"
+         x="20"
+         height="24"
+         width="24"
+         id="rect3332"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3334"
+         width="22"
+         height="22"
+         x="21"
+         y="229"
+         inkscape:label="22x22" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer6"
        inkscape:label="Symbols"
        style="display:inline">
@@ -1356,7 +1411,7 @@
     <g
        inkscape:groupmode="layer"
        id="g3712"
-       inkscape:label="Baseplate"
+       inkscape:label="Baseplate battery-full-charging"
        style="display:none">
       <text
          id="text3714"
@@ -1407,6 +1462,61 @@
          x="51"
          y="157"
          inkscape:label="22x22" />
+    </g>
+    <g
+       style="display:none"
+       inkscape:label="Baseplate battery-full-charging-symbolic"
+       id="g3336"
+       inkscape:groupmode="layer">
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="15.006836"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:label="context"
+         id="text3338"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           y="26.115234"
+           x="15.006836"
+           sodipodi:role="line"
+           id="tspan3340">status</tspan></text>
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="126.48828"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         sodipodi:linespacing="125%"
+         inkscape:label="icon-name"
+         id="text3342"><tspan
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           y="26.115234"
+           x="126.48828"
+           sodipodi:role="line"
+           id="tspan3344">battery-full-charging-symbolic</tspan></text>
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3346"
+         width="16"
+         height="16"
+         x="50"
+         y="196"
+         inkscape:label="16x16" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3348"
+         width="24"
+         height="24"
+         x="50"
+         y="156"
+         inkscape:label="24x24" />
+      <rect
+         inkscape:label="22x22"
+         y="157"
+         x="51"
+         height="22"
+         width="22"
+         id="rect3350"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
        style="display:inline"
@@ -1554,7 +1664,7 @@
     <g
        inkscape:groupmode="layer"
        id="g3221"
-       inkscape:label="Baseplate"
+       inkscape:label="Baseplate battery-good"
        style="display:none">
       <text
          id="text3223"
@@ -1607,6 +1717,61 @@
          inkscape:label="22x22" />
     </g>
     <g
+       style="display:none"
+       inkscape:label="Baseplate battery-good-symbolic"
+       id="g3352"
+       inkscape:groupmode="layer">
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="15.006836"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:label="context"
+         id="text3354"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           y="26.115234"
+           x="15.006836"
+           sodipodi:role="line"
+           id="tspan3356">status</tspan></text>
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="126.48828"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         sodipodi:linespacing="125%"
+         inkscape:label="icon-name"
+         id="text3358"><tspan
+           id="tspan3360"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           y="26.115234"
+           x="126.48828"
+           sodipodi:role="line">battery-good-symbolic</tspan></text>
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3362"
+         width="16"
+         height="16"
+         x="50"
+         y="268"
+         inkscape:label="16x16" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3364"
+         width="24"
+         height="24"
+         x="50"
+         y="228"
+         inkscape:label="24x24" />
+      <rect
+         inkscape:label="22x22"
+         y="229"
+         x="51"
+         height="22"
+         width="22"
+         id="rect3366"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
        style="display:inline"
        inkscape:label="Symbols"
        id="g3237"
@@ -1646,7 +1811,7 @@
      id="g3738">
     <g
        style="display:none"
-       inkscape:label="Baseplate"
+       inkscape:label="Baseplate battery-good-charging"
        id="g3740"
        inkscape:groupmode="layer">
       <text
@@ -1701,6 +1866,61 @@
     </g>
     <g
        inkscape:groupmode="layer"
+       id="g3370"
+       inkscape:label="Baseplate battery-good-charging-symbolic"
+       style="display:none">
+      <text
+         id="text3372"
+         inkscape:label="context"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="15.006836"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan3374"
+           sodipodi:role="line"
+           x="15.006836"
+           y="26.115234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">status</tspan></text>
+      <text
+         id="text3376"
+         inkscape:label="icon-name"
+         sodipodi:linespacing="125%"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="126.48828"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           sodipodi:role="line"
+           x="126.48828"
+           y="26.115234"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           id="tspan3378">battery-good-charging-symbolic</tspan></text>
+      <rect
+         inkscape:label="16x16"
+         y="195.99994"
+         x="80"
+         height="16"
+         width="16"
+         id="rect3380"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:label="24x24"
+         y="155.99994"
+         x="80"
+         height="24"
+         width="24"
+         id="rect3382"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3384"
+         width="22"
+         height="22"
+         x="81"
+         y="156.99994"
+         inkscape:label="22x22" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="g3756"
        inkscape:label="Symbols"
        style="display:inline">
@@ -1749,7 +1969,7 @@
      id="g3239">
     <g
        style="display:none"
-       inkscape:label="Baseplate"
+       inkscape:label="Baseplate battery-medium"
        id="g3241"
        inkscape:groupmode="layer">
       <text
@@ -1804,6 +2024,61 @@
     </g>
     <g
        inkscape:groupmode="layer"
+       id="g3386"
+       inkscape:label="Baseplate battery-medium-symbolic"
+       style="display:none">
+      <text
+         id="text3388"
+         inkscape:label="context"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="15.006836"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan3390"
+           sodipodi:role="line"
+           x="15.006836"
+           y="26.115234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">status</tspan></text>
+      <text
+         id="text3392"
+         inkscape:label="icon-name"
+         sodipodi:linespacing="125%"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="126.48828"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan3394"
+           sodipodi:role="line"
+           x="126.48828"
+           y="26.115234"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">battery-medium-symbolic</tspan></text>
+      <rect
+         inkscape:label="16x16"
+         y="268"
+         x="80"
+         height="16"
+         width="16"
+         id="rect3396"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:label="24x24"
+         y="228"
+         x="80"
+         height="24"
+         width="24"
+         id="rect3398"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3400"
+         width="22"
+         height="22"
+         x="81"
+         y="229"
+         inkscape:label="22x22" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="g3257"
        inkscape:label="Symbols"
        style="display:inline">
@@ -1843,7 +2118,7 @@
     <g
        inkscape:groupmode="layer"
        id="g3768"
-       inkscape:label="Baseplate"
+       inkscape:label="Baseplate battery-medium-charging"
        style="display:none">
       <text
          id="text3770"
@@ -1896,6 +2171,61 @@
          inkscape:label="22x22" />
     </g>
     <g
+       style="display:none"
+       inkscape:label="Baseplate battery-medium-charging-symbolic"
+       id="g3402"
+       inkscape:groupmode="layer">
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="15.006836"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:label="context"
+         id="text3404"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           y="26.115234"
+           x="15.006836"
+           sodipodi:role="line"
+           id="tspan3406">status</tspan></text>
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="126.48828"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         sodipodi:linespacing="125%"
+         inkscape:label="icon-name"
+         id="text3408"><tspan
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           y="26.115234"
+           x="126.48828"
+           sodipodi:role="line"
+           id="tspan3410">battery-medium-charging-symbolic</tspan></text>
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3412"
+         width="16"
+         height="16"
+         x="110"
+         y="195.99994"
+         inkscape:label="16x16" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3414"
+         width="24"
+         height="24"
+         x="110"
+         y="155.99994"
+         inkscape:label="24x24" />
+      <rect
+         inkscape:label="22x22"
+         y="156.99994"
+         x="111"
+         height="22"
+         width="22"
+         id="rect3416"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
        style="display:inline"
        inkscape:label="Symbols"
        id="g3784"
@@ -1946,7 +2276,7 @@
     <g
        inkscape:groupmode="layer"
        id="g3403"
-       inkscape:label="Baseplate"
+       inkscape:label="Baseplate battery-low"
        style="display:none">
       <text
          id="text3405"
@@ -1999,6 +2329,61 @@
          inkscape:label="22x22" />
     </g>
     <g
+       style="display:none"
+       inkscape:label="Baseplate battery-low-symbolic"
+       id="g3418"
+       inkscape:groupmode="layer">
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="15.006836"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:label="context"
+         id="text3420"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           y="26.115234"
+           x="15.006836"
+           sodipodi:role="line"
+           id="tspan3422">status</tspan></text>
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="126.48828"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         sodipodi:linespacing="125%"
+         inkscape:label="icon-name"
+         id="text3424"><tspan
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           y="26.115234"
+           x="126.48828"
+           sodipodi:role="line"
+           id="tspan3426">battery-low-symbolic</tspan></text>
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3428"
+         width="16"
+         height="16"
+         x="110"
+         y="268"
+         inkscape:label="16x16" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3430"
+         width="24"
+         height="24"
+         x="110"
+         y="228"
+         inkscape:label="24x24" />
+      <rect
+         inkscape:label="22x22"
+         y="229"
+         x="111"
+         height="22"
+         width="22"
+         id="rect3432"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
        style="display:inline"
        inkscape:label="Symbols"
        id="g3419"
@@ -2038,7 +2423,7 @@
      id="g3794">
     <g
        style="display:none"
-       inkscape:label="Baseplate"
+       inkscape:label="Baseplate battery-low-charging"
        id="g3796"
        inkscape:groupmode="layer">
       <text
@@ -2093,6 +2478,61 @@
     </g>
     <g
        inkscape:groupmode="layer"
+       id="g3434"
+       inkscape:label="Baseplate battery-low-charging-symbolic"
+       style="display:none">
+      <text
+         id="text3436"
+         inkscape:label="context"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="15.006836"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan3438"
+           sodipodi:role="line"
+           x="15.006836"
+           y="26.115234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">status</tspan></text>
+      <text
+         id="text3440"
+         inkscape:label="icon-name"
+         sodipodi:linespacing="125%"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="126.48828"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan3442"
+           sodipodi:role="line"
+           x="126.48828"
+           y="26.115234"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">battery-low-charging-symbolic</tspan></text>
+      <rect
+         inkscape:label="16x16"
+         y="195.99994"
+         x="140"
+         height="16"
+         width="16"
+         id="rect3444"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:label="24x24"
+         y="155.99994"
+         x="140"
+         height="24"
+         width="24"
+         id="rect3446"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3448"
+         width="22"
+         height="22"
+         x="141"
+         y="156.99994"
+         inkscape:label="22x22" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="g3812"
        inkscape:label="Symbols"
        style="display:inline">
@@ -2137,7 +2577,7 @@
      id="g3456">
     <g
        style="display:none"
-       inkscape:label="Baseplate"
+       inkscape:label="Baseplate battery-caution"
        id="g3458"
        inkscape:groupmode="layer">
       <text
@@ -2192,6 +2632,61 @@
     </g>
     <g
        inkscape:groupmode="layer"
+       id="g3450"
+       inkscape:label="Baseplate battery-caution-symbolic"
+       style="display:none">
+      <text
+         id="text3452"
+         inkscape:label="context"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="15.006836"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan3454"
+           sodipodi:role="line"
+           x="15.006836"
+           y="26.115234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">status</tspan></text>
+      <text
+         id="text3456"
+         inkscape:label="icon-name"
+         sodipodi:linespacing="125%"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="126.48828"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan3458"
+           sodipodi:role="line"
+           x="126.48828"
+           y="26.115234"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">battery-caution-symbolic</tspan></text>
+      <rect
+         inkscape:label="16x16"
+         y="268"
+         x="140"
+         height="16"
+         width="16"
+         id="rect3460"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:label="24x24"
+         y="228"
+         x="140"
+         height="24"
+         width="24"
+         id="rect3462"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3464"
+         width="22"
+         height="22"
+         x="141"
+         y="229"
+         inkscape:label="22x22" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="g3474"
        inkscape:label="Symbols"
        style="display:inline">
@@ -2231,7 +2726,7 @@
     <g
        inkscape:groupmode="layer"
        id="g3824"
-       inkscape:label="Baseplate"
+       inkscape:label="Baseplate battery-caution-charging"
        style="display:none">
       <text
          id="text3826"
@@ -2284,6 +2779,61 @@
          inkscape:label="22x22" />
     </g>
     <g
+       style="display:none"
+       inkscape:label="Baseplate battery-caution-charging-symbolic"
+       id="g3466"
+       inkscape:groupmode="layer">
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="15.006836"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:label="context"
+         id="text3468"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           y="26.115234"
+           x="15.006836"
+           sodipodi:role="line"
+           id="tspan3470">status</tspan></text>
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="126.48828"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         sodipodi:linespacing="125%"
+         inkscape:label="icon-name"
+         id="text3472"><tspan
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           y="26.115234"
+           x="126.48828"
+           sodipodi:role="line"
+           id="tspan3474">battery-caution-charging-symbolic</tspan></text>
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3476"
+         width="16"
+         height="16"
+         x="170"
+         y="195.99994"
+         inkscape:label="16x16" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3478"
+         width="24"
+         height="24"
+         x="170"
+         y="155.99994"
+         inkscape:label="24x24" />
+      <rect
+         inkscape:label="22x22"
+         y="156.99994"
+         x="171"
+         height="22"
+         width="22"
+         id="rect3480"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
        style="display:inline"
        inkscape:label="Symbols"
        id="g3840"
@@ -2330,7 +2880,7 @@
     <g
        inkscape:groupmode="layer"
        id="g3513"
-       inkscape:label="Baseplate"
+       inkscape:label="Baseplate battery-empty"
        style="display:none">
       <text
          id="text3515"
@@ -2383,6 +2933,61 @@
          inkscape:label="22x22" />
     </g>
     <g
+       style="display:none"
+       inkscape:label="Baseplate battery-empty-symbolic"
+       id="g3482"
+       inkscape:groupmode="layer">
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="15.006836"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:label="context"
+         id="text3484"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           y="26.115234"
+           x="15.006836"
+           sodipodi:role="line"
+           id="tspan3486">status</tspan></text>
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="126.48828"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         sodipodi:linespacing="125%"
+         inkscape:label="icon-name"
+         id="text3488"><tspan
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           y="26.115234"
+           x="126.48828"
+           sodipodi:role="line"
+           id="tspan3490">battery-empty-symbolic</tspan></text>
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3492"
+         width="16"
+         height="16"
+         x="170"
+         y="268"
+         inkscape:label="16x16" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3494"
+         width="24"
+         height="24"
+         x="170"
+         y="228"
+         inkscape:label="24x24" />
+      <rect
+         inkscape:label="22x22"
+         y="229"
+         x="171"
+         height="22"
+         width="22"
+         id="rect3496"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
        style="display:inline"
        inkscape:label="Symbols"
        id="g3529"
@@ -2408,7 +3013,7 @@
      id="g3850">
     <g
        style="display:none"
-       inkscape:label="Baseplate"
+       inkscape:label="Baseplate battery-empty-charging"
        id="g3852"
        inkscape:groupmode="layer">
       <text
@@ -2463,6 +3068,61 @@
     </g>
     <g
        inkscape:groupmode="layer"
+       id="g3498"
+       inkscape:label="Baseplate battery-empty-charging-symbolic"
+       style="display:none">
+      <text
+         id="text3500"
+         inkscape:label="context"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="15.006836"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan3502"
+           sodipodi:role="line"
+           x="15.006836"
+           y="26.115234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">status</tspan></text>
+      <text
+         id="text3504"
+         inkscape:label="icon-name"
+         sodipodi:linespacing="125%"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="126.48828"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan3506"
+           sodipodi:role="line"
+           x="126.48828"
+           y="26.115234"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">battery-empty-charging-symbolic</tspan></text>
+      <rect
+         inkscape:label="16x16"
+         y="195.99994"
+         x="200"
+         height="16"
+         width="16"
+         id="rect3508"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:label="24x24"
+         y="155.99994"
+         x="200"
+         height="24"
+         width="24"
+         id="rect3510"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3512"
+         width="22"
+         height="22"
+         x="201"
+         y="156.99994"
+         inkscape:label="22x22" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="g3868"
        inkscape:label="Symbols"
        style="display:inline">
@@ -2497,7 +3157,7 @@
      id="g3560">
     <g
        style="display:none"
-       inkscape:label="Baseplate"
+       inkscape:label="Baseplate battery-missing"
        id="g3562"
        inkscape:groupmode="layer">
       <text
@@ -2552,6 +3212,61 @@
     </g>
     <g
        inkscape:groupmode="layer"
+       id="g3514"
+       inkscape:label="Baseplate battery-missing-symbolic"
+       style="display:none">
+      <text
+         id="text3516"
+         inkscape:label="context"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="15.006836"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan3518"
+           sodipodi:role="line"
+           x="15.006836"
+           y="26.115234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">status</tspan></text>
+      <text
+         id="text3520"
+         inkscape:label="icon-name"
+         sodipodi:linespacing="125%"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="126.48828"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           sodipodi:role="line"
+           x="126.48828"
+           y="26.115234"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           id="tspan3530">battery-missing-symbolic</tspan></text>
+      <rect
+         inkscape:label="16x16"
+         y="268"
+         x="200"
+         height="16"
+         width="16"
+         id="rect3524"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:label="24x24"
+         y="228"
+         x="200"
+         height="24"
+         width="24"
+         id="rect3526"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3528"
+         width="22"
+         height="22"
+         x="201"
+         y="229"
+         inkscape:label="22x22" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="g3578"
        inkscape:label="Symbols"
        style="display:inline">
@@ -2593,6 +3308,2143 @@
          height="2"
          x="207"
          y="278.996" />
+    </g>
+  </g>
+  <g
+     id="g3424"
+     inkscape:label="Icon Mouse Battery Full"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="g3426"
+       inkscape:label="Baseplate gpm-mouse-100"
+       style="display:none">
+      <text
+         id="text3428"
+         inkscape:label="context"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="15.006836"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan3430"
+           sodipodi:role="line"
+           x="15.006836"
+           y="26.115234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">status</tspan></text>
+      <text
+         id="text3432"
+         inkscape:label="icon-name"
+         sodipodi:linespacing="125%"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="126.48828"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan3434"
+           sodipodi:role="line"
+           x="126.48828"
+           y="26.115234"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">gpm-mouse-100</tspan></text>
+      <rect
+         inkscape:label="16x16"
+         y="124"
+         x="20"
+         height="16"
+         width="16"
+         id="rect3436"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:label="24x24"
+         y="84"
+         x="20"
+         height="24"
+         width="24"
+         id="rect3438"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3440"
+         width="22"
+         height="22"
+         x="21"
+         y="85"
+         inkscape:label="22x22" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="Symbols"
+       id="g3442"
+       inkscape:groupmode="layer">
+      <g
+         id="g4280">
+        <path
+           id="rect3484"
+           d="m 20.5,125 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:connector-curvature="0" />
+        <rect
+           ry="0.5"
+           y="124"
+           x="22"
+           height="2"
+           width="3"
+           id="rect3486"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           y="127"
+           x="22"
+           height="11"
+           width="3"
+           id="rect3491"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           sodipodi:nodetypes="csssssccssccsccsscc"
+           inkscape:connector-curvature="0"
+           id="rect3493"
+           d="m 31,127.0625 c -1.976541,0.2462 -3,1.89215 -3,3.9375 l 0,3 c 0,2.216 1.284,4 3.5,4 2.216,0 3.5,-1.784 3.5,-4 l 0,-3 c 0,-2.04535 -1.023459,-3.6913 -3,-3.9375 l 0,1.09375 c 0.291991,0.17423 0.5,0.47765 0.5,0.84375 l 0,2 c 0,0.3661 -0.208009,0.66952 -0.5,0.84375 L 32,133 c 0.0037,0.26416 -0.235817,0.50712 -0.5,0.50712 -0.264183,0 -0.503736,-0.24296 -0.5,-0.50712 l 0,-1.15625 C 30.708009,131.66952 30.5,131.3661 30.5,131 l 0,-2 c 0,-0.3661 0.208009,-0.66952 0.5,-0.84375 z"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4278"
+           d="m 31.5,129 0,2"
+           style="fill:none;stroke:#dddddd;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <path
+         id="path4289"
+         d="M 22.5,89 C 22.223,89 22,89.223 22,89.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 C 29,89.223 28.777,89 28.5,89 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <rect
+         ry="0.5"
+         y="88"
+         x="24"
+         height="2"
+         width="3"
+         id="rect4291"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="91"
+         x="24"
+         height="11"
+         width="3"
+         id="rect4293"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect7175"
+         d="m 36.000015,88 c -2.76999,0 -5,2.676 -5,6 l 0,4 c 0,3.324 2.23001,6 5,6 l 1,0 c 2.76999,0 5,-2.676 5,-6 l 0,-4 c 0,-3.324 -2.23001,-6 -5,-6 l 0,2 c 0.554,0 1,0.446 1,1 l 0,2 c 0,0.554 -0.446,1 -1,1 l 0,1 c 0,0.27614 -0.22386,0.5 -0.5,0.5 -0.27614,0 -0.5,-0.22386 -0.5,-0.5 l 0,-1 c -0.554,0 -1,-0.446 -1,-1 l 0,-2 c 0,-0.554 0.446,-1 1,-1 l 0,-2 z"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:accumulate" />
+      <rect
+         ry="0.5"
+         y="91"
+         x="36"
+         height="2"
+         width="1"
+         id="rect7201"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:accumulate" />
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:groupmode="layer"
+     inkscape:label="Icon Mouse Battery 80%"
+     id="g4346">
+    <g
+       style="display:none"
+       inkscape:label="Baseplate gpm-mouse-80"
+       id="g4348"
+       inkscape:groupmode="layer">
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="15.006836"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:label="context"
+         id="text4350"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           y="26.115234"
+           x="15.006836"
+           sodipodi:role="line"
+           id="tspan4352">status</tspan></text>
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="126.48828"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         sodipodi:linespacing="125%"
+         inkscape:label="icon-name"
+         id="text4354"><tspan
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           y="26.115234"
+           x="126.48828"
+           sodipodi:role="line"
+           id="tspan4496">gpm-mouse-080</tspan></text>
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4358"
+         width="16"
+         height="16"
+         x="50"
+         y="124"
+         inkscape:label="16x16" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4360"
+         width="24"
+         height="24"
+         x="50"
+         y="84"
+         inkscape:label="24x24" />
+      <rect
+         inkscape:label="22x22"
+         y="85"
+         x="51"
+         height="22"
+         width="22"
+         id="rect4362"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g4364"
+       inkscape:label="Symbols"
+       style="display:inline">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4368"
+         d="m 50.5,125 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         ry="0.5"
+         y="124"
+         x="52"
+         height="2"
+         width="3"
+         id="rect4370"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="129"
+         x="52"
+         height="9"
+         width="3"
+         id="rect4372"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="csssssccssccsccsscc"
+         inkscape:connector-curvature="0"
+         id="path4374"
+         d="m 61,127.0625 c -1.976541,0.2462 -3,1.89215 -3,3.9375 l 0,3 c 0,2.216 1.284,4 3.5,4 2.216,0 3.5,-1.784 3.5,-4 l 0,-3 c 0,-2.04535 -1.023459,-3.6913 -3,-3.9375 l 0,1.09375 c 0.291991,0.17423 0.5,0.47765 0.5,0.84375 l 0,2 c 0,0.3661 -0.208009,0.66952 -0.5,0.84375 L 62,133 c 0.0037,0.26416 -0.235817,0.50712 -0.5,0.50712 -0.264183,0 -0.503736,-0.24296 -0.5,-0.50712 l 0,-1.15625 C 60.708009,131.66952 60.5,131.3661 60.5,131 l 0,-2 c 0,-0.3661 0.208009,-0.66952 0.5,-0.84375 z"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4376"
+         d="m 61.5,129 0,2"
+         style="fill:none;stroke:#dddddd;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M 52.5,89 C 52.223,89 52,89.223 52,89.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 C 59,89.223 58.777,89 58.5,89 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+         id="path4378" />
+      <rect
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4380"
+         width="3"
+         height="2"
+         x="54"
+         y="88"
+         ry="0.5" />
+      <rect
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4382"
+         width="3"
+         height="9"
+         x="54"
+         y="93" />
+      <path
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:accumulate"
+         d="m 66.000015,88 c -2.76999,0 -5,2.676 -5,6 l 0,4 c 0,3.324 2.23001,6 5,6 l 1,0 c 2.76999,0 5,-2.676 5,-6 l 0,-4 c 0,-3.324 -2.23001,-6 -5,-6 l 0,2 c 0.554,0 1,0.446 1,1 l 0,2 c 0,0.554 -0.446,1 -1,1 l 0,1 c 0,0.27614 -0.22386,0.5 -0.5,0.5 -0.27614,0 -0.5,-0.22386 -0.5,-0.5 l 0,-1 c -0.554,0 -1,-0.446 -1,-1 l 0,-2 c 0,-0.554 0.446,-1 1,-1 l 0,-2 z"
+         id="path4384"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:accumulate"
+         id="rect4386"
+         width="1"
+         height="2"
+         x="66"
+         y="91"
+         ry="0.5" />
+    </g>
+  </g>
+  <g
+     id="g4412"
+     inkscape:label="Icon Mouse Battery 60%"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="g4414"
+       inkscape:label="Baseplate gpm-mouse-60"
+       style="display:none">
+      <text
+         id="text4416"
+         inkscape:label="context"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="15.006836"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan4418"
+           sodipodi:role="line"
+           x="15.006836"
+           y="26.115234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">status</tspan></text>
+      <text
+         id="text4420"
+         inkscape:label="icon-name"
+         sodipodi:linespacing="125%"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="126.48828"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan4422"
+           sodipodi:role="line"
+           x="126.48828"
+           y="26.115234"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">gpm-mouse-060</tspan></text>
+      <rect
+         inkscape:label="16x16"
+         y="124"
+         x="80"
+         height="16"
+         width="16"
+         id="rect4424"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:label="24x24"
+         y="84"
+         x="80"
+         height="24"
+         width="24"
+         id="rect4426"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4428"
+         width="22"
+         height="22"
+         x="81"
+         y="85"
+         inkscape:label="22x22" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="Symbols"
+       id="g4430"
+       inkscape:groupmode="layer">
+      <g
+         transform="translate(60,0)"
+         id="g4432">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4434"
+           d="m 20.5,125 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           ry="0.5"
+           y="124"
+           x="22"
+           height="2"
+           width="3"
+           id="rect4436"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           y="131"
+           x="22"
+           height="7"
+           width="3"
+           id="rect4438"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           sodipodi:nodetypes="csssssccssccsccsscc"
+           inkscape:connector-curvature="0"
+           id="path4440"
+           d="m 31,127.0625 c -1.976541,0.2462 -3,1.89215 -3,3.9375 l 0,3 c 0,2.216 1.284,4 3.5,4 2.216,0 3.5,-1.784 3.5,-4 l 0,-3 c 0,-2.04535 -1.023459,-3.6913 -3,-3.9375 l 0,1.09375 c 0.291991,0.17423 0.5,0.47765 0.5,0.84375 l 0,2 c 0,0.3661 -0.208009,0.66952 -0.5,0.84375 L 32,133 c 0.0037,0.26416 -0.235817,0.50712 -0.5,0.50712 -0.264183,0 -0.503736,-0.24296 -0.5,-0.50712 l 0,-1.15625 C 30.708009,131.66952 30.5,131.3661 30.5,131 l 0,-2 c 0,-0.3661 0.208009,-0.66952 0.5,-0.84375 z"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4442"
+           d="m 31.5,129 0,2"
+           style="fill:none;stroke:#dddddd;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <path
+         id="path4444"
+         d="M 82.5,89 C 82.223,89 82,89.223 82,89.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 C 89,89.223 88.777,89 88.5,89 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <rect
+         ry="0.5"
+         y="88"
+         x="84"
+         height="2"
+         width="3"
+         id="rect4446"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="95"
+         x="84"
+         height="7"
+         width="3"
+         id="rect4448"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4450"
+         d="m 96.000015,88 c -2.76999,0 -5,2.676 -5,6 l 0,4 c 0,3.324 2.23001,6 5,6 l 1,0 c 2.76999,0 5.000005,-2.676 5.000005,-6 l 0,-4 c 0,-3.324 -2.230015,-6 -5.000005,-6 l 0,2 c 0.554,0 1,0.446 1,1 l 0,2 c 0,0.554 -0.446,1 -1,1 l 0,1 c 0,0.27614 -0.22386,0.5 -0.5,0.5 -0.27614,0 -0.5,-0.22386 -0.5,-0.5 l 0,-1 c -0.554,0 -1,-0.446 -1,-1 l 0,-2 c 0,-0.554 0.446,-1 1,-1 l 0,-2 z"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:accumulate" />
+      <rect
+         ry="0.5"
+         y="91"
+         x="96"
+         height="2"
+         width="1"
+         id="rect4452"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:accumulate" />
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:groupmode="layer"
+     inkscape:label="Icon Mouse Battery 40%"
+     id="g4454">
+    <g
+       style="display:none"
+       inkscape:label="Baseplate gpm-mouse-040"
+       id="g4456"
+       inkscape:groupmode="layer">
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="15.006836"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:label="context"
+         id="text4458"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           y="26.115234"
+           x="15.006836"
+           sodipodi:role="line"
+           id="tspan4460">status</tspan></text>
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="126.48828"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         sodipodi:linespacing="125%"
+         inkscape:label="icon-name"
+         id="text4462"><tspan
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           y="26.115234"
+           x="126.48828"
+           sodipodi:role="line"
+           id="tspan4464">gpm-mouse-040</tspan></text>
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4466"
+         width="16"
+         height="16"
+         x="110"
+         y="124"
+         inkscape:label="16x16" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4468"
+         width="24"
+         height="24"
+         x="110"
+         y="84"
+         inkscape:label="24x24" />
+      <rect
+         inkscape:label="22x22"
+         y="85"
+         x="111"
+         height="22"
+         width="22"
+         id="rect4470"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g4472"
+       inkscape:label="Symbols"
+       style="display:inline">
+      <g
+         id="g4474"
+         transform="translate(90,0)">
+        <path
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 20.5,125 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+           id="path4476"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4478"
+           width="3"
+           height="2"
+           x="22"
+           y="124"
+           ry="0.5" />
+        <rect
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4480"
+           width="3"
+           height="5"
+           x="22"
+           y="133" />
+        <path
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 31,127.0625 c -1.976541,0.2462 -3,1.89215 -3,3.9375 l 0,3 c 0,2.216 1.284,4 3.5,4 2.216,0 3.5,-1.784 3.5,-4 l 0,-3 c 0,-2.04535 -1.023459,-3.6913 -3,-3.9375 l 0,1.09375 c 0.291991,0.17423 0.5,0.47765 0.5,0.84375 l 0,2 c 0,0.3661 -0.208009,0.66952 -0.5,0.84375 L 32,133 c 0.0037,0.26416 -0.235817,0.50712 -0.5,0.50712 -0.264183,0 -0.503736,-0.24296 -0.5,-0.50712 l 0,-1.15625 C 30.708009,131.66952 30.5,131.3661 30.5,131 l 0,-2 c 0,-0.3661 0.208009,-0.66952 0.5,-0.84375 z"
+           id="path4482"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csssssccssccsccsscc" />
+        <path
+           style="fill:none;stroke:#dddddd;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 31.5,129 0,2"
+           id="path4484"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 112.5,89 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+         id="path4486" />
+      <rect
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4488"
+         width="3"
+         height="2"
+         x="114"
+         y="88"
+         ry="0.5" />
+      <rect
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4490"
+         width="3"
+         height="5"
+         x="114"
+         y="97" />
+      <path
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:accumulate"
+         d="m 126.00002,88 c -2.76999,0 -5,2.676 -5,6 l 0,4 c 0,3.324 2.23001,6 5,6 l 1,0 c 2.76998,0 5,-2.676 5,-6 l 0,-4 c 0,-3.324 -2.23001,-6 -5,-6 l 0,2 c 0.554,0 1,0.446 1,1 l 0,2 c 0,0.554 -0.446,1 -1,1 l 0,1 c 0,0.27614 -0.22386,0.5 -0.5,0.5 -0.27614,0 -0.5,-0.22386 -0.5,-0.5 l 0,-1 c -0.554,0 -1,-0.446 -1,-1 l 0,-2 c 0,-0.554 0.446,-1 1,-1 l 0,-2 z"
+         id="path4492"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:accumulate"
+         id="rect4494"
+         width="1"
+         height="2"
+         x="126"
+         y="91"
+         ry="0.5" />
+    </g>
+  </g>
+  <g
+     id="g4505"
+     inkscape:label="Icon Mouse Battery 20%"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="g4507"
+       inkscape:label="Baseplate gpm-mouse-020"
+       style="display:none">
+      <text
+         id="text4509"
+         inkscape:label="context"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="15.006836"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan4511"
+           sodipodi:role="line"
+           x="15.006836"
+           y="26.115234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">status</tspan></text>
+      <text
+         id="text4513"
+         inkscape:label="icon-name"
+         sodipodi:linespacing="125%"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="126.48828"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan4515"
+           sodipodi:role="line"
+           x="126.48828"
+           y="26.115234"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">gpm-mouse-020</tspan></text>
+      <rect
+         inkscape:label="16x16"
+         y="124"
+         x="140"
+         height="16"
+         width="16"
+         id="rect4517"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:label="24x24"
+         y="84"
+         x="140"
+         height="24"
+         width="24"
+         id="rect4519"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4521"
+         width="22"
+         height="22"
+         x="141"
+         y="85"
+         inkscape:label="22x22" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="Symbols"
+       id="g4523"
+       inkscape:groupmode="layer">
+      <g
+         transform="translate(120,0)"
+         id="g4525">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4527"
+           d="m 20.5,125 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           ry="0.5"
+           y="124"
+           x="22"
+           height="2"
+           width="3"
+           id="rect4529"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           y="135"
+           x="22"
+           height="3"
+           width="3"
+           id="rect4531"
+           style="color:#bebebe;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           sodipodi:nodetypes="csssssccssccsccsscc"
+           inkscape:connector-curvature="0"
+           id="path4533"
+           d="m 31,127.0625 c -1.976541,0.2462 -3,1.89215 -3,3.9375 l 0,3 c 0,2.216 1.284,4 3.5,4 2.216,0 3.5,-1.784 3.5,-4 l 0,-3 c 0,-2.04535 -1.023459,-3.6913 -3,-3.9375 l 0,1.09375 c 0.291991,0.17423 0.5,0.47765 0.5,0.84375 l 0,2 c 0,0.3661 -0.208009,0.66952 -0.5,0.84375 L 32,133 c 0.0037,0.26416 -0.235817,0.50712 -0.5,0.50712 -0.264183,0 -0.503736,-0.24296 -0.5,-0.50712 l 0,-1.15625 C 30.708009,131.66952 30.5,131.3661 30.5,131 l 0,-2 c 0,-0.3661 0.208009,-0.66952 0.5,-0.84375 z"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4535"
+           d="m 31.5,129 0,2"
+           style="fill:none;stroke:#dddddd;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <path
+         id="path4537"
+         d="m 142.5,89 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <rect
+         ry="0.5"
+         y="88"
+         x="144"
+         height="2"
+         width="3"
+         id="rect4539"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="99"
+         x="144"
+         height="3"
+         width="3"
+         id="rect4541"
+         style="color:#bebebe;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4543"
+         d="m 156.00002,88 c -2.76999,0 -5,2.676 -5,6 l 0,4 c 0,3.324 2.23001,6 5,6 l 1,0 c 2.76998,0 5,-2.676 5,-6 l 0,-4 c 0,-3.324 -2.23001,-6 -5,-6 l 0,2 c 0.554,0 1,0.446 1,1 l 0,2 c 0,0.554 -0.446,1 -1,1 l 0,1 c 0,0.27614 -0.22386,0.5 -0.5,0.5 -0.27614,0 -0.5,-0.22386 -0.5,-0.5 l 0,-1 c -0.554,0 -1,-0.446 -1,-1 l 0,-2 c 0,-0.554 0.446,-1 1,-1 l 0,-2 z"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:accumulate" />
+      <rect
+         ry="0.5"
+         y="91"
+         x="156"
+         height="2"
+         width="1"
+         id="rect4545"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:accumulate" />
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:groupmode="layer"
+     inkscape:label="Icon Mouse Battery Empty"
+     id="g4547">
+    <g
+       style="display:none"
+       inkscape:label="Baseplate gpm-mouse-000"
+       id="g4549"
+       inkscape:groupmode="layer">
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="15.006836"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:label="context"
+         id="text4551"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           y="26.115234"
+           x="15.006836"
+           sodipodi:role="line"
+           id="tspan4553">status</tspan></text>
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="126.48828"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         sodipodi:linespacing="125%"
+         inkscape:label="icon-name"
+         id="text4555"><tspan
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           y="26.115234"
+           x="126.48828"
+           sodipodi:role="line"
+           id="tspan4557">gpm-mouse-000</tspan></text>
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4559"
+         width="16"
+         height="16"
+         x="170"
+         y="124"
+         inkscape:label="16x16" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4562"
+         width="24"
+         height="24"
+         x="170"
+         y="84"
+         inkscape:label="24x24" />
+      <rect
+         inkscape:label="22x22"
+         y="85"
+         x="171"
+         height="22"
+         width="22"
+         id="rect4564"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g4566"
+       inkscape:label="Symbols"
+       style="display:inline">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4570"
+         d="m 170.5,125 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+         style="color:#bebebe;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         ry="0.5"
+         y="124"
+         x="172"
+         height="2"
+         width="3"
+         id="rect4572"
+         style="color:#bebebe;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="csssssccssccsccsscc"
+         inkscape:connector-curvature="0"
+         id="path4576"
+         d="m 181,127.0625 c -1.97654,0.2462 -3,1.89215 -3,3.9375 l 0,3 c 0,2.216 1.284,4 3.5,4 2.216,0 3.5,-1.784 3.5,-4 l 0,-3 c 0,-2.04535 -1.02346,-3.6913 -3,-3.9375 l 0,1.09375 c 0.29199,0.17423 0.5,0.47765 0.5,0.84375 l 0,2 c 0,0.3661 -0.20801,0.66952 -0.5,0.84375 L 182,133 c 0.004,0.26416 -0.23582,0.50712 -0.5,0.50712 -0.26418,0 -0.50374,-0.24296 -0.5,-0.50712 l 0,-1.15625 C 180.70801,131.66952 180.5,131.3661 180.5,131 l 0,-2 c 0,-0.3661 0.20801,-0.66952 0.5,-0.84375 z"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4578"
+         d="m 181.5,129 0,2"
+         style="fill:none;stroke:#dddddd;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#bebebe;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 172.5,89 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+         id="path4580" />
+      <rect
+         style="color:#bebebe;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4582"
+         width="3"
+         height="2"
+         x="174"
+         y="88"
+         ry="0.5" />
+      <path
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:accumulate"
+         d="m 186.00002,88 c -2.76999,0 -5,2.676 -5,6 l 0,4 c 0,3.324 2.23001,6 5,6 l 1,0 c 2.76998,0 5,-2.676 5,-6 l 0,-4 c 0,-3.324 -2.23001,-6 -5,-6 l 0,2 c 0.554,0 1,0.446 1,1 l 0,2 c 0,0.554 -0.446,1 -1,1 l 0,1 c 0,0.27614 -0.22386,0.5 -0.5,0.5 -0.27614,0 -0.5,-0.22386 -0.5,-0.5 l 0,-1 c -0.554,0 -1,-0.446 -1,-1 l 0,-2 c 0,-0.554 0.446,-1 1,-1 l 0,-2 z"
+         id="path4586"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:accumulate"
+         id="rect4588"
+         width="1"
+         height="2"
+         x="186"
+         y="91"
+         ry="0.5" />
+    </g>
+  </g>
+  <g
+     id="g4594"
+     inkscape:label="Icon Keyboard Battery Full"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="g4596"
+       inkscape:label="Baseplate gpm-keyboard-100"
+       style="display:none">
+      <text
+         id="text4598"
+         inkscape:label="context"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="15.006836"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan4600"
+           sodipodi:role="line"
+           x="15.006836"
+           y="26.115234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">status</tspan></text>
+      <text
+         id="text4602"
+         inkscape:label="icon-name"
+         sodipodi:linespacing="125%"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="126.48828"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan4604"
+           sodipodi:role="line"
+           x="126.48828"
+           y="26.115234"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">gpm-keyboard-100</tspan></text>
+      <rect
+         inkscape:label="16x16"
+         y="124"
+         x="200"
+         height="16"
+         width="16"
+         id="rect4606"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:label="24x24"
+         y="84"
+         x="200"
+         height="24"
+         width="24"
+         id="rect4608"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4610"
+         width="22"
+         height="22"
+         x="201"
+         y="85"
+         inkscape:label="22x22" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="Symbols"
+       id="g4612"
+       inkscape:groupmode="layer">
+      <g
+         id="g4661">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4614"
+           d="m 200.5,125 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           ry="0.5"
+           y="124"
+           x="202"
+           height="2"
+           width="3"
+           id="rect4616"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           sodipodi:nodetypes="cssccscsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="rect4890-1"
+           d="M 208.84375,124 C 208.5625,124.04688 208,124.25 208,125 l 0,14 c 0,1 1,1 1,1 l 5,0 c 0,0 1,0 1,-1 l 0,-14 c 0,0 0,-1 -1,-1 l -5,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 2.15625,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,5 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;stroke:none;display:inline;filter:url(#filter7554);enable-background:new" />
+        <rect
+           y="127"
+           x="202"
+           height="11"
+           width="3"
+           id="rect4641"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+      <g
+         transform="translate(4,-36)"
+         style="display:inline;enable-background:new"
+         id="g4667">
+        <path
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 200.5,125 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+           id="path4669"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4671"
+           width="3"
+           height="2"
+           x="202"
+           y="124"
+           ry="0.5" />
+        <path
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;stroke:none;display:inline;filter:url(#filter7554);enable-background:new"
+           d="M 208.84375,124 C 208.5625,124.04688 208,124.25 208,125 l 0,14 c 0,1 1,1 1,1 l 5,0 c 0,0 1,0 1,-1 l 0,-14 c 0,0 0,-1 -1,-1 l -5,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 2.15625,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,5 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z"
+           id="path4673"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cssccscsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+        <rect
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4675"
+           width="3"
+           height="11"
+           x="202"
+           y="127" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:groupmode="layer"
+     inkscape:label="Icon Keyboard Battery 80%"
+     id="g4707">
+    <g
+       style="display:none"
+       inkscape:label="Baseplate gpm-keyboard-080"
+       id="g4709"
+       inkscape:groupmode="layer">
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="15.006836"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:label="context"
+         id="text4711"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           y="26.115234"
+           x="15.006836"
+           sodipodi:role="line"
+           id="tspan4713">status</tspan></text>
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="126.48828"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         sodipodi:linespacing="125%"
+         inkscape:label="icon-name"
+         id="text4715"><tspan
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           y="26.115234"
+           x="126.48828"
+           sodipodi:role="line"
+           id="tspan4717">gpm-keyboard-080</tspan></text>
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4719"
+         width="16"
+         height="16"
+         x="230"
+         y="124"
+         inkscape:label="16x16" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4721"
+         width="24"
+         height="24"
+         x="230"
+         y="84"
+         inkscape:label="24x24" />
+      <rect
+         inkscape:label="22x22"
+         y="85"
+         x="231"
+         height="22"
+         width="22"
+         id="rect4723"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g4725"
+       inkscape:label="Symbols"
+       style="display:inline">
+      <g
+         id="g4727"
+         transform="translate(30,0)">
+        <path
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 200.5,125 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+           id="path4729"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4731"
+           width="3"
+           height="2"
+           x="202"
+           y="124"
+           ry="0.5" />
+        <path
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;stroke:none;display:inline;filter:url(#filter7554);enable-background:new"
+           d="M 208.84375,124 C 208.5625,124.04688 208,124.25 208,125 l 0,14 c 0,1 1,1 1,1 l 5,0 c 0,0 1,0 1,-1 l 0,-14 c 0,0 0,-1 -1,-1 l -5,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 2.15625,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,5 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z"
+           id="path4733"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cssccscsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+        <rect
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4735"
+           width="3"
+           height="9"
+           x="202"
+           y="129" />
+      </g>
+      <g
+         id="g4737"
+         style="display:inline;enable-background:new"
+         transform="translate(34,-36)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4739"
+           d="m 200.5,125 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           ry="0.5"
+           y="124"
+           x="202"
+           height="2"
+           width="3"
+           id="rect4741"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           sodipodi:nodetypes="cssccscsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path4743"
+           d="M 208.84375,124 C 208.5625,124.04688 208,124.25 208,125 l 0,14 c 0,1 1,1 1,1 l 5,0 c 0,0 1,0 1,-1 l 0,-14 c 0,0 0,-1 -1,-1 l -5,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 2.15625,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,5 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;stroke:none;display:inline;filter:url(#filter7554);enable-background:new" />
+        <rect
+           y="129"
+           x="202"
+           height="9"
+           width="3"
+           id="rect4745"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g4747"
+     inkscape:label="Icon Keyboard Battery 60%"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="g4749"
+       inkscape:label="Baseplate gpm-keyboard-060"
+       style="display:none">
+      <text
+         id="text4751"
+         inkscape:label="context"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="15.006836"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan4753"
+           sodipodi:role="line"
+           x="15.006836"
+           y="26.115234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">status</tspan></text>
+      <text
+         id="text4755"
+         inkscape:label="icon-name"
+         sodipodi:linespacing="125%"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="126.48828"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan4757"
+           sodipodi:role="line"
+           x="126.48828"
+           y="26.115234"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">gpm-keyboard-060</tspan></text>
+      <rect
+         inkscape:label="16x16"
+         y="124"
+         x="260"
+         height="16"
+         width="16"
+         id="rect4759"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:label="24x24"
+         y="84"
+         x="260"
+         height="24"
+         width="24"
+         id="rect4761"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4763"
+         width="22"
+         height="22"
+         x="261"
+         y="85"
+         inkscape:label="22x22" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="Symbols"
+       id="g4765"
+       inkscape:groupmode="layer">
+      <g
+         transform="translate(60,0)"
+         id="g4767">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4769"
+           d="m 200.5,125 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           ry="0.5"
+           y="124"
+           x="202"
+           height="2"
+           width="3"
+           id="rect4771"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           sodipodi:nodetypes="cssccscsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path4773"
+           d="M 208.84375,124 C 208.5625,124.04688 208,124.25 208,125 l 0,14 c 0,1 1,1 1,1 l 5,0 c 0,0 1,0 1,-1 l 0,-14 c 0,0 0,-1 -1,-1 l -5,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 2.15625,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,5 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;stroke:none;display:inline;filter:url(#filter7554);enable-background:new" />
+        <rect
+           y="131"
+           x="202"
+           height="7"
+           width="3"
+           id="rect4775"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+      <g
+         transform="translate(64,-36)"
+         style="display:inline;enable-background:new"
+         id="g4777">
+        <path
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 200.5,125 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+           id="path4779"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4781"
+           width="3"
+           height="2"
+           x="202"
+           y="124"
+           ry="0.5" />
+        <path
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;stroke:none;display:inline;filter:url(#filter7554);enable-background:new"
+           d="M 208.84375,124 C 208.5625,124.04688 208,124.25 208,125 l 0,14 c 0,1 1,1 1,1 l 5,0 c 0,0 1,0 1,-1 l 0,-14 c 0,0 0,-1 -1,-1 l -5,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 2.15625,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,5 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z"
+           id="path4783"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cssccscsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+        <rect
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4785"
+           width="3"
+           height="7"
+           x="202"
+           y="131" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:groupmode="layer"
+     inkscape:label="Icon Keyboard Battery 40%"
+     id="g4787">
+    <g
+       style="display:none"
+       inkscape:label="Baseplate gpm-keyboard-040"
+       id="g4789"
+       inkscape:groupmode="layer">
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="15.006836"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:label="context"
+         id="text4791"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           y="26.115234"
+           x="15.006836"
+           sodipodi:role="line"
+           id="tspan4793">status</tspan></text>
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="126.48828"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         sodipodi:linespacing="125%"
+         inkscape:label="icon-name"
+         id="text4795"><tspan
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           y="26.115234"
+           x="126.48828"
+           sodipodi:role="line"
+           id="tspan4797">gpm-keyboard-040</tspan></text>
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4799"
+         width="16"
+         height="16"
+         x="290"
+         y="124"
+         inkscape:label="16x16" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4801"
+         width="24"
+         height="24"
+         x="290"
+         y="84"
+         inkscape:label="24x24" />
+      <rect
+         inkscape:label="22x22"
+         y="85"
+         x="291"
+         height="22"
+         width="22"
+         id="rect4803"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g4805"
+       inkscape:label="Symbols"
+       style="display:inline">
+      <g
+         id="g4807"
+         transform="translate(90,0)">
+        <path
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 200.5,125 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+           id="path4809"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4811"
+           width="3"
+           height="2"
+           x="202"
+           y="124"
+           ry="0.5" />
+        <path
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;stroke:none;display:inline;filter:url(#filter7554);enable-background:new"
+           d="M 208.84375,124 C 208.5625,124.04688 208,124.25 208,125 l 0,14 c 0,1 1,1 1,1 l 5,0 c 0,0 1,0 1,-1 l 0,-14 c 0,0 0,-1 -1,-1 l -5,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 2.15625,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,5 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z"
+           id="path4813"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cssccscsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+        <rect
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4815"
+           width="3"
+           height="5"
+           x="202"
+           y="133" />
+      </g>
+      <g
+         id="g4817"
+         style="display:inline;enable-background:new"
+         transform="translate(94,-36)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4819"
+           d="m 200.5,125 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           ry="0.5"
+           y="124"
+           x="202"
+           height="2"
+           width="3"
+           id="rect4821"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           sodipodi:nodetypes="cssccscsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path4823"
+           d="M 208.84375,124 C 208.5625,124.04688 208,124.25 208,125 l 0,14 c 0,1 1,1 1,1 l 5,0 c 0,0 1,0 1,-1 l 0,-14 c 0,0 0,-1 -1,-1 l -5,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 2.15625,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,5 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;stroke:none;display:inline;filter:url(#filter7554);enable-background:new" />
+        <rect
+           y="133"
+           x="202"
+           height="5"
+           width="3"
+           id="rect4825"
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g4827"
+     inkscape:label="Icon Keyboard Battery 20%"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="g4829"
+       inkscape:label="Baseplate gpm-keyboard-020"
+       style="display:none">
+      <text
+         id="text4831"
+         inkscape:label="context"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="15.006836"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan4833"
+           sodipodi:role="line"
+           x="15.006836"
+           y="26.115234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">status</tspan></text>
+      <text
+         id="text4835"
+         inkscape:label="icon-name"
+         sodipodi:linespacing="125%"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="126.48828"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan4837"
+           sodipodi:role="line"
+           x="126.48828"
+           y="26.115234"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">gpm-keyboard-020</tspan></text>
+      <rect
+         inkscape:label="16x16"
+         y="124"
+         x="320"
+         height="16"
+         width="16"
+         id="rect4839"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:label="24x24"
+         y="84"
+         x="320"
+         height="24"
+         width="24"
+         id="rect4841"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4843"
+         width="22"
+         height="22"
+         x="321"
+         y="85"
+         inkscape:label="22x22" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="Symbols"
+       id="g4845"
+       inkscape:groupmode="layer">
+      <path
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 320.5,125 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+         id="path4849"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4851"
+         width="3"
+         height="2"
+         x="322"
+         y="124"
+         ry="0.5" />
+      <path
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;stroke:none;display:inline;filter:url(#filter7554);enable-background:new"
+         d="M 328.84375,124 C 328.5625,124.04688 328,124.25 328,125 l 0,14 c 0,1 1,1 1,1 l 5,0 c 0,0 1,0 1,-1 l 0,-14 c 0,0 0,-1 -1,-1 l -5,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 2.15625,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,5 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z"
+         id="path4853"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssccscsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      <rect
+         style="color:#bebebe;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4855"
+         width="3"
+         height="3"
+         x="322"
+         y="135" />
+      <g
+         transform="translate(124,-36)"
+         style="display:inline;enable-background:new"
+         id="g4857">
+        <path
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 200.5,125 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+           id="path4859"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4861"
+           width="3"
+           height="2"
+           x="202"
+           y="124"
+           ry="0.5" />
+        <path
+           style="color:#bebebe;fill:#dddddd;fill-opacity:1;stroke:none;display:inline;filter:url(#filter7554);enable-background:new"
+           d="M 208.84375,124 C 208.5625,124.04688 208,124.25 208,125 l 0,14 c 0,1 1,1 1,1 l 5,0 c 0,0 1,0 1,-1 l 0,-14 c 0,0 0,-1 -1,-1 l -5,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 2.15625,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,5 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z"
+           id="path4863"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cssccscsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+        <rect
+           style="color:#bebebe;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4865"
+           width="3"
+           height="3"
+           x="202"
+           y="135" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:groupmode="layer"
+     inkscape:label="Icon Keyboard Battery Empty"
+     id="g4867">
+    <g
+       style="display:none"
+       inkscape:label="Baseplate gpm-keyboard-000"
+       id="g4869"
+       inkscape:groupmode="layer">
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="15.006836"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:label="context"
+         id="text4871"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           y="26.115234"
+           x="15.006836"
+           sodipodi:role="line"
+           id="tspan4873">status</tspan></text>
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="126.48828"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         sodipodi:linespacing="125%"
+         inkscape:label="icon-name"
+         id="text4875"><tspan
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           y="26.115234"
+           x="126.48828"
+           sodipodi:role="line"
+           id="tspan4877">gpm-keyboard-000</tspan></text>
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4879"
+         width="16"
+         height="16"
+         x="350"
+         y="124"
+         inkscape:label="16x16" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4881"
+         width="24"
+         height="24"
+         x="350"
+         y="84"
+         inkscape:label="24x24" />
+      <rect
+         inkscape:label="22x22"
+         y="85"
+         x="351"
+         height="22"
+         width="22"
+         id="rect4883"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g4885"
+       inkscape:label="Symbols"
+       style="display:inline">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4889"
+         d="m 350.5,125 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+         style="color:#bebebe;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         ry="0.5"
+         y="124"
+         x="352"
+         height="2"
+         width="3"
+         id="rect4891"
+         style="color:#bebebe;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cssccscsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4893"
+         d="M 358.84375,124 C 358.5625,124.04688 358,124.25 358,125 l 0,14 c 0,1 1,1 1,1 l 5,0 c 0,0 1,0 1,-1 l 0,-14 c 0,0 0,-1 -1,-1 l -5,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 2.15625,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,5 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;stroke:none;display:inline;filter:url(#filter7554);enable-background:new" />
+      <path
+         style="color:#bebebe;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 354.5,89 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -6,0 z m 0.5,1 5,0 0,13 -5,0 0,-13 z"
+         id="path4899"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="color:#bebebe;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4901"
+         width="3"
+         height="2"
+         x="356"
+         y="88"
+         ry="0.5" />
+      <path
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;stroke:none;display:inline;filter:url(#filter7554);enable-background:new"
+         d="M 362.84375,88 C 362.5625,88.04688 362,88.25 362,89 l 0,14 c 0,1 1,1 1,1 l 5,0 c 0,0 1,0 1,-1 l 0,-14 c 0,0 0,-1 -1,-1 l -5,0 c 0,0 -0.0625,-0.0156 -0.15625,0 z M 365,89 l 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,5 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m -2,1 1,0 0,1 -1,0 z m 4,0 1,0 0,1 -1,0 z"
+         id="path4903"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssccscsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    </g>
+  </g>
+  <g
+     id="g4924"
+     inkscape:label="Icon Phone Battery Full"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="g4926"
+       inkscape:label="Baseplate gpm-phone-100"
+       style="display:none">
+      <text
+         id="text4928"
+         inkscape:label="context"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="15.006836"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan4930"
+           sodipodi:role="line"
+           x="15.006836"
+           y="26.115234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">status</tspan></text>
+      <text
+         id="text4932"
+         inkscape:label="icon-name"
+         sodipodi:linespacing="125%"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="126.48828"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan4934"
+           sodipodi:role="line"
+           x="126.48828"
+           y="26.115234"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">gpm-phone-100</tspan></text>
+      <rect
+         inkscape:label="16x16"
+         y="124"
+         x="380"
+         height="16"
+         width="16"
+         id="rect4936"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:label="24x24"
+         y="84"
+         x="380"
+         height="24"
+         width="24"
+         id="rect4938"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4940"
+         width="22"
+         height="22"
+         x="381"
+         y="85"
+         inkscape:label="22x22" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="Symbols"
+       id="g4942"
+       inkscape:groupmode="layer">
+      <path
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 382.5,124 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,0.5 -1.5,0 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -2,0 z m -1.5,2 1.5,0 2,0 1.5,0 0,13 -5,0 0,-13 z"
+         id="path4944"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 386.5,88 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,0.5 -1.5,0 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -2,0 z m -1.5,2 1.5,0 2,0 1.5,0 0,13 -5,0 0,-13 z"
+         id="path4950"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ssssssssscccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect5875"
+         d="m 393,89 c -0.554,0 -1,0.446 -1,1 l 0,12 c 0,0.554 0.446,1 1,1 l 6,0 c 0.554,0 1,-0.446 1,-1 l 0,-12 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 6,0 0,7 -6,0 z m 1,8 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,1 -1,0 0,1 1,0 0,1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 1,0 0,-1 -1,0 0,-1 1,0 z m 0,1 0,1 1,0 0,-1 z m 1,1 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z"
+         style="color:#000000;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:new" />
+      <path
+         sodipodi:nodetypes="ssssssssscccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect5875-8"
+         d="m 389,125 c -0.554,0 -1,0.446 -1,1 l 0,12 c 0,0.554 0.446,1 1,1 l 6,0 c 0.554,0 1,-0.446 1,-1 l 0,-12 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 6,0 0,7 -6,0 z m 1,8 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,1 -1,0 0,1 1,0 0,1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 1,0 0,-1 -1,0 0,-1 1,0 z m 0,1 0,1 1,0 0,-1 z m 1,1 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z"
+         style="color:#000000;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:new" />
+      <rect
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4996"
+         width="3"
+         height="11"
+         x="382"
+         y="127" />
+      <rect
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4998"
+         width="3"
+         height="11"
+         x="386"
+         y="91" />
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:groupmode="layer"
+     inkscape:label="Icon Phone Battery 80%"
+     id="g5000">
+    <g
+       style="display:none"
+       inkscape:label="Baseplate gpm-phone-080"
+       id="g5002"
+       inkscape:groupmode="layer">
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="15.006836"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:label="context"
+         id="text5004"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           y="26.115234"
+           x="15.006836"
+           sodipodi:role="line"
+           id="tspan5006">status</tspan></text>
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="126.48828"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         sodipodi:linespacing="125%"
+         inkscape:label="icon-name"
+         id="text5008"><tspan
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           y="26.115234"
+           x="126.48828"
+           sodipodi:role="line"
+           id="tspan5160">gpm-phone-080</tspan></text>
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5012"
+         width="16"
+         height="16"
+         x="410"
+         y="124"
+         inkscape:label="16x16" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5014"
+         width="24"
+         height="24"
+         x="410"
+         y="84"
+         inkscape:label="24x24" />
+      <rect
+         inkscape:label="22x22"
+         y="85"
+         x="411"
+         height="22"
+         width="22"
+         id="rect5016"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g5018"
+       inkscape:label="Symbols"
+       style="display:inline">
+      <path
+         id="path5020"
+         d="m 412.5,124 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,0.5 -1.5,0 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -2,0 z m -1.5,2 1.5,0 2,0 1.5,0 0,13 -5,0 0,-13 z"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5022"
+         d="m 416.5,88 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,0.5 -1.5,0 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -2,0 z m -1.5,2 1.5,0 2,0 1.5,0 0,13 -5,0 0,-13 z"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:new"
+         d="m 423,89 c -0.554,0 -1,0.446 -1,1 l 0,12 c 0,0.554 0.446,1 1,1 l 6,0 c 0.554,0 1,-0.446 1,-1 l 0,-12 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 6,0 0,7 -6,0 z m 1,8 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,1 -1,0 0,1 1,0 0,1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 1,0 0,-1 -1,0 0,-1 1,0 z m 0,1 0,1 1,0 0,-1 z m 1,1 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z"
+         id="path5024"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssssssscccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      <path
+         style="color:#000000;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:new"
+         d="m 419,125 c -0.554,0 -1,0.446 -1,1 l 0,12 c 0,0.554 0.446,1 1,1 l 6,0 c 0.554,0 1,-0.446 1,-1 l 0,-12 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 6,0 0,7 -6,0 z m 1,8 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,1 -1,0 0,1 1,0 0,1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 1,0 0,-1 -1,0 0,-1 1,0 z m 0,1 0,1 1,0 0,-1 z m 1,1 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z"
+         id="path5026"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssssssscccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      <rect
+         y="129"
+         x="412"
+         height="9"
+         width="3"
+         id="rect5028"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="93"
+         x="416"
+         height="9"
+         width="3"
+         id="rect5030"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+  </g>
+  <g
+     id="g5032"
+     inkscape:label="Icon Phone Battery 60%"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="g5034"
+       inkscape:label="Baseplate gpm-phone-060"
+       style="display:none">
+      <text
+         id="text5036"
+         inkscape:label="context"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="15.006836"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan5038"
+           sodipodi:role="line"
+           x="15.006836"
+           y="26.115234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">status</tspan></text>
+      <text
+         id="text5040"
+         inkscape:label="icon-name"
+         sodipodi:linespacing="125%"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="126.48828"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan5042"
+           sodipodi:role="line"
+           x="126.48828"
+           y="26.115234"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">gpm-phone-060</tspan></text>
+      <rect
+         inkscape:label="16x16"
+         y="124"
+         x="440"
+         height="16"
+         width="16"
+         id="rect5044"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:label="24x24"
+         y="84"
+         x="440"
+         height="24"
+         width="24"
+         id="rect5046"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5048"
+         width="22"
+         height="22"
+         x="441"
+         y="85"
+         inkscape:label="22x22" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="Symbols"
+       id="g5050"
+       inkscape:groupmode="layer">
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 442.5,124 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,0.5 -1.5,0 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -2,0 z m -1.5,2 1.5,0 2,0 1.5,0 0,13 -5,0 0,-13 z"
+         id="path5052" />
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 446.5,88 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,0.5 -1.5,0 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -2,0 z m -1.5,2 1.5,0 2,0 1.5,0 0,13 -5,0 0,-13 z"
+         id="path5054" />
+      <path
+         sodipodi:nodetypes="ssssssssscccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5056"
+         d="m 453,89 c -0.554,0 -1,0.446 -1,1 l 0,12 c 0,0.554 0.446,1 1,1 l 6,0 c 0.554,0 1,-0.446 1,-1 l 0,-12 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 6,0 0,7 -6,0 z m 1,8 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,1 -1,0 0,1 1,0 0,1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 1,0 0,-1 -1,0 0,-1 1,0 z m 0,1 0,1 1,0 0,-1 z m 1,1 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z"
+         style="color:#000000;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:new" />
+      <path
+         sodipodi:nodetypes="ssssssssscccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5058"
+         d="m 449,125 c -0.554,0 -1,0.446 -1,1 l 0,12 c 0,0.554 0.446,1 1,1 l 6,0 c 0.554,0 1,-0.446 1,-1 l 0,-12 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 6,0 0,7 -6,0 z m 1,8 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,1 -1,0 0,1 1,0 0,1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 1,0 0,-1 -1,0 0,-1 1,0 z m 0,1 0,1 1,0 0,-1 z m 1,1 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z"
+         style="color:#000000;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:new" />
+      <rect
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5060"
+         width="3"
+         height="7"
+         x="442"
+         y="131" />
+      <rect
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5062"
+         width="3"
+         height="7"
+         x="446"
+         y="95" />
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:groupmode="layer"
+     inkscape:label="Icon Phone Battery 40%"
+     id="g5064">
+    <g
+       style="display:none"
+       inkscape:label="Baseplate gpm-phone-040"
+       id="g5066"
+       inkscape:groupmode="layer">
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="15.006836"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:label="context"
+         id="text5068"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           y="26.115234"
+           x="15.006836"
+           sodipodi:role="line"
+           id="tspan5070">status</tspan></text>
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="126.48828"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         sodipodi:linespacing="125%"
+         inkscape:label="icon-name"
+         id="text5072"><tspan
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           y="26.115234"
+           x="126.48828"
+           sodipodi:role="line"
+           id="tspan5164">gpm-phone-040</tspan></text>
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5076"
+         width="16"
+         height="16"
+         x="470"
+         y="124"
+         inkscape:label="16x16" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5078"
+         width="24"
+         height="24"
+         x="470"
+         y="84"
+         inkscape:label="24x24" />
+      <rect
+         inkscape:label="22x22"
+         y="85"
+         x="471"
+         height="22"
+         width="22"
+         id="rect5080"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g5082"
+       inkscape:label="Symbols"
+       style="display:inline">
+      <path
+         id="path5084"
+         d="m 472.5,124 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,0.5 -1.5,0 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -2,0 z m -1.5,2 1.5,0 2,0 1.5,0 0,13 -5,0 0,-13 z"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5086"
+         d="m 476.5,88 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,0.5 -1.5,0 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -2,0 z m -1.5,2 1.5,0 2,0 1.5,0 0,13 -5,0 0,-13 z"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:new"
+         d="m 483,89 c -0.554,0 -1,0.446 -1,1 l 0,12 c 0,0.554 0.446,1 1,1 l 6,0 c 0.554,0 1,-0.446 1,-1 l 0,-12 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 6,0 0,7 -6,0 z m 1,8 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,1 -1,0 0,1 1,0 0,1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 1,0 0,-1 -1,0 0,-1 1,0 z m 0,1 0,1 1,0 0,-1 z m 1,1 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z"
+         id="path5088"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssssssscccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      <path
+         style="color:#000000;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:new"
+         d="m 479,125 c -0.554,0 -1,0.446 -1,1 l 0,12 c 0,0.554 0.446,1 1,1 l 6,0 c 0.554,0 1,-0.446 1,-1 l 0,-12 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 6,0 0,7 -6,0 z m 1,8 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,1 -1,0 0,1 1,0 0,1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 1,0 0,-1 -1,0 0,-1 1,0 z m 0,1 0,1 1,0 0,-1 z m 1,1 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z"
+         id="path5090"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssssssscccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      <rect
+         y="133"
+         x="472"
+         height="5"
+         width="3"
+         id="rect5092"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="97"
+         x="476"
+         height="5"
+         width="3"
+         id="rect5094"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+  </g>
+  <g
+     id="g5096"
+     inkscape:label="Icon Phone Battery 20%"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="g5098"
+       inkscape:label="Baseplate gpm-phone-020"
+       style="display:none">
+      <text
+         id="text5100"
+         inkscape:label="context"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="15.006836"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan5102"
+           sodipodi:role="line"
+           x="15.006836"
+           y="26.115234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">status</tspan></text>
+      <text
+         id="text5104"
+         inkscape:label="icon-name"
+         sodipodi:linespacing="125%"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         x="126.48828"
+         xml:space="preserve"
+         y="26.115234"><tspan
+           id="tspan5106"
+           sodipodi:role="line"
+           x="126.48828"
+           y="26.115234"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">gpm-phone-020</tspan></text>
+      <rect
+         inkscape:label="16x16"
+         y="124"
+         x="500"
+         height="16"
+         width="16"
+         id="rect5108"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         inkscape:label="24x24"
+         y="84"
+         x="500"
+         height="24"
+         width="24"
+         id="rect5110"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5112"
+         width="22"
+         height="22"
+         x="501"
+         y="85"
+         inkscape:label="22x22" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="Symbols"
+       id="g5114"
+       inkscape:groupmode="layer">
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 502.5,124 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,0.5 -1.5,0 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -2,0 z m -1.5,2 1.5,0 2,0 1.5,0 0,13 -5,0 0,-13 z"
+         id="path5116" />
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#bebebe;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 506.5,88 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,0.5 -1.5,0 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -2,0 z m -1.5,2 1.5,0 2,0 1.5,0 0,13 -5,0 0,-13 z"
+         id="path5118" />
+      <path
+         sodipodi:nodetypes="ssssssssscccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5120"
+         d="m 513,89 c -0.554,0 -1,0.446 -1,1 l 0,12 c 0,0.554 0.446,1 1,1 l 6,0 c 0.554,0 1,-0.446 1,-1 l 0,-12 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 6,0 0,7 -6,0 z m 1,8 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,1 -1,0 0,1 1,0 0,1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 1,0 0,-1 -1,0 0,-1 1,0 z m 0,1 0,1 1,0 0,-1 z m 1,1 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z"
+         style="color:#000000;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:new" />
+      <path
+         sodipodi:nodetypes="ssssssssscccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5122"
+         d="m 509,125 c -0.554,0 -1,0.446 -1,1 l 0,12 c 0,0.554 0.446,1 1,1 l 6,0 c 0.554,0 1,-0.446 1,-1 l 0,-12 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 6,0 0,7 -6,0 z m 1,8 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,1 -1,0 0,1 1,0 0,1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 1,0 0,-1 -1,0 0,-1 1,0 z m 0,1 0,1 1,0 0,-1 z m 1,1 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z"
+         style="color:#000000;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:new" />
+      <rect
+         style="color:#bebebe;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5124"
+         width="3"
+         height="3"
+         x="502"
+         y="135" />
+      <rect
+         style="color:#bebebe;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5126"
+         width="3"
+         height="3"
+         x="506"
+         y="99" />
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:groupmode="layer"
+     inkscape:label="Icon Phone Battery Empty"
+     id="g5128">
+    <g
+       style="display:none"
+       inkscape:label="Baseplate gpm-phone-000"
+       id="g5130"
+       inkscape:groupmode="layer">
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="15.006836"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         inkscape:label="context"
+         id="text5132"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           y="26.115234"
+           x="15.006836"
+           sodipodi:role="line"
+           id="tspan5134">status</tspan></text>
+      <text
+         y="26.115234"
+         xml:space="preserve"
+         x="126.48828"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         sodipodi:linespacing="125%"
+         inkscape:label="icon-name"
+         id="text5136"><tspan
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           y="26.115234"
+           x="126.48828"
+           sodipodi:role="line"
+           id="tspan5138">gpm-phone-000</tspan></text>
+      <rect
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5140"
+         width="16"
+         height="16"
+         x="530"
+         y="124"
+         inkscape:label="16x16" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5142"
+         width="24"
+         height="24"
+         x="530"
+         y="84"
+         inkscape:label="24x24" />
+      <rect
+         inkscape:label="22x22"
+         y="85"
+         x="531"
+         height="22"
+         width="22"
+         id="rect5144"
+         style="fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g5146"
+       inkscape:label="Symbols"
+       style="display:inline">
+      <path
+         id="path5148"
+         d="m 532.5,124 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,0.5 -1.5,0 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -2,0 z m -1.5,2 1.5,0 2,0 1.5,0 0,13 -5,0 0,-13 z"
+         style="color:#bebebe;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5150"
+         d="m 536.5,88 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,0.5 -1.5,0 c -0.277,0 -0.5,0.223 -0.5,0.5 l 0,14 c 0,0.277 0.223,0.5 0.5,0.5 l 6,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-14 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -1.5,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -2,0 z m -1.5,2 1.5,0 2,0 1.5,0 0,13 -5,0 0,-13 z"
+         style="color:#bebebe;fill:#e13f2b;fill-opacity:1;fill-rule:nonzero;stroke:#dddddd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:new"
+         d="m 543,89 c -0.554,0 -1,0.446 -1,1 l 0,12 c 0,0.554 0.446,1 1,1 l 6,0 c 0.554,0 1,-0.446 1,-1 l 0,-12 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 6,0 0,7 -6,0 z m 1,8 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,1 -1,0 0,1 1,0 0,1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 1,0 0,-1 -1,0 0,-1 1,0 z m 0,1 0,1 1,0 0,-1 z m 1,1 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z"
+         id="path5152"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssssssscccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      <path
+         style="color:#000000;fill:#dddddd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7554);enable-background:new"
+         d="m 539,125 c -0.554,0 -1,0.446 -1,1 l 0,12 c 0,0.554 0.446,1 1,1 l 6,0 c 0.554,0 1,-0.446 1,-1 l 0,-12 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 6,0 0,7 -6,0 z m 1,8 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,1 -1,0 0,1 1,0 0,1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 1,0 0,-1 -1,0 0,-1 1,0 z m 0,1 0,1 1,0 0,-1 z m 1,1 0,1 1,0 0,-1 z m 1,0 1,0 0,-1 -1,0 z m 1,0 0,1 1,0 0,-1 z"
+         id="path5154"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssssssscccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     </g>
   </g>
 </svg>
