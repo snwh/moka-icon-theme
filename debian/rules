@@ -1,7 +1,8 @@
 #!/usr/bin/make -f
 
 %:
-    dh $@
+	dh $@ 
 
-override_dh_auto_clean:
-	rm -rf build/
+override_dh_auto_install:
+    --sourcedir=Moka
+
