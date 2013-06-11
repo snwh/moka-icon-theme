@@ -7,7 +7,7 @@ Moka Icon Theme is distributed under the terms of either GNU GPL v.3 or Creative
 
 ###Source
 
-Moka Icon Theme can be found at https://github.com/snwh/moka-icon-theme
+The source for Moka Icon Theme can be found at: https://github.com/snwh/moka-icon-theme
 
 You can get the latest version from the git repository:
 
@@ -44,5 +44,9 @@ To render symbolic icons, run:
     ./render-symbolic.rb
 
 I'd like to thank whomever in the GNOME project wrote those scripts, which I poached and modified. :-)
+
+###Bugs, Issues, Questions, Requests
+
+If you find any bugs or issues with Moka or if you have a question or request, you can visit: https://github.com/snwh/moka-icon-theme/issues
 
 -----------

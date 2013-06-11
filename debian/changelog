@@ -1,0 +1,75 @@
+unity-tweak-tool (0.0.5) UNRELEASED; urgency=low
+
+  [ J Phani Mahesh ]
+  * Bug-fix only release (LP: #???????)
+  * UnityTweakTool/section/unity.py
+    - Fix Show recently used and more suggestions in dash search (LP: #1166294)
+    - Fix reversed launcher transparency switch (LP: #1168834)
+    - Fix Launcher reveal sensitivity scale update issues (LP: #1168863)
+    - Fix Panel opacity scale update bug (LP: #1168836)
+  * UnityTweakTool/elements/colorchooser.py
+    - Fix TypeError in get_rgba() (LP: #1165627)
+
+  [ Barneedhar Vigneshwar ]
+  * UnityTweakTool/section/unity.py
+    - Fix 'Can't set background blur to static' (LP: #1167343)
+  * UnityTweakTool/section/sphagetti/compiz.py
+    - Fix TypeError in color_to_hash() (LP: #1166884)
+
+ -- Barneedhar Vigneshwar <barneedhar@ubuntu.com>  Tue, 09 Apr 2013 19:55:14 +0530
+
+unity-tweak-tool (0.0.4) raring; urgency=medium
+
+  [ Barneedhar Vigneshwar ]
+  * New upstream release (LP: #1165141)
+  * data/windowmanager.ui
+    - Fix missing signal in the auto-raise switch (LP: #1160782)
+  * UnityTweakTool/section/sphagetti/theme.py
+    - Fix KeyError when fetching window themes (LP: #1146122)
+  * UnityTweakTool/section/unity.py
+    - Fix show-desktop switch (LP: #1156266)
+    - Fix 'switch between workspace' switch (LP: #1156236)
+
+  [ J Phani Mahesh ]
+  * debian/source_unity-tweak-tool.py  
+    - Update Apport hook to file crash bugs against the package by default
+  * setup.py
+    - Install translated pot files
+  * unity-tweak-tool
+    - Fixed and renamed -r parameter to --reset-unity in the wrapper
+  * UnityTweakTool/__init__.py
+    - Prevent multiple instances using dbus
+  * UnityTweakTool/elements/radio.py
+    - Fix AssertionError in __init__() (LP: #1156201)
+    - Fix AssertionError due to missing overlay-scrollbar package (LP: #1156337)
+  * UnityTweakTool/section/sphagetti/compiz.py
+    - Fix resetting transparency values (LP: #1099067)
+  * UnityTweakTool/section/sphagetti/unity.py
+    - Fix AttributeError in refresh(): 'NoneType' object has no attribute 'get_boolean' (LP: #1155331)
+
+  [Sam Hewitt]
+  * debian/control
+    - Added dependency on python3-cairo (LP: #1156789)
+  * UnityTweakTool/section/sphagetti/unity.py
+    - Fixed unresponsive 'battery-life' switch (LP: #1129262)
+
+ -- Barneedhar Vigneshwar <barneedhar@ubuntu.com>  Fri, 05 Apr 2013 23:05:49 +0530
+
+unity-tweak-tool (0.0.3) raring; urgency=low
+
+  * New upstream release
+  * Closes needs-packaging bug (LP: #1126433)
+
+ -- Barneedhar Vigneshwar <barneedhar@ubuntu.com>  Fri, 15 Feb 2013 20:33:41 +0530
+
+unity-tweak-tool (0.0.2) raring; urgency=low
+
+  * New upstream release
+
+ -- Barneedhar Vigneshwar <barneedhar@ubuntu.com>  Fri, 11 Jan 2013 14:30:53 +0530
+
+unity-tweak-tool (0.0.1) raring; urgency=low
+
+  * Initial release.
+
+ -- Barneedhar Vigneshwar <barneedhar@ubuntu.com>  Sun, 24 Dec 2012 16:48:06 +0530
