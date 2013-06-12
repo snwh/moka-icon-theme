@@ -13,11 +13,27 @@ You can get the latest version from the git repository:
 
     git clone https://github.com/snwh/moka-icon-theme.git
 
+The source for the Moka Dark variant can be found at: https://github.com/snwh/moka-icon-theme-dark
+
+You can get it's latest version from it's git repository:
+
+    git clone https://github.com/snwh/moka-icon-theme-dark.git
+
 NOTE: Moka is very much a WIP.
 
 ###Installation
 
-To install, run the install script to copy the icons to your home folder. 
+For Ubuntu, Moka is available in a PPA, which can be added using:
+
+    sudo add-apt-repository ppa:snwh/moka-icon-theme-daily
+
+    sudo apt-get update && sudo apt-get install moka-icon-theme
+
+Or, for the dark variant:
+
+    sudo apt-get update && sudo apt-get install moka-icon-theme
+
+To install from source, run the install script to copy the icons to your home folder. 
 
     ./INSTALL
 
@@ -47,6 +63,6 @@ I'd like to thank whomever in the GNOME project wrote those scripts, which I poa
 
 ###Bugs, Issues, Questions, Requests
 
-If you find any bugs or issues with Moka or if you have a question or request, you can visit: https://github.com/snwh/moka-icon-theme/issues
+If you find any bugs or issues with Moka or if you have a question or request, you can visit: https://github.com/snwh/moka-icon-theme/issues or https://launchpad.net/moka-icon-theme
 
 -----------
