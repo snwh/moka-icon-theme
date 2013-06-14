@@ -14,6 +14,8 @@ ln -sf battery-good.png battery-good-symbolic.png
 ln -sf battery-good-charging.png battery-good-charging-symbolic.png
 ln -sf battery-low.png battery-low-symbolic.png
 ln -sf battery-low-charging.png battery-low-charging-symbolic.png
+ln -sf battery-caution.png battery-caution-symbolic.png
+ln -sf battery-caution-charging.png battery-caution-charging-symbolic.png
 ln -sf battery-medium.png battery-medium-symbolic.png
 ln -sf battery-medium-charging.png battery-medium-charging-symbolic.png
 ln -sf battery-missing.png battery-missing-symbolic.png
@@ -33,6 +35,8 @@ ln -sf battery-good.png battery-good-symbolic.png
 ln -sf battery-good-charging.png battery-good-charging-symbolic.png
 ln -sf battery-low.png battery-low-symbolic.png
 ln -sf battery-low-charging.png battery-low-charging-symbolic.png
+ln -sf battery-caution.png battery-caution-symbolic.png
+ln -sf battery-caution-charging.png battery-caution-charging-symbolic.png
 ln -sf battery-medium.png battery-medium-symbolic.png
 ln -sf battery-medium-charging.png battery-medium-charging-symbolic.png
 ln -sf battery-missing.png battery-missing-symbolic.png
@@ -52,6 +56,8 @@ ln -sf battery-good.png battery-good-symbolic.png
 ln -sf battery-good-charging.png battery-good-charging-symbolic.png
 ln -sf battery-low.png battery-low-symbolic.png
 ln -sf battery-low-charging.png battery-low-charging-symbolic.png
+ln -sf battery-caution.png battery-caution-symbolic.png
+ln -sf battery-caution-charging.png battery-caution-charging-symbolic.png
 ln -sf battery-medium.png battery-medium-symbolic.png
 ln -sf battery-medium-charging.png battery-medium-charging-symbolic.png
 ln -sf battery-missing.png battery-missing-symbolic.png
