@@ -34,9 +34,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="37.471603"
-     inkscape:cy="75.6892"
-     inkscape:current-layer="layer4"
+     inkscape:cx="169.46144"
+     inkscape:cy="141.21885"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -80,6 +80,10 @@
   </sodipodi:namedview>
   <defs
      id="defs3">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3449"
+       effect="spiro" />
     <inkscape:path-effect
        is_visible="true"
        id="path-effect5152"
@@ -1952,7 +1956,7 @@
        x2="48"
        y1="26"
        x1="48"
-       gradientTransform="translate(133,103)"
+       gradientTransform="translate(133,104)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3210"
        xlink:href="#linearGradient4383"
@@ -3072,10 +3076,10 @@
          y="119" />
       <path
          style="opacity:0.1;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 174,132 13,0"
+         d="m 174,133 13,0"
          id="path4405"
          inkscape:path-effect="#path-effect4407"
-         inkscape:original-d="m 174,132 13,0"
+         inkscape:original-d="m 174,133 13,0"
          inkscape:connector-curvature="0" />
       <path
          style="fill:#d8d8d8;fill-opacity:1;stroke:none"
@@ -3108,16 +3112,16 @@
            sodipodi:role="line">Lorem ipsum</tspan></text>
       <path
          inkscape:connector-curvature="0"
-         inkscape:original-d="m 174,132 13,0"
-         inkscape:path-effect="#path-effect4407"
+         inkscape:original-d="m 174,133 13,0"
+         inkscape:path-effect="#path-effect3449"
          id="path4409"
-         d="m 174,132 13,0"
+         d="m 174,133 13,0"
          style="opacity:0.1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          style="color:#000000;fill:url(#linearGradient3210);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path4092"
          inkscape:connector-curvature="0"
-         d="m 174,126 c 0,0 -1,0.446 -1,1 l 0,1 0,1 0,1 0,1 c 0,0 0.446,1 1,1 l 13,0 c 0.554,0 1,-1 1,-1 l 0,-1 0,-1 0,-1 0,-1 c 0,-0.554 -1,-1 -1,-1 l -1,0 c 0,0 -1,0.446 -1,1 l 0,1 c 0,0.554 -1,1 -1,1 l -1,0 -6,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-1 c 0,-0.554 -1,-1 -1,-1 z"
+         d="m 174,127 c 0,0 -1,0.446 -1,1 l 0,1 0,1 0,1 0,1 c 0,0 0.446,1 1,1 l 13,0 c 0.554,0 1,-1 1,-1 l 0,-1 0,-1 0,-1 0,-1 c 0,-0.554 -1,-1 -1,-1 l -1,0 c 0,0 -1,0.446 -1,1 l 0,1 c 0,0.554 -1,1 -1,1 l -1,0 -6,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-1 c 0,-0.554 -1,-1 -1,-1 z"
          sodipodi:nodetypes="sscccsssscccsssssscsssss" />
       <path
          sodipodi:nodetypes="sscccsssscccsssssscsssss"
@@ -3125,7 +3129,8 @@
          inkscape:connector-curvature="0"
          id="path4391"
          style="opacity:0.05;color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         clip-path="url(#clipPath4395)" />
+         clip-path="url(#clipPath4395)"
+         transform="translate(0,1)" />
       <path
          sodipodi:nodetypes="ssccccccssss"
          inkscape:connector-curvature="0"
