@@ -1,16 +1,17 @@
 #!/bin/bash
 
 # Check for imagemagick
-echo 'This script requires the Imagemagick.'
-echo 'Checking if installed...'
-if [ -e /usr/bin/mogrify ]; then
-    echo 'Imagemagick is installed, proceeding... '
+echo 'Requires imagemagick.'
+PACKAGE=$(dpkg-query -W --showformat='${Status}\n' imagemagick | grep "install ok installed")
+echo "Checking if installed..."
+if [ "" == "$PACKAGE" ]; then
+   echo 'Imagemagick is not installed.'
+   echo 'Installing... '
+   echo 'Requires root privileges:'
+   sudo apt-get install -y imagemagick
+   echo 'Done. '
 else
-    echo 'Imagemagick is not installed.'
-    echo 'Installing... '
-    echo 'Requires root privileges:'
-    sudo apt-get install -y imagemagick
-    echo 'Done. '
+   echo 'Imagemagick is installed, proceeding... '
 fi
 
 # Crop 22x22 Bluetooth Panel Icons
