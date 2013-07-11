@@ -9,19 +9,6 @@ INKSCAPE = '/usr/bin/inkscape'
 SRC = "src/source-symbolic.svg"
 PREFIX = "Moka/scalable"
 
-echo 'Requires Ruby.'
-PACKAGE=$(dpkg-query -W --showformat='${Status}\n' ruby | grep "install ok installed")
-echo "Checking if installed..."
-if [ "" == "$PACKAGE" ]; then
-   echo 'Ruby is not installed.'
-   echo 'Installing... '
-   echo 'Requires root privileges:'
-   sudo apt-get install -y ruby
-   echo 'Done. '
-else
-   echo 'Ruby is installed, proceeding... '
-fi
-
 def chopSVG(icon)
 	FileUtils.mkdir_p(icon[:dir]) unless File.exists?(icon[:dir])
 	unless (File.exists?(icon[:file]) && !icon[:forcerender])
