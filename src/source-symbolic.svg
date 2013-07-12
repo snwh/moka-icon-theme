@@ -31,9 +31,9 @@
      inkscape:window-height="744"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="157.39205"
-     inkscape:cy="560.95691"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="8.3585448"
+     inkscape:cy="469.49147"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -86,6 +86,10 @@
      id="title8473">Moka Symbolic Icon Theme</title>
   <defs
      id="defs7386">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5814"
+       is_visible="true" />
     <inkscape:path-effect
        effect="spiro"
        id="path-effect5985"
@@ -1387,6 +1391,14 @@
        effect="spiro"
        id="path-effect6095-4"
        is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5814-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5814-4"
+       is_visible="true" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -1394,6 +1406,27 @@
      inkscape:label="status"
      style="display:inline"
      transform="translate(-241.0002,467)">
+    <g
+       transform="translate(20.000017,0.00831604)"
+       style="display:inline;enable-background:new"
+       inkscape:label="bluetooth-disabled"
+       id="g6132">
+      <path
+         sodipodi:nodetypes="cccccc"
+         style="fill:none;stroke:#dddddd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;opacity:0.5"
+         d="m 265.5002,-223.5 7,-7 -4,-4 0,15 4,-4 -7,-7"
+         id="path6134"
+         inkscape:path-effect="#path-effect5814-3"
+         inkscape:original-d="m 265.5002,-223.5 7,-7 -4,-4 0,15 4,-4 -7,-7"
+         inkscape:connector-curvature="0" />
+      <rect
+         y="-235.01663"
+         x="261.00018"
+         height="16"
+         width="16"
+         id="rect6136"
+         style="color:#dddddd;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
+    </g>
     <g
        transform="translate(40.000387,0)"
        id="g6992"
@@ -2684,34 +2717,6 @@
          style="color:#dddddd;fill:#f57900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible"
          class="warning"
          inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g7005"
-       inkscape:label="bluetooth-disabled"
-       transform="translate(220.00025,-550.99998)"
-       style="stroke:none">
-      <rect
-         y="317"
-         x="61.000198"
-         height="16"
-         width="16"
-         id="rect10843"
-         style="color:#dddddd;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
-      <g
-         id="g2999-6"
-         transform="translate(60.0002,317.00965)"
-         style="stroke:none">
-        <path
-           d="M 7.875,0 A 1.0001,1.0001 0 0 0 7,1 L 7,5.40625 5.75,4.3125 5.71875,4.28125 C 5.702613,4.265113 5.6734544,4.2650086 5.65625,4.25 5.480519,4.0966974 5.2515182,4 5,4 4.4477153,4 4,4.4477153 4,5 4,5.3007665 4.1336102,5.5666801 4.34375,5.75 l 2.625,2.25 -2.625,2.25 C 4.1336102,10.43332 4,10.699233 4,11 c 0,0.552285 0.4477153,1 1,1 0.2515182,0 0.480519,-0.0967 0.65625,-0.25 l 0.0625,-0.03125 C 5.72855,11.70895 5.740614,11.69769 5.75,11.6875 L 7,10.59375 7,15 a 1.0001,1.0001 0 0 0 1.71875,0.71875 l 0.3125,-0.3125 C 9.0043075,15.276865 9,15.136591 9,15 9,14.481746 9.1713715,13.953629 9.5625,13.5625 L 9.625,13.5 9.5625,13.4375 C 9.2993663,13.174366 9.1414428,12.842419 9.0625,12.5 L 9,12.5625 9,12 9,9.75 9.78125,10.40625 C 10.118043,10.148644 10.549722,10 11,10 c 0.518254,0 1.046371,0.171371 1.4375,0.5625 L 12.5,10.625 12.5625,10.5625 c 0.07036,-0.07036 0.140384,-0.131084 0.21875,-0.1875 a 1.0001,1.0001 0 0 0 -0.125,-0.125 l -2.625,-2.25 2.625,-2.25 a 1.0001,1.0001 0 0 0 0.0625,-1.46875 l -4,-4 A 1.0001,1.0001 0 0 0 7.875,0 z M 9,3.4375 10.53125,4.96875 9,6.25 9,3.4375 z"
-           id="path12"
-           inkscape:connector-curvature="0"
-           style="opacity:0.5;fill:#dddddd;fill-opacity:1;stroke:none" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 11,11 c -0.552285,0 -1,0.447715 -1,1 0,0.276142 0.100286,0.537786 0.28125,0.71875 L 11.0625,13.5 10.28125,14.28125 C 10.100286,14.462214 10,14.723857 10,15 c 0,0.552285 0.447715,1 1,1 0.276142,0 0.537786,-0.100286 0.71875,-0.28125 L 12.5,14.9375 13.28125,15.71875 C 13.462214,15.899714 13.723857,16 14,16 c 0.552285,0 1,-0.447715 1,-1 0,-0.276142 -0.100286,-0.537786 -0.28125,-0.71875 L 13.9375,13.5 14.71875,12.71875 C 14.899714,12.537786 15,12.276143 15,12 c 0,-0.552285 -0.447715,-1 -1,-1 -0.276142,0 -0.537786,0.100286 -0.71875,0.28125 L 12.5,12.0625 11.71875,11.28125 C 11.537786,11.100286 11.276143,11 11,11 z"
-           id="path2987"
-           style="fill:#dddddd;fill-opacity:1;stroke:none" />
-      </g>
     </g>
     <g
        id="g5204"
@@ -6225,6 +6230,25 @@
          width="16"
          id="rect5940"
          style="color:#dddddd;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    </g>
+    <g
+       id="g5833"
+       inkscape:label="bluetooth-enabled">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 265.5002,-223.5 7,-7 -4,-4 0,15 4,-4 -7,-7"
+         inkscape:path-effect="#path-effect5814"
+         id="path5812"
+         d="m 265.5002,-223.5 7,-7 -4,-4 0,15 4,-4 -7,-7"
+         style="fill:none;stroke:#dddddd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:nodetypes="cccccc" />
+      <rect
+         style="color:#dddddd;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
+         id="rect5818"
+         width="16"
+         height="16"
+         x="261.00018"
+         y="-235.01663" />
     </g>
   </g>
   <g
