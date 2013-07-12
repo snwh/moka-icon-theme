@@ -68,6 +68,34 @@ cd ..
 cd ..
 echo 'Done. '
 
+# Crop 22x22 Wired Panel Icons
+echo 'Cropping 22x22 Wired network panel icons...'
+cd Moka/22x22/status/
+wired='16x22+4+0'
+convert network-receive.png -set colorspace RGB -crop $wired network-receive.png
+convert network-transmit.png -set colorspace RGB -crop $wired network-transmit.png
+convert network-transmit-receive.png -set colorspace RGB -crop $wired network-transmit-receive.png
+convert network-wired.png -set colorspace RGB -crop $wired network-wired.png
+convert nm-device-wired.png -set colorspace RGB -crop $wired nm-device-wired.png
+cd ..
+cd ..
+cd ..
+echo 'Done. '
+
+# Crop 24x24 Wired Panel Icons
+echo 'Cropping 24x24 Wired network panel icons...'
+cd Moka/24x24/status/
+wired='16x24+5+0'
+convert network-receive.png -set colorspace RGB -crop $wired network-receive.png
+convert network-transmit.png -set colorspace RGB -crop $wired network-transmit.png
+convert network-transmit-receive.png -set colorspace RGB -crop $wired network-transmit-receive.png
+convert network-wired.png -set colorspace RGB -crop $wired network-wired.png
+convert nm-device-wired.png -set colorspace RGB -crop $wired nm-device-wired.png
+cd ..
+cd ..
+cd ..
+echo 'Done. '
+
 # Crop 22x22 Battery Panel Icons
 echo 'Cropping 22x22 Battery panel icons...'
 cd Moka/22x22/status/
@@ -111,34 +139,6 @@ convert battery-good-charging.png -set colorspace RGB -crop $charging battery-go
 convert battery-empty-charging.png -set colorspace RGB -crop $charging battery-empty-charging.png
 convert battery-medium-charging.png -set colorspace RGB -crop $charging battery-medium-charging.png
 convert battery-caution-charging.png -set colorspace RGB -crop $charging battery-caution-charging.png
-cd ..
-cd ..
-cd ..
-echo 'Done. '
-
-# Crop 22x22 Wired Panel Icons
-echo 'Cropping 22x22 Wired network panel icons...'
-cd Moka/22x22/status/
-wired='16x22+4+0'
-convert network-receive.png -set colorspace RGB -crop $wired network-receive.png
-convert network-transmit.png -set colorspace RGB -crop $wired network-transmit.png
-convert network-transmit-receive.png -set colorspace RGB -crop $wired network-transmit-receive.png
-convert network-wired.png -set colorspace RGB -crop $wired network-wired.png
-convert nm-device-wired.png -set colorspace RGB -crop $wired nm-device-wired.png
-cd ..
-cd ..
-cd ..
-echo 'Done. '
-
-# Crop 24x24 Wired Panel Icons
-echo 'Cropping 24x24 Wired network panel icons...'
-cd Moka/24x24/status/
-wired='16x24+5+0'
-convert network-receive.png -set colorspace RGB -crop $wired network-receive.png
-convert network-transmit.png -set colorspace RGB -crop $wired network-transmit.png
-convert network-transmit-receive.png -set colorspace RGB -crop $wired network-transmit-receive.png
-convert network-wired.png -set colorspace RGB -crop $wired network-wired.png
-convert nm-device-wired.png -set colorspace RGB -crop $wired nm-device-wired.png
 cd ..
 cd ..
 cd ..
