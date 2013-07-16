@@ -31,7 +31,7 @@ For Ubuntu, Moka is available in a PPA, which can be added using:
 
 Or, for the dark variant:
 
-    sudo apt-get update && sudo apt-get install moka-icon-theme
+    sudo apt-get update && sudo apt-get install moka-icon-theme-dark
 
 To install from source, run the install script to copy the icons to your home folder. 
 

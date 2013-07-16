@@ -34,8 +34,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="174.04514"
-     inkscape:cy="47.843402"
+     inkscape:cx="368.27144"
+     inkscape:cy="59.59541"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -90,6 +90,17 @@
   </sodipodi:namedview>
   <defs
      id="defs3">
+    <linearGradient
+       id="linearGradient4045">
+      <stop
+         id="stop4047"
+         offset="0"
+         style="stop-color:#bb1fce;stop-opacity:1;" />
+      <stop
+         id="stop4049"
+         offset="1"
+         style="stop-color:#531041;stop-opacity:1;" />
+    </linearGradient>
     <inkscape:path-effect
        effect="spiro"
        id="path-effect4486"
@@ -364,11 +375,11 @@
     <linearGradient
        id="outerBackgroundGradient">
       <stop
-         style="stop-color:#ce1f9f;stop-opacity:1;"
+         style="stop-color:#e9d6eb;stop-opacity:1;"
          offset="0"
          id="stop3864-8-6" />
       <stop
-         style="stop-color:#bc10de;stop-opacity:1;"
+         style="stop-color:#f9e4f3;stop-opacity:1;"
          offset="1"
          id="stop3866-9-1" />
     </linearGradient>
@@ -926,6 +937,15 @@
        y1="230"
        x2="144"
        y2="90" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4045"
+       id="linearGradient4043"
+       x1="328"
+       y1="232"
+       x2="328"
+       y2="272"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4">
@@ -1311,7 +1331,7 @@
          y="231"
          ry="9" />
       <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient4043);fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
          d="m 312,244 c 2,6 -0.47002,9.87278 1,14 0.48523,1.36234 1.80941,3.06255 2.96875,3.75 1.15934,0.68745 4.76035,0.83576 7.03125,0.25 1.88205,-0.48546 4,-3 5,-3 1,0 3.11795,2.51454 5,3 2.2709,0.58576 5.87191,0.43745 7.03125,-0.25 1.15934,-0.68745 2.68799,-2.33134 2.96875,-3.75 1.17655,-5.94499 -1,-8 1,-14 -5,2 -8,0 -13,0 -1,0 -1.72091,3 -3,3 -1,0 -2,-3 -3,-3 -5,0 -8,2 -13,0 z m 5,6 c 1.03112,0.16883 2.66593,0.36659 4.29676,0.54383 1.88669,0.20504 3.76806,0.38262 4.70324,0.45617 -0.1226,3.50115 -2.39629,6.65661 -5.40625,6.0625 C 317.55469,256.73395 316.91649,251.93583 317,250 z m 22,0 c 0.10129,3.15646 -0.93365,6.50625 -3.59375,7.0625 -3.73299,0.84993 -5.22593,-3.7824 -5.40625,-6.0625 1.74354,-0.13712 6.77599,-0.63585 9,-1 z"
          id="path3266"
          inkscape:connector-curvature="0"
