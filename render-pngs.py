@@ -167,5 +167,3 @@ else:
     else:
         print ("Error: No such file", file)
         sys.exit(1)
-
-
