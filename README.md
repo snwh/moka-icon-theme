@@ -11,9 +11,9 @@ The source for Moka Icon Theme can be found at: https://github.com/snwh/moka-ico
 
 You can get it's latest version of each from their git repositories:
 
-    git clone https://github.com/snwh/moka-icon-theme-dark.git
-
     git clone https://github.com/snwh/moka-icon-theme.git
+
+    git clone https://github.com/snwh/moka-icon-theme-dark.git
 
 NOTE: Moka is current in Beta and under heavy development.
 
