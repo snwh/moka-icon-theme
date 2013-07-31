@@ -49,15 +49,15 @@ To run the provided scripts (and edit icons) you will need:
  * ruby
  * python3
 
-To render new icons from their source SVG files, run the "render-pngs.py" script.
+To render new icons from their source SVG files, run the following:
 
-    ./render-pngs.py
+    ./scripts/render-pngs.py
 
 This script will look in the source directories and render the respective icons (provided there are changes).
 
 Likewise, to render symbolic icons, run:
 
-    ./render-symbolic.rb
+    ./scripts/render-symbolic.rb
 
 ###Bugs, Issues, Questions, Requests
 
