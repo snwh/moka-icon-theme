@@ -10,7 +10,7 @@ echo "Moka development quick render & install script."
 
 # Enter the scripts directory
 echo "Entering working directory..."
-cd ~/dev/moka-icon-theme/scripts
+cd ~/dev/moka-icon-theme
 echo "Done."
 
 # Render PNGs from the source SVGs

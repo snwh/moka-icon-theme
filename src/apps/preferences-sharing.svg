@@ -17,11 +17,11 @@
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="web-omgubuntu.svg"
+   sodipodi:docname="preferences-sharing.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new"
-   inkscape:export-filename="/home/sam/omg-moka.png">
+   inkscape:export-filename="/home/sam/moka-template.png">
   <title
      id="title3004">Moka Icon Theme Template</title>
   <sodipodi:namedview
@@ -34,9 +34,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="355.25468"
-     inkscape:cy="172.38313"
-     inkscape:current-layer="layer4"
+     inkscape:cx="352.30133"
+     inkscape:cy="42.848808"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -60,13 +60,13 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true">
     <inkscape:grid
-       spacingy="1px"
-       spacingx="1px"
+       spacingy="0.5px"
+       spacingx="0.5px"
        id="grid5883"
        type="xygrid"
        enabled="true"
        visible="true"
-       empspacing="4"
+       empspacing="2"
        snapvisiblegridlinesonly="true"
        dotted="false"
        color="#000000"
@@ -90,6 +90,17 @@
   </sodipodi:namedview>
   <defs
      id="defs3">
+    <linearGradient
+       id="linearGradient4098">
+      <stop
+         style="stop-color:#33b5c1;stop-opacity:1;"
+         offset="0"
+         id="stop4100" />
+      <stop
+         style="stop-color:#50eb8e;stop-opacity:1;"
+         offset="1"
+         id="stop4102" />
+    </linearGradient>
     <inkscape:path-effect
        effect="spiro"
        id="path-effect4486"
@@ -364,11 +375,11 @@
     <linearGradient
        id="outerBackgroundGradient">
       <stop
-         style="stop-color:#ef4a1f;stop-opacity:1;"
+         style="stop-color:#e9e9e9;stop-opacity:1;"
          offset="0"
          id="stop3864-8-6" />
       <stop
-         style="stop-color:#f3672a;stop-opacity:1;"
+         style="stop-color:#f7f7f7;stop-opacity:1;"
          offset="1"
          id="stop3866-9-1" />
     </linearGradient>
@@ -926,6 +937,45 @@
        y1="230"
        x2="144"
        y2="90" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8345">
+      <path
+         sodipodi:nodetypes="sccsccsscccss"
+         inkscape:connector-curvature="0"
+         id="path8347"
+         d="m 330,856 c -2.20914,0 -4,1.79086 -4,4 0,4 0,4 -4,4 -2.20914,0 -4,1.79086 -4,4 0,2.20914 1.79086,4 4,4 4,0 4,0 4,4 0,2.20914 1.79086,4 4,4 2.20914,0 4,-1.79086 4,-4 0,-2.20914 -1.79086,-4 -4,-4 -4,0 -4,0 -4,-4 0,-4 0,-4 4,-4 2.20914,0 4,-1.79086 4,-4 0,-2.20914 -1.79086,-4 -4,-4 z"
+         style="color:#bebebe;fill:#ba975f;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4969">
+      <path
+         sodipodi:nodetypes="sccsccsscccss"
+         inkscape:connector-curvature="0"
+         id="path4971"
+         d="m 330,856 c -2.20914,0 -4,1.79086 -4,4 0,4 0,4 -4,4 -2.20914,0 -4,1.79086 -4,4 0,2.20914 1.79086,4 4,4 4,0 4,0 4,4 0,2.20914 1.79086,4 4,4 2.20914,0 4,-1.79086 4,-4 0,-2.20914 -1.79086,-4 -4,-4 -4,0 -4,0 -4,-4 0,-4 0,-4 4,-4 2.20914,0 4,-1.79086 4,-4 0,-2.20914 -1.79086,-4 -4,-4 z"
+         style="color:#bebebe;fill:#ba975f;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4098"
+       id="linearGradient4105"
+       x1="336"
+       y1="231"
+       x2="336"
+       y2="273"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4111">
+      <path
+         sodipodi:nodetypes="sccsccsscccss"
+         inkscape:connector-curvature="0"
+         id="path4113"
+         d="m 332,238 c -2.20914,0 -4,1.79086 -4,4 0,4 -2,6 -6,6 -2.20914,0 -4,1.79086 -4,4 0,2.20914 1.79086,4 4,4 4,0 6,2 6,6 0,2.20914 1.79086,4 4,4 2.20914,0 4,-1.79086 4,-4 0,-2.20914 -1.79086,-4 -4,-4 -4,0 -6,-2 -6,-6 0,-4 2,-6 6,-6 2.20914,0 4,-1.79086 4,-4 0,-2.20914 -1.79086,-4 -4,-4 z"
+         style="color:#bebebe;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
   </defs>
   <metadata
      id="metadata4">
@@ -1012,7 +1062,7 @@
            y="19.745117"
            x="122.48828"
            sodipodi:role="line"
-           id="tspan3937">omgubuntu</tspan></text>
+           id="tspan3937">preferences-system-sharing</tspan></text>
       <rect
          style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect16x16"
@@ -1304,216 +1354,32 @@
        id="layer6"
        inkscape:label="Symbols"
        style="display:inline">
-      <text
-         transform="matrix(0.97480358,-0.0462482,0.04856073,1.0235438,0,0)"
-         id="text90"
-         x="39.243614"
-         y="167.84355"
-         style="font-size:11.07151318px">
-        <tspan
-           style="font-size:74.80619812px;font-variant:normal;font-weight:900;font-stretch:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial Black;-inkscape-font-specification:Arial-Black"
-           x="39.243614 94.076553 157.21297 212.04591"
-           y="167.84355"
-           sodipodi:role="line"
-           id="tspan92">OMG!</tspan>
-      </text>
-      <text
-         transform="matrix(0.99887648,-0.04738954,0.04738954,0.99887648,0,0)"
-         id="text94"
-         x="28.416817"
-         y="207.06209"
-         style="font-size:11.34374046px">
-        <tspan
-           style="font-size:45.37498856px;font-variant:normal;font-weight:900;font-stretch:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial Black;-inkscape-font-specification:Arial-Black"
-           x="28.416817 62.811062 93.52993 127.92416 162.31841 191.67603 226.07027"
-           y="207.06209"
-           sodipodi:role="line"
-           id="tspan96">UBUNTU!</tspan>
-      </text>
-      <text
-         transform="matrix(0.99885544,-0.04783102,0.04783102,0.99885544,0,0)"
-         id="text98"
-         x="226.68633"
-         y="173.07805"
-         style="font-size:11.34374046px">
-        <tspan
-           style="font-size:8.66632748px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-           x="226.68633 231.7648"
-           y="173.07805"
-           sodipodi:role="line"
-           id="tspan100">TM</tspan>
-      </text>
-      <text
-         style="font-size:1.41575348px"
-         y="74.782974"
-         x="443.45676"
-         id="text4123"
-         transform="matrix(0.97480358,-0.0462482,0.04856073,1.0235438,0,0)">
-        <tspan
-           id="tspan4125"
-           sodipodi:role="line"
-           y="74.782974"
-           x="443.45676 450.46844 458.5419 465.55359"
-           style="font-size:9.56573105px;font-variant:normal;font-weight:900;font-stretch:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial Black;-inkscape-font-specification:Arial-Black">OMG!</tspan>
-      </text>
-      <g
-         style="display:inline;enable-background:new"
-         id="g4053"
-         transform="matrix(0.22687481,0,0,-0.22687481,304.82984,129.97858)">
-        <text
-           transform="matrix(0.9748036,0.04624821,0.04856074,-1.0235438,0,0)"
-           id="text4055"
-           x="56.41555"
-           y="-172.87344"
-           style="font-size:18.30003738px">
-          <tspan
-             style="font-size:123.64670563px;font-variant:normal;font-weight:900;font-stretch:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial Black;-inkscape-font-specification:Arial-Black"
-             x="56.41555 147.04858 251.40639 342.03943"
-             y="-172.87344"
-             sodipodi:role="line"
-             id="tspan4057">OMG!</tspan>
-        </text>
-        <text
-           transform="matrix(0.99887648,0.04738955,0.04738955,-0.99887648,0,0)"
-           id="text4059"
-           x="38.723244"
-           y="-119.16959"
-           style="font-size:18.75px">
-          <tspan
-             style="font-size:75.00004578px;font-variant:normal;font-weight:900;font-stretch:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial Black;-inkscape-font-specification:Arial-Black"
-             x="38.723244 95.57328 146.34831 203.19833 260.04837 308.57339 365.42343"
-             y="-119.16959"
-             sodipodi:role="line"
-             id="tspan4061">UBUNTU!</tspan>
-        </text>
-        <text
-           transform="matrix(0.99885544,0.04783101,0.04783101,-0.99885544,0,0)"
-           id="text4063"
-           x="366.64566"
-           y="-175.34521"
-           style="font-size:18.75px">
-          <tspan
-             style="font-size:14.32452011px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-             x="366.64566 375.03983"
-             y="-175.34521"
-             sodipodi:role="line"
-             id="tspan4065">TM</tspan>
-        </text>
-      </g>
-      <g
-         style="display:inline;enable-background:new"
-         transform="matrix(0.09889415,0,0,-0.09889415,307.43865,272.04195)"
-         id="g4067">
-        <text
-           style="font-size:18.30003738px"
-           y="-172.87344"
-           x="56.41555"
-           id="text4069"
-           transform="matrix(0.9748036,0.04624821,0.04856074,-1.0235438,0,0)">
-          <tspan
-             id="tspan4071"
-             sodipodi:role="line"
-             y="-172.87344"
-             x="56.41555 147.04858 251.40639 342.03943"
-             style="font-size:123.64670563px;font-variant:normal;font-weight:900;font-stretch:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial Black;-inkscape-font-specification:Arial-Black">OMG!</tspan>
-        </text>
-        <text
-           style="font-size:18.75px"
-           y="-119.16959"
-           x="38.723244"
-           id="text4073"
-           transform="matrix(0.99887648,0.04738955,0.04738955,-0.99887648,0,0)">
-          <tspan
-             id="tspan4075"
-             sodipodi:role="line"
-             y="-119.16959"
-             x="38.723244 95.57328 146.34831 203.19833 260.04837 308.57339 365.42343"
-             style="font-size:75.00004578px;font-variant:normal;font-weight:900;font-stretch:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial Black;-inkscape-font-specification:Arial-Black">UBUNTU!</tspan>
-        </text>
-        <text
-           style="font-size:18.75px"
-           y="-175.34521"
-           x="366.64566"
-           id="text4077"
-           transform="matrix(0.99885544,0.04783101,0.04783101,-0.99885544,0,0)">
-          <tspan
-             id="tspan4079"
-             sodipodi:role="line"
-             y="-175.34521"
-             x="366.64566 375.03983"
-             style="font-size:14.32452011px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT">TM</tspan>
-        </text>
-      </g>
-      <g
-         style="display:inline;enable-background:new"
-         id="g4081"
-         transform="matrix(0.15124987,0,0,-0.15124987,304.55323,210.65239)">
-        <text
-           transform="matrix(0.9748036,0.04624821,0.04856074,-1.0235438,0,0)"
-           id="text4083"
-           x="56.41555"
-           y="-172.87344"
-           style="font-size:18.30003738px">
-          <tspan
-             style="font-size:123.64670563px;font-variant:normal;font-weight:900;font-stretch:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial Black;-inkscape-font-specification:Arial-Black"
-             x="56.41555 147.04858 251.40639 342.03943"
-             y="-172.87344"
-             sodipodi:role="line"
-             id="tspan4085">OMG!</tspan>
-        </text>
-        <text
-           transform="matrix(0.99887648,0.04738955,0.04738955,-0.99887648,0,0)"
-           id="text4087"
-           x="38.723244"
-           y="-119.16959"
-           style="font-size:18.75px">
-          <tspan
-             style="font-size:75.00004578px;font-variant:normal;font-weight:900;font-stretch:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial Black;-inkscape-font-specification:Arial-Black"
-             x="38.723244 95.57328 146.34831 203.19833 260.04837 308.57339 365.42343"
-             y="-119.16959"
-             sodipodi:role="line"
-             id="tspan4089">UBUNTU!</tspan>
-        </text>
-        <text
-           transform="matrix(0.99885544,0.04783101,0.04783101,-0.99885544,0,0)"
-           id="text4091"
-           x="366.64566"
-           y="-175.34521"
-           style="font-size:18.75px">
-          <tspan
-             style="font-size:14.32452011px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
-             x="366.64566 375.03983"
-             y="-175.34521"
-             sodipodi:role="line"
-             id="tspan4093">TM</tspan>
-        </text>
-      </g>
-      <text
-         transform="matrix(0.97480358,-0.0462482,0.04856073,1.0235438,0,0)"
-         id="text4135"
-         x="440.36734"
-         y="116.64584"
-         style="font-size:1.06181538px">
-        <tspan
-           style="font-size:7.17429972px;font-variant:normal;font-weight:900;font-stretch:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial Black;-inkscape-font-specification:Arial-Black"
-           x="440.36734 445.62613 451.68124 456.93997"
-           y="116.64584"
-           sodipodi:role="line"
-           id="tspan4137">OMG!</tspan>
-      </text>
-      <text
-         style="font-size:0.82585645px"
-         y="150.99144"
-         x="436.61926"
-         id="text4139"
-         transform="matrix(0.97480358,-0.0462482,0.04856073,1.0235438,0,0)">
-        <tspan
-           id="tspan4141"
-           sodipodi:role="line"
-           y="150.99144"
-           x="436.61926 440.70944 445.41898 449.50909"
-           style="font-size:5.58001089px;font-variant:normal;font-weight:900;font-stretch:normal;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial Black;-inkscape-font-specification:Arial-Black">OMG!</tspan>
-      </text>
+      <path
+         sodipodi:nodetypes="sscccssccsccs"
+         inkscape:connector-curvature="0"
+         id="path5830"
+         d="m 446,88 c 1.10457,0 2,0.89543 2,2 0,1.10457 -0.89543,2 -2,2 -2,0 -4,2 -4,4 0,2 2,4 4,4 1.10457,0 2,0.89543 2,2 0,1.10457 -0.89543,2 -2,2 -1.10457,0 -2,-0.89543 -2,-2 0,-2 -2,-4 -4,-4 -1.10457,0 -2,-0.89543 -2,-2 0,-1.10457 0.89543,-2 2,-2 2,0 4,-2 4,-4 0,-1.10457 0.89543,-2 2,-2 z"
+         style="display:inline;enable-background:accumulate;color:#000000;fill:#5c3566;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;marker:none;visibility:visible;overflow:visible" />
+      <path
+         style="color:#bebebe;fill:url(#linearGradient4105);fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 332,238 c -2.20914,0 -4,1.79086 -4,4 0,4 -2,6 -6,6 -2.20914,0 -4,1.79086 -4,4 0,2.20914 1.79086,4 4,4 4,0 6,2 6,6 0,2.20914 1.79086,4 4,4 2.20914,0 4,-1.79086 4,-4 0,-2.20914 -1.79086,-4 -4,-4 -4,0 -6,-2 -6,-6 0,-4 2,-6 6,-6 2.20914,0 4,-1.79086 4,-4 0,-2.20914 -1.79086,-4 -4,-4 z"
+         id="path8326"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sccsccsscccss" />
+      <path
+         style="color:#bebebe;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;opacity:0.05"
+         d="m 332,238 c -2.20914,0 -4,1.79086 -4,4 0,4 -2,6 -6,6 -2.20914,0 -4,1.79086 -4,4 0,2.20914 1.79086,4 4,4 4,0 6,2 6,6 0,2.20914 1.79086,4 4,4 2.20914,0 4,-1.79086 4,-4 0,-2.20914 -1.79086,-4 -4,-4 -4,0 -6,-2 -6,-6 0,-4 2,-6 6,-6 2.20914,0 4,-1.79086 4,-4 0,-2.20914 -1.79086,-4 -4,-4 z"
+         id="path4109"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sccsccsscccss"
+         clip-path="url(#clipPath4111)" />
+      <path
+         clip-path="url(#clipPath4111)"
+         sodipodi:nodetypes="sccsccsscccss"
+         inkscape:connector-curvature="0"
+         id="path4115"
+         d="m 332,238 c -2.20914,0 -4,1.79086 -4,4 0,4 -2,6 -6,6 -2.20914,0 -4,1.79086 -4,4 0,2.20914 1.79086,4 4,4 4,0 6,2 6,6 0,2.20914 1.79086,4 4,4 2.20914,0 4,-1.79086 4,-4 0,-2.20914 -1.79086,-4 -4,-4 -4,0 -6,-2 -6,-6 0,-4 2,-6 6,-6 2.20914,0 4,-1.79086 4,-4 0,-2.20914 -1.79086,-4 -4,-4 z"
+         style="color:#bebebe;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;opacity:0.05000000000000000;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <g
        inkscape:groupmode="layer"
