@@ -49,17 +49,15 @@ To run the provided scripts (and edit icons) you will need:
  * ruby
  * python3
 
-To render a new icon, run the following in the "scripts" directory:
+To render a new icon, run the "render-pngs.py" script.
 
     ./render-pngs.py
 
-This will read the SVGs in the "src" directory, and render the respective icons (provided there are changes).
+This will read the SVGs in the "src" directories, and render the respective icons (provided there are changes).
 
 To render symbolic icons, run:
 
     ./render-symbolic.rb
-
-I'd like to thank whomever in the GNOME project wrote those scripts, which I poached and modified. :-)
 
 ###Bugs, Issues, Questions, Requests
 
