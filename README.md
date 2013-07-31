@@ -41,7 +41,7 @@ Running as root will copy the icon set to  /usr/share/icons to be available syst
     
     sudo ./INSTALL
 
-###Making New Icons
+###Making icons with the provided template & scripts.
 
 To run the provided scripts (and edit icons) you will need:
 
