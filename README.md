@@ -41,7 +41,7 @@ Running as root will copy the icon set to  /usr/share/icons to be available syst
     
     sudo ./INSTALL
 
-###Making icons with the provided template & scripts.
+###Making icons with the provided template & scripts
 
 To run the provided scripts (and edit icons) you will need:
 
@@ -49,7 +49,7 @@ To run the provided scripts (and edit icons) you will need:
  * ruby
  * python3
 
-To render a new icon, run the following.
+To render a new icon, run the following in the "scripts" directory:
 
     ./render-pngs.py
 
