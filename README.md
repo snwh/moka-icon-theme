@@ -3,7 +3,7 @@ Moka Icon Theme
 
 "Moka" is meant to be a comprehensive and well-designed icon set.
 
-Moka Icon Theme is distributed under the terms of either GNU LGPL v.3 or Creative Commons BY-SA 3.0 license.
+Moka Icon Theme artwork is distributed under the terms of a Creative Commons BY-SA 3.0 license & the related source software the GNU LGPL v.3
 
 ###Source
 

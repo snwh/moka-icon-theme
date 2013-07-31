@@ -6,7 +6,7 @@ include REXML
 
 
 INKSCAPE = '/usr/bin/inkscape'
-SRC = "src/source-symbolic.svg"
+SRC = "src/symbolic/source-symbolic.svg"
 PREFIX = "Moka/scalable"
 
 def chopSVG(icon)
