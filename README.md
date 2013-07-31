@@ -25,7 +25,7 @@ NOTE: Moka is very much a WIP.
 
 For Ubuntu, Moka is available in a PPA, which can be added using:
 
-    sudo add-apt-repository ppa:snwh/moka-icon-theme-daily
+    sudo add-apt-repository ppa:snwh/moka-icon-theme-daily 
 
     sudo apt-get update && sudo apt-get install moka-icon-theme
 
@@ -49,13 +49,13 @@ To run the provided scripts (and edit icons) you will need:
  * ruby
  * python3
 
-To render a new icon, run the "render-pngs.py" script.
+To render new icons from their source SVG files, run the "render-pngs.py" script.
 
     ./render-pngs.py
 
-This will read the SVGs in the "src" directories, and render the respective icons (provided there are changes).
+This script will look in the source directories and render the respective icons (provided there are changes).
 
-To render symbolic icons, run:
+Likewise, to render symbolic icons, run:
 
     ./render-symbolic.rb
 
