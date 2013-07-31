@@ -3,7 +3,7 @@
 echo "Moka development quick render & install script."
 
 echo "Entering working directory..."
-cd ~/dev/moka-icon-theme
+cd ~/dev/moka-icon-theme/scripts
 echo "Done."
 
 echo "Rendering PNGs..."
