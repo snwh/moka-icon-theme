@@ -7,19 +7,15 @@ Moka Icon Theme artwork is distributed under the terms of a Creative Commons BY-
 
 ###Source
 
-The source for Moka Icon Theme can be found at: https://github.com/snwh/moka-icon-theme
+The source for Moka Icon Theme can be found at: https://github.com/snwh/moka-icon-theme and the dark variant at: https://github.com/snwh/moka-icon-theme-dark
 
-You can get the latest version from the git repository:
-
-    git clone https://github.com/snwh/moka-icon-theme.git
-
-The source for the Moka Dark variant can be found at: https://github.com/snwh/moka-icon-theme-dark
-
-You can get it's latest version from it's git repository:
+You can get it's latest version of each from their git repositories:
 
     git clone https://github.com/snwh/moka-icon-theme-dark.git
 
-NOTE: Moka is very much a WIP.
+    git clone https://github.com/snwh/moka-icon-theme.git
+
+NOTE: Moka is current in Beta and under heavy development.
 
 ###Installation
 
