@@ -53,21 +53,22 @@ echo
 if [ "$UID" -eq "$ROOT_UID" ]; then
 	if [ -d /usr/share/icons/Moka ]; then
 		echo
-		read -p "An existing Moka installation has been detected in '/usr/share/icons'. Remove it? (Y)es, (N)o : " INPUT
+		read -p "Found an existing installation. Remove it? (Y)es, (N)o : " INPUT
 		case $INPUT in
 			[Yy]* ) rm -Rf /usr/share/icons/Moka 2>/dev/null;;
+			[Nn]* );;
 		    * ) ;;
 		esac
-		echo
 	fi
 	cp -R ./Moka/ /usr/share/icons/
 	install_dir=/usr/share/icons/
 elif [ "$UID" -ne "$ROOT_UID" ]; then
 	if [ -d $HOME/.icons/Moka ]; then
 		echo
-		read -p "An existing Moka installation has been detected in '$HOME/.icons'. Remove it? (Y)es, (N)o :" INPUT
+		read -p "Found an existing installation. Remove it? (Y)es, (N)o : " INPUT
 		case $INPUT in
 			[Yy]* ) rm -Rf "$HOME/.icons/Moka" 2>/dev/null;;
+			[Nn]* );;
 		    * ) ;;
 		esac
 	fi
@@ -75,6 +76,17 @@ elif [ "$UID" -ne "$ROOT_UID" ]; then
 	install_dir="$HOME/.icons/"
 fi
 
-echo
-echo "Installation complete! Exiting"
+function set {
+echo "Installation complete!"
+read -p "Do you want to set Moka as desktop icon set? (Y)es, (N)o : " INPUT
+case $INPUT in
+	[Yy]* ) echo "Setting Moka icon as desktop icon set..." && gsettings set org.gnome.desktop.interface icon-theme "Moka" && echo "Done.";;
+    [Nn]* );;
+    * ) echo; echo "Uh oh, invalid response. Please retry."; set;;
+esac
+}
+
+echo ''
+set
+echo "Exiting"
 exit 0

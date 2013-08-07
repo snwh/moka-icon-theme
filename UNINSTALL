@@ -57,5 +57,10 @@ else
 fi
 
 echo
-echo "Uninstallation complete! Exiting"
+echo "Uninstallation complete."
+# Reset icon theme via GSettings
+echo "Resetting desktop icon set to default..."
+gsettings reset org.gnome.desktop.interface icon-theme
+echo "Done."
+echo "Exiting"
 exit 0
