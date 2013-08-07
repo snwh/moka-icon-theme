@@ -21,42 +21,40 @@
 # You should have received a copy of the GNU General Public License along with
 # this program; if not, see <https://www.gnu.org/licenses/gpl-3.0.txt>
 
-ROOT_UID=0
-if [ "$UID" -ne "$ROOT_UID" ]
-then
-	echo "Moka Icon Theme will be installed in '$HOME/.icons'. To make them available for all users, run this script as root."
-else
-	echo "Moka Icon Theme will be installed in '/usr/share/icons' and will be available for all users."
-fi
-read -p "Do you want to continue ? [Y]es, [N]o : " input
-case $input in
+clear
+echo '#-----------------------------------------#'
+echo '#     Moka Icon Theme Install Script      #'
+echo '#-----------------------------------------#'
+
+function continue {
+echo
+read -p "Do you want to continue? (Y)es, (N)o : " INPUT
+case $INPUT in
 	[Yy]* ) ;;
     [Nn]* ) exit 99;;
-    * ) echo "Uh oh, invalid response. Installaton aborted."; exit 1;;
+    * ) echo; echo "Uh oh, invalid response. Please retry."; continue;;
 esac
+}
 
-DIR="$( cd -P "$( dirname "$0" )" && pwd )"
-cd $DIR
-
-tar xf Moka.tar.gz 2>/dev/null
-
-if [ -d $HOME/.icons/Moka ]
-then
+ROOT_UID=0
+if [ "$UID" -ne "$ROOT_UID" ]; then
 	echo
-	read -p "An existing Moka installation has been detected in '$HOME/.icons'. Remove it? [Y]es, [N]o:" input
-	case $input in
-		[Yy]* ) rm -Rf "$HOME/.icons/Moka" 2>/dev/null;;
-	    * ) ;;
-	esac
+	echo "Moka Icon Theme will be installed in '$HOME/.icons'."
+	echo "To make them available to all users, run this script as root."
+	continue
+else
+	echo
+	echo "Moka Icon Theme will be installed in '/usr/share/icons'"
+	echo "It will be available to all users."
+	continue
 fi
+echo
 
-if [ "$UID" -eq "$ROOT_UID" ]
-then
-	if [ -d /usr/share/icons/Moka ]
-	then
+if [ "$UID" -eq "$ROOT_UID" ]; then
+	if [ -d /usr/share/icons/Moka ]; then
 		echo
-		read -p "An existing Moka installation has been detected in '/usr/share/icons'. Remove it? [Y]es, [N]o:" input
-		case $input in
+		read -p "An existing Moka installation has been detected in '/usr/share/icons'. Remove it? (Y)es, (N)o : " INPUT
+		case $INPUT in
 			[Yy]* ) rm -Rf /usr/share/icons/Moka 2>/dev/null;;
 		    * ) ;;
 		esac
@@ -64,7 +62,15 @@ then
 	fi
 	cp -R ./Moka/ /usr/share/icons/
 	install_dir=/usr/share/icons/
-else
+elif [ "$UID" -ne "$ROOT_UID" ]; then
+	if [ -d $HOME/.icons/Moka ]; then
+		echo
+		read -p "An existing Moka installation has been detected in '$HOME/.icons'. Remove it? (Y)es, (N)o :" INPUT
+		case $INPUT in
+			[Yy]* ) rm -Rf "$HOME/.icons/Moka" 2>/dev/null;;
+		    * ) ;;
+		esac
+	fi
 	cp -R ./Moka/ "$HOME/.icons/"
 	install_dir="$HOME/.icons/"
 fi

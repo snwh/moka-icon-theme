@@ -21,27 +21,41 @@
 # You should have received a copy of the GNU General Public License along with
 # this program; if not, see <https://www.gnu.org/licenses/gpl-3.0.txt>
 
-ROOT_UID=0
-if [ "$UID" -ne "$ROOT_UID" ]
-then
-	echo "Moka Icon Theme will be removed from '$HOME/.icons'. To make them available for all users, run this script as root."
-else
-	echo "Moka Icon Theme will be removed from '/usr/share/icons' and will be available for all users."
-fi
-read -p "Do you want to continue ? [Y]es, [N]o : " input
-case $input in
+clear
+echo '#-------------------------------------------#'
+echo '#     Moka Icon Theme Uninstall Script      #'
+echo '#-------------------------------------------#'
+
+function continue {
+echo
+read -p "Do you want to continue? (Y)es, (N)o : " INPUT
+case $INPUT in
 	[Yy]* ) ;;
     [Nn]* ) exit 99;;
-    * ) echo "Uh oh, invalid response. Installaton aborted."; exit 1;;
+    * ) echo; echo "Uh oh, invalid response. Please retry."; continue;;
 esac
+}
 
-if [ "$UID" -eq "$ROOT_UID" ]
-then
+ROOT_UID=0
+if [ "$UID" -ne "$ROOT_UID" ]; then
+	echo
+	echo "Moka Icon Theme will be removed in '$HOME/.icons'."
+	echo "To remove them from the system-wide icons, run this script as root."
+	continue
+else
+	echo
+	echo "Moka Icon Theme will be removed from '/usr/share/icons'"
+	echo "It will be no longer be available to all users."
+	continue
+fi
+echo
+
+if [ "$UID" -eq "$ROOT_UID" ]; then
 	rm -Rf /usr/share/icons/Moka 2>/dev/null
 else
 	rm -Rf $HOME/.icons/Moka 2>/dev/null
 fi
 
 echo
-echo "Uninstal complete! Exiting"
+echo "Uninstallation complete! Exiting"
 exit 0
