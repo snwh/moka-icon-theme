@@ -28,15 +28,15 @@
      stroke="#ef2929"
      fill="#f57900"
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="238.03059"
-     inkscape:cy="185.57866"
-     inkscape:current-layer="g3421"
+     inkscape:cx="403.7879"
+     inkscape:cy="101.32083"
+     inkscape:current-layer="g3642"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -82,6 +82,17 @@
   </sodipodi:namedview>
   <defs
      id="defs3">
+    <linearGradient
+       id="linearGradient4221">
+      <stop
+         style="stop-color:#bdbdbd;stop-opacity:1;"
+         offset="0"
+         id="stop4223" />
+      <stop
+         style="stop-color:#bdbdbd;stop-opacity:0;"
+         offset="1"
+         id="stop4225" />
+    </linearGradient>
     <inkscape:path-effect
        effect="spiro"
        id="path-effect4566"
@@ -89,11 +100,11 @@
     <linearGradient
        id="linearGradient4353">
       <stop
-         style="stop-color:#bdbdbd;stop-opacity:1;"
+         style="stop-color:#777777;stop-opacity:1;"
          offset="0"
          id="stop4355" />
       <stop
-         style="stop-color:#bdbdbd;stop-opacity:1;"
+         style="stop-color:#999999;stop-opacity:1;"
          offset="1"
          id="stop4357" />
     </linearGradient>
@@ -1152,6 +1163,15 @@
        y1="144"
        x2="270"
        y2="160" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4353"
+       id="linearGradient4227"
+       x1="221"
+       y1="105"
+       x2="221"
+       y2="127"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4">
@@ -2897,7 +2917,7 @@
          inkscape:connector-curvature="0"
          id="path5059"
          d="m 201,116 7,6 0,-3 1,0 6,0 1,0 0,3 7,-6 -7,-6 0,3 -1,0 -6,0 -1,0 0,-3 -7,6 z"
-         style="color:#bebebe;fill:#bdbdbd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;fill:url(#linearGradient4227);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          inkscape:connector-curvature="0"
          clip-path="url(#clipPath4979)"
