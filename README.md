@@ -7,27 +7,15 @@ Moka Icon Theme artwork is distributed under the terms of a Creative Commons BY-
 
 ###Source
 
-The source for Moka Icon Theme can be found at: https://github.com/snwh/moka-icon-theme and the dark variant at: https://github.com/snwh/moka-icon-theme-dark
+The source for Moka Icon Theme can be found at: https://github.com/snwh/moka-icon-theme
 
 You can get it's latest version of each from their git repositories:
 
     git clone https://github.com/snwh/moka-icon-theme.git
 
-    git clone https://github.com/snwh/moka-icon-theme-dark.git
-
 NOTE: Moka is currently in Beta and under heavy development.
 
-###Installation
-
-For Ubuntu, Moka is available in a PPA, which can be added using:
-
-    sudo add-apt-repository ppa:snwh/moka-icon-theme-daily 
-
-    sudo apt-get update && sudo apt-get install moka-icon-theme
-
-Or, for the dark variant:
-
-    sudo apt-get update && sudo apt-get install moka-icon-theme-dark
+###Install
 
 To install from source, run the install script to copy the icons to your home folder. 
 
@@ -36,6 +24,22 @@ To install from source, run the install script to copy the icons to your home fo
 Running as root will copy the icon set to  /usr/share/icons to be available system-wide.
     
     sudo ./INSTALL
+
+For Ubuntu and its derivatives, Moka is available in a PPA, which can be added using:
+
+    sudo add-apt-repository ppa:snwh/moka-icon-theme-daily 
+
+    sudo apt-get update && sudo apt-get install moka-icon-theme
+
+###Uninstall
+
+To uninstall, run the uninstall script to remove the locally installed icons. 
+
+    ./INSTALL
+
+Running as root will remove the icon set, if installed, from /usr/share/icons.
+    
+    sudo ./UNINSTALL
 
 ###Making icons with the provided template & scripts
 
