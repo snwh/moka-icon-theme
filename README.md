@@ -41,7 +41,7 @@ Running as root will remove the icon set, if installed, from /usr/share/icons.
     
     sudo ./UNINSTALL
 
-###Making icons with the provided template & scripts
+###Modifying the source
 
 To run the provided scripts (and edit icons) you will need:
 
