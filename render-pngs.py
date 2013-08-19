@@ -10,6 +10,7 @@ import subprocess
 INKSCAPE = '/usr/bin/inkscape'
 OPTIPNG = '/usr/bin/optipng'
 MAINDIR = 'Moka'
+SOURCES = ('src/actions', 'src/animations', 'src/apps', 'src/devices', 'src/dialogs', 'src/games', 'src/mimetypes', 'src/places', 'src/preferences', 'src/status',  'src/symbolic', 'src/web')
 
 inkscape_process = None
 
@@ -173,6 +174,6 @@ def main(SRC):
             print ("Error: No such file", file)
             sys.exit(1)
 
-for source in ('src/actions', 'src/animations', 'src/apps', 'src/devices', 'src/dialogs', 'src/games', 'src/mimetypes', 'src/places', 'src/status',  'src/symbolic', 'src/web'):
+for source in SOURCES:
     SRC = os.path.join('.', source)
     main(SRC)
