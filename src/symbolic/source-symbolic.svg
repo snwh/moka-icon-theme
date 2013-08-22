@@ -32,8 +32,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="152.2721"
-     inkscape:cy="453.88235"
+     inkscape:cx="33.447087"
+     inkscape:cy="479.14321"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -86,6 +86,10 @@
      id="title8473">Moka Symbolic Icon Theme</title>
   <defs
      id="defs7386">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5045"
+       is_visible="true" />
     <inkscape:path-effect
        effect="spiro"
        id="path-effect6187"
@@ -1434,6 +1438,24 @@
      inkscape:label="status"
      style="display:inline"
      transform="translate(-241.0002,467)">
+    <g
+       style="stroke:none"
+       transform="translate(200.00012,-551)"
+       inkscape:label="mail-read"
+       id="g5032">
+      <rect
+         y="297"
+         x="60.99995"
+         height="16"
+         width="16"
+         id="rect5034"
+         style="color:#dddddd;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
+      <path
+         style="fill:#dddddd;fill-opacity:1;stroke:none"
+         d="M 20.84375 215 C 20.5625 215.0469 20 215.25 20 216 L 20 225 C 20 225 20 226 21 226 L 27 226 L 35 226 C 35.554 226 36 225.554 36 225 L 36 220.28125 L 36 220 L 36 216 C 36 216 36 215 35 215 L 21 215 C 21 215 20.9375 214.9844 20.84375 215 z M 21.28125 216.59375 L 26 219.96875 C 25.99966 219.97953 26 219.98914 26 220 L 28 221.40625 L 31.375 219 L 34.71875 216.59375 L 35.28125 217.40625 L 33.0625 219 L 28.28125 222.40625 L 28 222.625 L 27.71875 222.40625 L 26 221.1875 L 20.71875 217.40625 L 21.28125 216.59375 z "
+         transform="translate(41.00008,84)"
+         id="path5036" />
+    </g>
     <g
        transform="translate(40,0)"
        id="g5964"
@@ -5274,33 +5296,6 @@
        transform="translate(245.0002,-503)"
        width="240"
        height="300" />
-    <g
-       id="g6014"
-       inkscape:label="mail-read">
-      <rect
-         y="-253.99998"
-         x="261.00021"
-         height="16"
-         width="16"
-         id="rect35598"
-         style="color:#dddddd;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
-      <rect
-         ry="1.25"
-         y="-251.5"
-         x="261.50021"
-         height="10"
-         width="15"
-         id="rect5209"
-         style="color:#bebebe;fill:none;stroke:#dddddf;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <path
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m 276.00019,-250.5 -7,4.5 -7,-4.5"
-         inkscape:path-effect="#path-effect5985-2"
-         id="path5983"
-         d="m 276.00019,-250.5 -7,4.5 -7,-4.5"
-         style="fill:none;stroke:#dddddd;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;display:inline;enable-background:new" />
-    </g>
     <g
        id="g5833"
        inkscape:label="bluetooth-enabled">
