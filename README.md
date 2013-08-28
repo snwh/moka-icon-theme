@@ -31,6 +31,8 @@ For Ubuntu and its derivatives, Moka is available in a PPA, which can be added u
 
     sudo apt-get update && sudo apt-get install moka-icon-theme
 
+The PPA is synchronized with the GitHub repository and should always deliver the latest version within a few hours, at most a day.
+
 ###Uninstall
 
 To uninstall, run the uninstall script to remove the locally installed icons. 
