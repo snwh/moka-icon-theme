@@ -63,6 +63,8 @@ Likewise, to render symbolic icons, run:
 
 ###Bugs, Issues, Questions, Requests
 
-If you find any bugs or issues with Moka or if you have a question or request, you can visit: https://github.com/snwh/moka-icon-theme/issues or https://launchpad.net/moka-icon-theme
+Any requests for icons can be submitted through this form: http://goo.gl/LsmVmr
+
+If you find any bugs or issues with Moka or if you have a question, you can visit: https://github.com/snwh/moka-icon-theme/issues or https://launchpad.net/moka-icon-theme
 
 -----------
