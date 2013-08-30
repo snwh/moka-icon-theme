@@ -13,7 +13,7 @@ If you're feeling awesome, you may add icons I've missed or that you would like 
 
 A distro-agnostic zip file for Moka Icon Theme can be found [here](http://www.snwh.org/files/moka-icon-theme.zip).
 
-Extract and install locally by running * the INSTALL script. 
+Extract and install locally by running* the INSTALL script. 
 
     ./INSTALL
 
@@ -63,6 +63,6 @@ Likewise, to render symbolic icons (from the source in ../src/symbolic), run:
 
 ###Post-amble
 
-If you find any bugs or issues with Moka or if you have a question, you can visit Moka's issue tracker on [GitHub](https://github.com/snwh/moka-icon-theme/issues) or [Launchpad](https://launchpad.net/moka-icon-theme).
+If you find any bugs or issues with Moka or if you have a question, you can visit Moka's issue tracker on [GitHub](https://github.com/snwh/moka-icon-theme/issues) or its page on [Launchpad](https://launchpad.net/moka-icon-theme).
 
 -----------
