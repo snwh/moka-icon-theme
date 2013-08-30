@@ -63,6 +63,6 @@ Likewise, to render symbolic icons (from the source in ../src/symbolic), run:
 
 ###Post-amble
 
-If you find any bugs or issues with Moka or if you have a question, you can visit Moka's issue tracker on : [GitHub](https://github.com/snwh/moka-icon-theme/issues)or [Launchpad](https://launchpad.net/moka-icon-theme).
+If you find any bugs or issues with Moka or if you have a question, you can visit Moka's issue tracker on [GitHub](https://github.com/snwh/moka-icon-theme/issues) or [Launchpad](https://launchpad.net/moka-icon-theme).
 
 -----------
