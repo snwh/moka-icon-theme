@@ -5,47 +5,44 @@ Moka icons are designed to be a clear, simple and consistent icon set.
 
 Moka Icon Theme is distributed under the terms of the GNU GPL v.3
 
-###Source
 
-The source for Moka Icon Theme can be found at: https://github.com/snwh/moka-icon-theme
+###Download and Install
 
-You can get it's latest version of each from their git repositories:
+A zip file for Moka Icon Theme can be found [here](http://www.snwh.org/files/moka-icon-theme.zip).
 
-    git clone https://github.com/snwh/moka-icon-theme.git
-
-NOTE: Moka is currently in Beta and under heavy development.
-
-###Install
-
-To install from source, run the install script to copy the icons to your home folder. 
+To install, run* the install script to copy the icons to your home folder. 
 
     ./INSTALL
 
-Running as root will copy the icon set to  /usr/share/icons to be available system-wide.
-    
-    sudo ./INSTALL
+*Running as root will install the icon set in '/usr/share/icons' to be available system-wide.
 
-For Ubuntu and its derivatives, Moka is available in a PPA, which can be added using:
+For Ubuntu and its derivatives, Moka is available in a PPA* which can be added using:
 
     sudo add-apt-repository ppa:snwh/moka-icon-theme-daily 
 
     sudo apt-get update && sudo apt-get install moka-icon-theme
 
-The PPA is synchronized with the GitHub repository and should always deliver the latest version within a few hours, at most a day.
+*The PPA is synchronized with the GitHub repository and should always deliver the latest version within a few hours, at most a day.
 
 ###Uninstall
 
-To uninstall, run the uninstall script to remove the locally installed icons. 
+To uninstall, run* the uninstall script to remove the locally installed icons. 
 
     ./UNINSTALL
 
-Running as root will remove the icon set, if installed, from /usr/share/icons.
-    
-    sudo ./UNINSTALL
+*Running as root will remove the icon set from the system-wide folder (/usr/share/icons), if installed.
 
-###Modifying the source
+###Getting the Source
 
-To run the provided scripts (and edit icons) you will need:
+The source for Moka Icon Theme can be found [here](https://github.com/snwh/moka-icon-theme).
+
+Alternatively you can clone the latest version its git repository:
+
+    git clone https://github.com/snwh/moka-icon-theme.git
+
+###Using the Source
+
+There are scripts to simplify the rendering process; to run them (and edit icons) you will need:
 
  * inkscape
  * ruby
@@ -55,16 +52,18 @@ To render new icons from their source SVG files, run the following:
 
     ./render-pngs.py
 
-This script will look in the source directories and render the respective icons (provided there are changes).
+This script will look in the source directories (../src/*) and render the respective icons (provided there are changes).
 
-Likewise, to render symbolic icons, run:
+Likewise, to render symbolic icons (from the source in ../src/symbolic), run:
 
     ./render-symbolic.rb
 
-###Bugs, Issues, Questions, Requests
+###Post-amble
 
-Any requests for icons can be submitted through this form: http://goo.gl/LsmVmr
+If you're feeling awesome, you may find and add icons I've missed to this [form](http://goo.gl/LsmVmr) or contribute a [donation](http://www.snwh.org/donate/ "Donate"). :)
 
-If you find any bugs or issues with Moka or if you have a question, you can visit: https://github.com/snwh/moka-icon-theme/issues or https://launchpad.net/moka-icon-theme
+###Bugs & Issues
+
+If you find any bugs or issues with Moka or if you have a question, you can visit Moka's issue tracker on : [GitHub](https://github.com/snwh/moka-icon-theme/issues)or [Launchpad](https://launchpad.net/moka-icon-theme).
 
 -----------
