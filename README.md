@@ -5,6 +5,9 @@ Moka icons are designed to be a clear, simple and consistent icon set.
 
 Moka Icon Theme is distributed under the terms of the GNU GPL v.3
 
+###Preamble
+
+If you're feeling awesome, you may add icons I've missed or that you would like using this [form](http://goo.gl/LsmVmr) or contribute a [donation](http://www.snwh.org/donate/ "Donate"). :)
 
 ###Download and Install
 
@@ -36,7 +39,7 @@ To uninstall, run* the uninstall script to remove the locally installed icons.
 
 The source for Moka Icon Theme can be found [here](https://github.com/snwh/moka-icon-theme).
 
-Alternatively you can clone the latest version its git repository:
+Alternatively, you can clone the latest version its git repository:
 
     git clone https://github.com/snwh/moka-icon-theme.git
 
@@ -59,10 +62,6 @@ Likewise, to render symbolic icons (from the source in ../src/symbolic), run:
     ./render-symbolic.rb
 
 ###Post-amble
-
-If you're feeling awesome, you may find and add icons I've missed to this [form](http://goo.gl/LsmVmr) or contribute a [donation](http://www.snwh.org/donate/ "Donate"). :)
-
-###Bugs & Issues
 
 If you find any bugs or issues with Moka or if you have a question, you can visit Moka's issue tracker on : [GitHub](https://github.com/snwh/moka-icon-theme/issues)or [Launchpad](https://launchpad.net/moka-icon-theme).
 
