@@ -9,23 +9,23 @@ Moka Icon Theme is distributed under the terms of the GNU GPL v.3
 
 If you're feeling awesome, you may add icons I've missed or that you would like using this [form](http://goo.gl/LsmVmr) or contribute a [donation](http://www.snwh.org/donate/ "Donate"). :)
 
-###Download and Install
+###Download & Install
 
-A zip file for Moka Icon Theme can be found [here](http://www.snwh.org/files/moka-icon-theme.zip).
+A distro-agnostic zip file for Moka Icon Theme can be found [here](http://www.snwh.org/files/moka-icon-theme.zip).
 
-To install, run* the install script to copy the icons to your home folder. 
+Extract and install locally by running * the INSTALL script. 
 
     ./INSTALL
 
 *Running as root will install the icon set in '/usr/share/icons' to be available system-wide.
 
-For Ubuntu and its derivatives, Moka is available in a PPA* which can be added using:
+For Ubuntu and its derivatives, Moka is available in a Launchpad PPA* which can be added using:
 
     sudo add-apt-repository ppa:snwh/moka-icon-theme-daily 
 
     sudo apt-get update && sudo apt-get install moka-icon-theme
 
-*The PPA is synchronized with the GitHub repository and should always deliver the latest version within a few hours, at most a day.
+*The PPA is synchronized with the git repository and should always deliver the latest version within a few hours, at most a day.
 
 ###Uninstall
 
