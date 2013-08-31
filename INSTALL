@@ -18,7 +18,7 @@
 # FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more
 # details.
 #
-# You should have received a copy of the GNU General Public License along with
+# You should have received a copy of .local/share/icons/Mokathe GNU General Public License along with
 # this program; if not, see <https://www.gnu.org/licenses/gpl-3.0.txt>
 
 clear
@@ -55,11 +55,11 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
 	echo "Installation complete!"
 	set
 elif [ "$UID" -ne "$ROOT_UID" ]; then
-	if [ -d $HOME/.icons/Moka ]; then
+	if [ -d $HOME/.local/share/icons/Moka ]; then
 		echo
 		read -p "Found an existing installation. Replace it? (Y)es, (N)o : " INPUT
 		case $INPUT in
-			[Yy]* ) rm -Rf "$HOME/.icons/Moka" 2>/dev/null;;
+			[Yy]* ) rm -Rf "$HOME/.local/share/icons/Moka" 2>/dev/null;;
 			[Nn]* );;
 		    * )
 		    clear && echo 'Sorry, try again.'

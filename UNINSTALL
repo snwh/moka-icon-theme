@@ -40,7 +40,7 @@ function main {
 if [ "$UID" -eq "$ROOT_UID" ]; then
 	rm -Rf /usr/share/icons/Moka 2>/dev/null
 else
-	rm -Rf $HOME/.icons/Moka 2>/dev/null
+	rm -Rf $HOME/.local/share/icons/Moka 2>/dev/null
 fi
 echo
 echo "Uninstallation complete."
