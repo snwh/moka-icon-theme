@@ -67,7 +67,7 @@ elif [ "$UID" -ne "$ROOT_UID" ]; then
 		    ;;
 		esac
 	fi
-	cp -R ./Moka/ "$HOME/.icons/"
+	cp -R ./Moka/ $HOME/.local/share/icons/Moka
 	echo "Installation complete!"
 	set
 fi
@@ -98,7 +98,7 @@ function end {
 ROOT_UID=0
 if [ "$UID" -ne "$ROOT_UID" ]; then
 	echo
-	echo "Moka Icon Theme will be installed in '$HOME/.icons'."
+	echo "Moka Icon Theme will be installed in '$HOME/.local/share/icons/Moka'."
 	echo "To make them available to all users, run this script as root."
 	continue
 else

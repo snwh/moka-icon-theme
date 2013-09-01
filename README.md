@@ -7,7 +7,7 @@ Moka Icon Theme is distributed under the terms of the GNU GPL v.3
 
 ###Preamble
 
-If you're feeling awesome, you may add icons I've missed or that you would like using this [form](http://goo.gl/LsmVmr) or contribute a [donation](http://www.snwh.org/donate/ "Donate"). :)
+If you're feeling awesome, you may add icons I've missed or that you would like using this [form](http://goo.gl/39uPJU) or contribute a [donation](http://www.snwh.org/donate/ "Donate"). :)
 
 ###Download & Install
 
