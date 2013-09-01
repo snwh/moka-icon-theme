@@ -19,7 +19,7 @@ Extract and install locally by running* the INSTALL script.
 
 *Running as root will install the icon set in '/usr/share/icons' to be available system-wide.
 
-For Ubuntu and its derivatives, Moka is available in a Launchpad PPA* which can be added using:
+For Ubuntu and its derivatives, Moka icons (and its variants) are available in a Launchpad PPA* which can be added using:
 
     sudo add-apt-repository ppa:snwh/moka-icon-theme-daily 
 
