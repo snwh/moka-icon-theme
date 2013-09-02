@@ -27,7 +27,7 @@ For Ubuntu and its derivatives, Moka icons (and its variants) are available in a
 
 *The PPA is synchronized with the git repository and should always deliver the latest version within a few hours, at most a day.
 
-###Variants
+###Official Variants
 
  * [Moka-Dark Icon Theme](https://github.com/snwh/moka-icon-theme-dark)
  * [Moka-Blue Icon Theme](https://github.com/snwh/moka-icon-theme-blue)
