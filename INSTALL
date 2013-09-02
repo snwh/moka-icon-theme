@@ -67,7 +67,7 @@ elif [ "$UID" -ne "$ROOT_UID" ]; then
 		    ;;
 		esac
 	fi
-	cp -R ./Moka/ $HOME/.local/share/icons/Moka
+	cp -R ./Moka/ $HOME/.local/share/icons/
 	echo "Installation complete!"
 	set
 fi
