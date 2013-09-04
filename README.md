@@ -26,7 +26,7 @@ Extract and install locally by running* the INSTALL script.
 
     ./INSTALL
 
-*Running as root will install the icon set in '/usr/share/icons' to be available system-wide.
+_*Running as root will install the icon set in '/usr/share/icons' to be available system-wide._
 
 For Ubuntu and its derivatives, Moka icons (and its variants) are available in a Launchpad PPA* which can be added using:
 
@@ -34,7 +34,7 @@ For Ubuntu and its derivatives, Moka icons (and its variants) are available in a
 
     sudo apt-get update && sudo apt-get install moka-icon-theme
 
-*The PPA is synchronized with the git repository and should always deliver the latest version within a few hours, at most a day.
+_*The PPA is synchronized with the git repository and should always deliver the latest version within a few hours, at most a day._
 
 ###Official Variants
 
@@ -47,7 +47,7 @@ To uninstall, run* the uninstall script to remove the locally installed icons.
 
     ./UNINSTALL
 
-*Running as root will remove the icon set from the system-wide folder (/usr/share/icons), if installed.
+_*Running as root will remove the icon set from the system-wide folder (/usr/share/icons), if installed._
 
 ###Getting the Source
 
