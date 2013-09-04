@@ -16,7 +16,7 @@ If you're feeling awesome, you may add icons I've missed or that you would like 
 	gtk-update-icon-cache-3.0: The generated cache was invalid.
 	WARNING: icon cache generation failed for /usr/share/icons/Moka
 
-*This is happenning due to a space in some of the symlinks contained within the theme. It should not interfere with the usability of the theme.*
+This is happenning due to a space in some of the symlinks contained within the theme. It should not interfere with the usability of the theme.
 
 ###Download & Install
 
