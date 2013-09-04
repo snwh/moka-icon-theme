@@ -7,7 +7,16 @@ Moka Icon Theme is distributed under the terms of the GNU GPL v.3
 
 ###Preamble
 
+If you find any bugs or issues with Moka or if you have a question, you can visit Moka's issue tracker on [GitHub](https://github.com/snwh/moka-icon-theme/issues) or its page on [Launchpad](https://launchpad.net/moka-icon-theme).
+
 If you're feeling awesome, you may add icons I've missed or that you would like using this [form](http://goo.gl/39uPJU) or contribute a [donation](http://www.snwh.org/donate/ "Donate"). :)
+
+*Known Issue:*
+
+	gtk-update-icon-cache-3.0: The generated cache was invalid.
+	WARNING: icon cache generation failed for /usr/share/icons/Moka
+
+This is happenning due to a space in some of the symlinks contained within the theme. It should not interfere with the usability of the theme.
 
 ###Download & Install
 
@@ -65,9 +74,5 @@ This script will look in the source directories (../src/*) and render the respec
 Likewise, to render symbolic icons (from the source in ../src/symbolic), run:
 
     ./render-symbolic.rb
-
-###Post-amble
-
-If you find any bugs or issues with Moka or if you have a question, you can visit Moka's issue tracker on [GitHub](https://github.com/snwh/moka-icon-theme/issues) or its page on [Launchpad](https://launchpad.net/moka-icon-theme).
 
 -----------
