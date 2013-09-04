@@ -11,12 +11,12 @@ If you find any bugs or issues with Moka or if you have a question, you can visi
 
 If you're feeling awesome, you may add icons I've missed or that you would like using this [form](http://goo.gl/39uPJU) or contribute a [donation](http://www.snwh.org/donate/ "Donate"). :)
 
-*Known Issue:*
+**Known Issue:**
 
 	gtk-update-icon-cache-3.0: The generated cache was invalid.
 	WARNING: icon cache generation failed for /usr/share/icons/Moka
 
-This is happenning due to a space in some of the symlinks contained within the theme. It should not interfere with the usability of the theme.
+*This is happenning due to a space in some of the symlinks contained within the theme. It should not interfere with the usability of the theme.*
 
 ###Download & Install
 
