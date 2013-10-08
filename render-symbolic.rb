@@ -15,7 +15,7 @@ def chopSVG(icon)
 		FileUtils.cp(SRC,icon[:file]) 
 		puts " >> #{icon[:name]}"
 		cmd = "#{INKSCAPE} -f #{icon[:file]} --select #{icon[:id]} --verb=FitCanvasToSelection  --verb=EditInvertInAllLayers "
-		cmd += "--verb=EditDelete --verb=EditSelectAll --verb=SelectionUnGroup --verb=SelectionUnGroup --verb=SelectionUnGroup --verb=StrokeToPath --verb=FileVacuum "
+		cmd += "--verb=EditDelete --verb=EditSelectAll --verb=SelectionUnGroup --verb=StrokeToPath --verb=FileVacuum "
 		cmd += "--verb=FileSave --verb=FileClose > /dev/null 2>&1"
 		system(cmd)
 		#saving as plain SVG gets rid of the classes :/
@@ -23,9 +23,7 @@ def chopSVG(icon)
 		#system(cmd)
 		svgcrop = Document.new(File.new(icon[:file], 'r'))
 		svgcrop.root.each_element("//rect") do |rect| 
-			w = ((rect.attributes["width"].to_f * 10).round / 10.0).to_i #get rid of 16 vs 15.99999 
-			h = ((rect.attributes["width"].to_f * 10).round / 10.0).to_i #Inkscape bugs
-			if w == 16 && h == 16
+			if rect.attributes["width"] == '16' && rect.attributes["height"] == '16'
 				rect.remove
 			end
 		end
