@@ -52,6 +52,7 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
 		esac
 	fi
 	cp -R ./Moka/ /usr/share/icons/
+	chmod -R 755 /usr/share/icons/Moka
 	echo "Installation complete!"
 	set
 elif [ "$UID" -ne "$ROOT_UID" ]; then
