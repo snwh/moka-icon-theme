@@ -7,19 +7,11 @@ Moka Icon Theme is distributed under the terms of the GNU GPL v.3
 
 ###Preamble
 
-If you find any bugs or issues with Moka or if you have a question, you can visit Moka's issue tracker on [GitHub](https://github.com/snwh/moka-icon-theme/issues) or its page on [Launchpad](https://launchpad.net/moka-icon-theme).
+If you find any bugs or issues with Moka or if you have a question, you can visit Moka's primary issue tracker on [GitHub](https://github.com/snwh/moka-icon-theme/issues). Also you may submit icons I've missed or that you would like using this [form](http://goo.gl/39uPJU)
 
-If you're feeling awesome, you may add icons I've missed or that you would like using this [form](http://goo.gl/39uPJU) or contribute a [donation](http://www.snwh.org/donate/ "Donate"). :)
+###Download
 
-###Supplementary Themes 
-
- * [Moka Symbolic Icon Theme](https://github.com/snwh/moka-icon-theme-symbolic)
- * [Moka Icon Theme Extras](https://github.com/snwh/moka-icon-theme-extras)
-
-###Official Variants 
-
- * [Moka-Dark Icon Theme](https://github.com/snwh/moka-icon-theme-dark)
- * [Moka-Blue Icon Theme](https://github.com/snwh/moka-icon-theme-blue)
+Moka can be downloaded here: [download](http://www.snwh.org/moka-icon-theme/#download).
 
 ###Getting the Source
 
@@ -34,7 +26,6 @@ Alternatively, you can clone the latest version its git repository:
 There are scripts to simplify the rendering process; to run them (and edit icons) you will need:
 
  * inkscape
- * ruby
  * python3
 
 To render new icons from their source SVG files, run the following:
