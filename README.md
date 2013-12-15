@@ -3,7 +3,7 @@ Moka Icon Theme
 
 Moka icons are designed to be a clear, simple and consistent icon set. The base theme (moderately) follows the Tango desktop standards, with all deviantions from the standard being released as supplementary themes (the symbolic icon set and the uniformly-designed icon set).
 
-Moka Icon Theme is distributed under the terms of the GNU GPL v.3
+Moka Icon Theme is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License. 
 
 ###Preamble
 
