@@ -10,7 +10,7 @@ import subprocess
 INKSCAPE = '/usr/bin/inkscape'
 OPTIPNG = '/usr/bin/optipng'
 MAINDIR = 'Moka'
-SOURCES = ('src/apps','src/preferences')
+SOURCES = ('src/apps','src/categories','src/places', 'src/preferences')
 
 inkscape_process = None
 
