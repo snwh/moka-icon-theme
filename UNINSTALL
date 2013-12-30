@@ -1,0 +1,67 @@
+#!/bin/bash
+# -*- Mode: sh; coding: utf-8; indent-tabs-mode: nil; tab-width: 4 -*-
+#
+# Authors:
+#   Sam Hewitt <hewittsamuel@gmail.com>
+#
+# Description:
+#   An uninstallation bash script for Moka Icon Theme
+#
+# Legal Stuff:
+#
+# This file is part of the Moka Icon Theme and is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; version 3.
+#
+# This file is part of the Moka Icon Theme and is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program; if not, see <https://www.gnu.org/licenses/gpl-3.0.txt>
+
+clear
+echo '#-------------------------------------------#'
+echo '#     Moka Icon Theme Uninstall Script      #'
+echo '#-------------------------------------------#'
+
+function continue {
+echo
+read -p "Do you want to continue? (Y)es, (N)o : " INPUT
+case $INPUT in
+	[Yy]* ) main;;
+    [Nn]* ) exit 99;;
+    * ) echo; echo "Uh oh, invalid response. Please retry."; continue;;
+esac
+}
+
+function main {
+if [ "$UID" -eq "$ROOT_UID" ]; then
+	rm -Rf /usr/share/icons/Moka 2>/dev/null
+else
+	rm -Rf $HOME/.local/share/icons/Moka 2>/dev/null
+fi
+echo
+echo "Uninstallation complete."
+# Reset icon theme via GSettings
+echo "Resetting desktop Icon theme to avoid issues..."
+gsettings reset org.gnome.desktop.interface icon-theme
+echo "Done."
+echo "Exiting"
+exit 0
+}
+
+ROOT_UID=0
+if [ "$UID" -ne "$ROOT_UID" ]; then
+	echo
+	echo "Moka Icon Theme will be removed from '$HOME/.local/share/icons'."
+	echo "To remove it from the system-wide icons, run this script as root."
+	continue
+else
+	echo
+	echo "Moka Icon Theme will be removed from '/usr/share/icons'"
+	echo "It will be no longer be available to all users."
+	continue
+fi
+echo
