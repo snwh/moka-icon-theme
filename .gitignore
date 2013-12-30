@@ -1,6 +1,7 @@
 *~
 *.bak
 *.orig
+*.gitignore
 
 debian/files
 debian/moka-icon-theme.debhelper.log
@@ -16,4 +17,3 @@ Moka/.icon-theme.cache
 
 generate-symlinks.sh
 quick.sh
-trim-tray-icons.sh

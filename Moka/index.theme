@@ -40,7 +40,9 @@ Type=Fixed
 [96x96/actions]
 Context=Actions
 Size=96
-Type=Fixed
+MinSize=65
+MaxSize=96
+Type=scalable
 
 [256x256/actions]
 Context=Actions
@@ -107,7 +109,9 @@ Type=Fixed
 [96x96/apps]
 Context=Applications
 Size=96
-Type=Fixed
+MinSize=80
+MaxSize=96
+Type=scalable
 
 [256x256/apps]
 Context=Applications
@@ -158,7 +162,9 @@ Type=Fixed
 [96x96/categories]
 Context=Categories
 Size=96
-Type=Fixed
+MinSize=65
+MaxSize=96
+Type=scalable
 
 [256x256/categories]
 Context=Categories
@@ -209,7 +215,9 @@ Type=Fixed
 [96x96/devices]
 Context=Devices
 Size=96
-Type=Fixed
+MinSize=65
+MaxSize=96
+Type=scalable
 
 [256x256/devices]
 Context=Devices
@@ -260,7 +268,9 @@ Type=Fixed
 [96x96/emblems]
 Context=Emblems
 Size=96
-Type=Fixed
+MinSize=65
+MaxSize=96
+Type=scalable
 
 [256x256/emblems]
 Context=Emblems
@@ -311,7 +321,9 @@ Type=Fixed
 [96x96/emotes]
 Context=Emotes
 Size=96
-Type=Fixed
+MinSize=65
+MaxSize=96
+Type=scalable
 
 [256x256/emotes]
 Context=Emotes
@@ -362,7 +374,9 @@ Type=Fixed
 [96x96/mimetypes]
 Context=MimeTypes
 Size=96
-Type=Fixed
+MinSize=65
+MaxSize=96
+Type=scalable
 
 [256x256/mimetypes]
 Context=MimeTypes
@@ -413,7 +427,9 @@ Type=Fixed
 [96x96/places]
 Context=Places
 Size=96
-Type=Fixed
+MinSize=65
+MaxSize=96
+Type=scalable
 
 [256x256/places]
 Context=Places
@@ -464,7 +480,9 @@ Type=Fixed
 [96x96/status]
 Context=Status
 Size=96
-Type=Fixed
+MinSize=65
+MaxSize=96
+Type=scalable
 
 [256x256/status]
 Context=Status
