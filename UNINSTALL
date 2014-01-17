@@ -38,7 +38,7 @@ esac
 
 function main {
 if [ "$UID" -eq "$ROOT_UID" ]; then
-	rm -Rf /usr/local/share/icons/Moka 2>/dev/null
+	rm -Rf /usr/share/icons/Moka 2>/dev/null
 else
 	rm -Rf $HOME/.local/share/icons/Moka 2>/dev/null
 fi
@@ -60,7 +60,7 @@ if [ "$UID" -ne "$ROOT_UID" ]; then
 	continue
 else
 	echo
-	echo "Moka Icon Theme will be removed from '/usr/local/share/icons'"
+	echo "Moka Icon Theme will be removed from '/usr/share/icons'"
 	echo "It will be no longer be available to all users."
 	continue
 fi
