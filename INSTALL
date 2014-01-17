@@ -39,11 +39,11 @@ esac
 
 function main {
 if [ "$UID" -eq "$ROOT_UID" ]; then
-	if [ -d /usr/local/share/icons/Moka ]; then
+	if [ -d /usr/share/icons/Moka ]; then
 		echo
 		read -p "Found an existing installation. Replace it? (Y)es, (N)o : " INPUT
 		case $INPUT in
-			[Yy]* ) rm -Rf /usr/local/share/icons/Moka 2>/dev/null;;
+			[Yy]* ) rm -Rf /usr/share/icons/Moka 2>/dev/null;;
 			[Nn]* );;
 		    * )
 		    clear && echo 'Sorry, try again.'
@@ -51,8 +51,8 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
 		    ;;
 		esac
 	fi
-	cp -R ./Moka/ /usr/local/share/icons/
-	chmod -R 655 /usr/local/share/icons/Moka
+	cp -R ./Moka/ /usr/share/icons/
+	chmod -R 755 /usr/share/icons/Moka
 	echo "Installation complete!"
 	set
 elif [ "$UID" -ne "$ROOT_UID" ]; then
@@ -104,7 +104,7 @@ if [ "$UID" -ne "$ROOT_UID" ]; then
 	continue
 else
 	echo
-	echo "Moka Icon Theme will be installed in '/usr/local/share/icons'"
+	echo "Moka Icon Theme will be installed in '/usr/share/icons'"
 	echo "It will be available to all users."
 	continue
 fi
