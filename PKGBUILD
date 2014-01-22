@@ -1,4 +1,4 @@
-pkgname=moka-icons﻿
+pkgname=moka-icons
 _pkgname=moka-icon-theme
 pkgver=2.0.0
 pkgrel=1
