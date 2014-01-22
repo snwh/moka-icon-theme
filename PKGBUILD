@@ -1,5 +1,5 @@
-﻿_pkgname=moka-icon-theme
-pkgname=moka-icons
+pkgname=moka-icons﻿
+_pkgname=moka-icon-theme
 pkgver=2.0.0
 pkgrel=1
 pkgdesc="Moka is a stylized Tango-esque Linux desktop icon set. They are designed to be a clear, simple and consistent."
