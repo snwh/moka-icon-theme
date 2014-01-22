@@ -1,5 +1,4 @@
-#
-# spec file for package moka-icon-theme
+# Spec file for package moka-icon-theme
 #
 # Copyright (c) 2014 Sam Hewitt <hewittsamuel@gmail.com>
 #
