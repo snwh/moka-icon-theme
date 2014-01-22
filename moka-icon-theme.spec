@@ -30,7 +30,7 @@ BuildArch:	noarch
 
 
 %description
-Moka Icon Theme
+These are the Moka icons you're looking for
 
 %prep
 %setup -q
