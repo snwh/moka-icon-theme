@@ -11,7 +11,7 @@ makedepends=('git')
 optdepends=()
 provides=('moka-icons')
 conflicts=('moka-icons')
-source=('git://github.com/snwh/moka-icon-theme.git')
+source=('git+https://github.com/snwh/moka-icon-theme.git')
 md5sums=('SKIP')
 
 pkgver() {
