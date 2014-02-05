@@ -1,4 +1,4 @@
-pkgname=moka-icons
+pkgname=moka-icons-git
 _pkgname=moka-icon-theme
 pkgver=2.0.0
 pkgrel=1
@@ -9,8 +9,8 @@ license=('GPL3')
 depends=()
 makedepends=('git')
 optdepends=()
-provides=('moka-icons')
-conflicts=('moka-icons')
+provides=('moka-icons-git')
+conflicts=('moka-icons-git')
 source=('git+https://github.com/snwh/moka-icon-theme.git')
 md5sums=('SKIP')
 
