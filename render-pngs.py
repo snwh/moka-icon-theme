@@ -10,7 +10,8 @@ import subprocess
 INKSCAPE = '/usr/bin/inkscape'
 OPTIPNG = '/usr/bin/optipng'
 MAINDIR = 'Moka'
-SOURCES = ('src/apps/A', 'src/apps/B', 'src/apps/C', 'src/apps/D', 'src/apps/E', 'src/apps/F', 'src/apps/G', 'src/apps/H', 'src/apps/I', 'src/apps/J', 'src/apps/K', 'src/apps/L', 'src/apps/M', 'src/apps/N', 'src/apps/O', 'src/apps/P', 'src/apps/Q', 'src/apps/R', 'src/apps/S', 'src/apps/T', 'src/apps/U', 'src/apps/V', 'src/apps/W', 'src/apps/X', 'src/apps/Y', 'src/apps/Z', 'src/apps/#', 'src/categories', 'src/devices', 'src/games', 'src/mimetypes', 'src/places', 'src/preferences', 'src/web')
+SOURCES = ('src/A', 'src/B', 'src/C', 'src/D', 'src/E', 'src/F', 'src/G', 'src/H', 'src/I', 'src/J', 'src/K', 'src/L', 'src/M', 'src/N', 'src/O', 'src/P', 'src/Q', 'src/R', 'src/S', 'src/T', 'src/U', 'src/V', 'src/W', 'src/X', 'src/Y', 'src/Z', 'src/#')
+
 inkscape_process = None
 
 def main(SRC):
