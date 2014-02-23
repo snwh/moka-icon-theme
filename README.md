@@ -3,7 +3,9 @@ Moka Icon Theme
 
 Moka is a stylized Tango-esque Linux desktop icon set. They are designed to be a clear, simple and consistent.
 
-As it is primarily artwork, Moka Icon Theme is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/legalcode).
+As it is primarily artwork, Moka Icon Theme is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/legalcode).
+
+Any bundled software is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3, or (at your option) any later version.
 
 ###Preamble
 
