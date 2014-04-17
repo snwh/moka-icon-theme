@@ -1,7 +1,7 @@
 Hard Coded Icons
 ================
 
-Due to practices of some application developers, it becomes impossible for icon theme creators to theme all desired applications. When an application doesn't follow desktop icon standards and hardcodes their icon, it becomes impossible for an icon theme to change them.
+Due to practices of some application developers, it becomes difficult for icon theme creators to theme all applications that users desire. When an application doesn't follow desktop icon standards and hardcodes their icon, it becomes impossible for an icon theme to change them.
 
 To fix this problem, one can file issues against upstream projects requesting that the developers abide by the standards. The follow table provides a list of known applications with hardcoded icons & some of the (existing) upstream reports for this problem. 
 
@@ -9,7 +9,7 @@ If you see a project that doesn't have a link? Then file an issue upstream now!
 
 | Application Name | Current Icon Location | Moka Support |
 | :---------------: | :---------------: | :---------------: | 
-| 2048 | /usr/share/2048/meta/apple-touch-icon.png | ✓ |
+| 2048 | /usr/share/2048/meta/apple-touch-icon.png |   |
 | [Android Studio](https://code.google.com/p/android/issues/detail?id=67582) | /opt/android-studio/bin/idea.png | ✓ |
 | [Arista](https://github.com/danielgtaylor/arista/issues/164) | /usr/share/arista/ui/icon.svg | ✓ |
 | Bastion (Steam) | steam |   |
