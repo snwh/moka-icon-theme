@@ -3,7 +3,7 @@ Hard Coded Icons
 
 Due to practices of some application developers, it becomes difficult for icon theme creators to theme all applications that users desire. When an application doesn't follow desktop icon standards and hardcodes their icon, it becomes impossible for an icon theme to change them.
 
-To fix this problem, one can file issues against upstream projects requesting that the developers abide by the standards. The follow table provides a list of known applications with hardcoded icons & some of the (existing) upstream reports for this problem. 
+To address this problem, one can file issues against upstream projects requesting that the developers abide by the standards. The follow table provides a list of known applications with hardcoded icons & some of the (existing) upstream reports for this problem. 
 
 If you see a project that doesn't have a link? Then file an issue upstream now!
 
