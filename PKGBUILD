@@ -4,14 +4,14 @@ pkgver=2.0.0
 pkgrel=1
 pkgdesc="Moka is a stylized Tango-esque Linux desktop icon set. They are designed to be a clear, simple and consistent."
 arch=('any')
-url="https://github.com/snwh/moka-icon-theme"
+url="https://github.com/moka-project/moka-icon-theme"
 license=('GPL3')
 depends=()
 makedepends=('git')
 optdepends=()
 provides=('moka-icons-git')
 conflicts=('moka-icons-git')
-source=('git+https://github.com/snwh/moka-icon-theme.git')
+source=('git+https://github.com/moka-project/moka-icon-theme.git')
 md5sums=('SKIP')
 
 pkgver() {
