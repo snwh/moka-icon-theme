@@ -9,8 +9,7 @@ Homepage: https://github.com/moka-project/moka-icon-theme
 
 Package: moka-icon-theme
 Architecture: all
-Depends: ${misc:Depends}
- faba-icon-theme
+Depends: faba-icon-theme,
+		 ${misc:Depends}
 Description: Moka Icon Theme
- Moka desktop icon theme
  Moka is a stylized Tango-esque Linux desktop icon set. They are designed to be a clear, simple and consistent.
