@@ -1,0 +1,43 @@
+#!/bin/sh -e
+# This script can be called in the following ways:
+#
+# After the package was installed:
+#       <postinst> configure <old-version>
+#
+#
+# If prerm fails during upgrade or fails on failed upgrade:
+#       <old-postinst> abort-upgrade <new-version>
+#
+# If prerm fails during deconfiguration of a package:
+#       <postinst> abort-deconfigure in-favour <new-package> <version>
+#                  removing <old-package> <version>
+#
+# If prerm fails during replacement due to conflict:
+#       <postinst> abort-remove in-favour <new-package> <version>
+
+
+case "$1" in
+    configure)
+	
+	cd /usr/share/icons/Moka/
+
+	DIRECTORIES=('16x16/apps' '22x22/apps' '24x24/apps' '32x32/apps' '48x48/apps' '64x64/apps' '96x96/apps' '256x256/apps')
+
+	for directory in "${DIRECTORIES[@]}"
+	do
+		cd $directory
+	 	ln -sfr web-kindle.png Amazon\ Cloud\ Reader-read.amazon.com.png
+	 	ln -sfr web-google-docs.png Google\ Docs-docs.google.com.png
+	 	ln -sfr web-google-calendar.png Google\ Calendar-google.com.png
+		ln -sfr web-angry-birds.png Angry\ Birds-chrome.angrybirds.com.png
+		cd ..
+		cd ..
+
+    *)
+	echo "$0 called with unknown argument \`$1'" 1>&2
+	exit 1
+	;;
+esac
+
+#DEBHELPER#
+exit 0
