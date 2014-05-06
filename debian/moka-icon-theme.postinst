@@ -18,24 +18,78 @@
 
 case "$1" in
     configure)
-	
+	echo 'Generating icon symlinks for web apps:'
+
 	cd /usr/share/icons/Moka/
 
-	DIRECTORIES=('16x16/apps' '22x22/apps' '24x24/apps' '32x32/apps' '48x48/apps' '64x64/apps' '96x96/apps' '256x256/apps')
+	cd 16x16/apps
+ 	ln -sfr web-kindle.png Amazon\ Cloud\ Reader-read.amazon.com.png
+ 	ln -sfr web-google-docs.png Google\ Docs-docs.google.com.png
+ 	ln -sfr web-google-calendar.png Google\ Calendar-google.com.png
+	ln -sfr web-angry-birds.png Angry\ Birds-chrome.angrybirds.com.png
+	cd ..
+	cd ..
 
-	for directory in "${DIRECTORIES[@]}"
-	do
-		cd $directory
-	 	ln -sfr web-kindle.png Amazon\ Cloud\ Reader-read.amazon.com.png
-	 	ln -sfr web-google-docs.png Google\ Docs-docs.google.com.png
-	 	ln -sfr web-google-calendar.png Google\ Calendar-google.com.png
-		ln -sfr web-angry-birds.png Angry\ Birds-chrome.angrybirds.com.png
-		cd ..
-		cd ..
+	cd 22x22/apps
+ 	ln -sfr web-kindle.png Amazon\ Cloud\ Reader-read.amazon.com.png
+ 	ln -sfr web-google-docs.png Google\ Docs-docs.google.com.png
+ 	ln -sfr web-google-calendar.png Google\ Calendar-google.com.png
+	ln -sfr web-angry-birds.png Angry\ Birds-chrome.angrybirds.com.png
+	cd ..
+	cd ..
 
-    *)
-	echo "$0 called with unknown argument \`$1'" 1>&2
-	exit 1
+	cd 24x24/apps
+ 	ln -sfr web-kindle.png Amazon\ Cloud\ Reader-read.amazon.com.png
+ 	ln -sfr web-google-docs.png Google\ Docs-docs.google.com.png
+ 	ln -sfr web-google-calendar.png Google\ Calendar-google.com.png
+	ln -sfr web-angry-birds.png Angry\ Birds-chrome.angrybirds.com.png
+	cd ..
+	cd ..
+
+	cd 32x32/apps
+ 	ln -sfr web-kindle.png Amazon\ Cloud\ Reader-read.amazon.com.png
+ 	ln -sfr web-google-docs.png Google\ Docs-docs.google.com.png
+ 	ln -sfr web-google-calendar.png Google\ Calendar-google.com.png
+	ln -sfr web-angry-birds.png Angry\ Birds-chrome.angrybirds.com.png
+	cd ..
+	cd ..
+
+	cd 48x48/apps
+ 	ln -sfr web-kindle.png Amazon\ Cloud\ Reader-read.amazon.com.png
+ 	ln -sfr web-google-docs.png Google\ Docs-docs.google.com.png
+ 	ln -sfr web-google-calendar.png Google\ Calendar-google.com.png
+	ln -sfr web-angry-birds.png Angry\ Birds-chrome.angrybirds.com.png
+	cd ..
+	cd ..
+
+	cd 64x64/apps
+ 	ln -sfr web-kindle.png Amazon\ Cloud\ Reader-read.amazon.com.png
+ 	ln -sfr web-google-docs.png Google\ Docs-docs.google.com.png
+ 	ln -sfr web-google-calendar.png Google\ Calendar-google.com.png
+	ln -sfr web-angry-birds.png Angry\ Birds-chrome.angrybirds.com.png
+	cd ..
+	cd ..
+
+	cd 96x96/apps
+ 	ln -sfr web-kindle.png Amazon\ Cloud\ Reader-read.amazon.com.png
+ 	ln -sfr web-google-docs.png Google\ Docs-docs.google.com.png
+ 	ln -sfr web-google-calendar.png Google\ Calendar-google.com.png
+	ln -sfr web-angry-birds.png Angry\ Birds-chrome.angrybirds.com.png
+	cd ..
+	cd ..
+
+	cd 256x256/apps
+ 	ln -sfr web-kindle.png Amazon\ Cloud\ Reader-read.amazon.com.png
+ 	ln -sfr web-google-docs.png Google\ Docs-docs.google.com.png
+ 	ln -sfr web-google-calendar.png Google\ Calendar-google.com.png
+	ln -sfr web-angry-birds.png Angry\ Birds-chrome.angrybirds.com.png
+	cd ..
+	cd ..
+
+	echo 'Done.'
+	;;
+	
+	*)
 	;;
 esac
 
