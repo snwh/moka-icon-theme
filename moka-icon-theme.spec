@@ -14,7 +14,7 @@
 
 
 Name:		moka-icon-theme
-Version:	2.0
+Version:	3.0
 Release:	0
 
 Summary:	Moka Icon theme
