@@ -45,5 +45,5 @@ install -dpm 0755 $RPM_BUILD_ROOT%{_datadir}/icons/
 cp -a Moka/ $RPM_BUILD_ROOT%{_datadir}/icons/
 
 %files
-%doc {AUTHORS,COPYING,LICENSE}
+%doc {AUTHORS,COPYING}
 %{_datadir}/icons/Moka/
