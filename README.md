@@ -3,17 +3,17 @@ Moka Icon Theme
 
 Moka is a stylized Linux desktop icon set. They are designed to be a clear, simple and consistent.
 
-Moka Icon Theme (it's icon assets) are licensed under a [Creative Commons Attribution-NoDerivatives 4.0](http://creativecommons.org/licenses/by-nd/4.0/legalcode) license. Sources for the icons are provided for your inspection and viewing pleasure. 
+Moka Icon Theme (the icon assets and sources) are licensed under a [Creative Commons Attribution-NoDerivatives 4.0](http://creativecommons.org/licenses/by-nd/4.0/legalcode) license.
 
 Any bundled software is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3, or (at your option) any later version.
 
 ###Preamble
 
-If you find any bugs or issues with Moka or if you have a question, you can visit Moka's primary issue tracker on [GitHub](https://github.com/moka-project/moka-icon-theme/issues). Also you may submit icons I've missed or that you would like using this [form](http://goo.gl/39uPJU).
+If you find any bugs or issues with Moka or if you have a question, you can visit Moka's primary issue tracker on [GitHub](https://github.com/moka-project/moka-icon-theme/issues). Also you may submit icons I've missed or that you would like using this [form](http://mokaproject.com/requests/).
 
 ###Download
 
-Moka can be downloaded [here](http://www.mokaproject.com/moka-icon-theme/#download) for whatever you like.
+Moka can be downloaded [here](http://www.mokaproject.com/moka-icon-theme/#download).
 
 ###Getting the Source
 
