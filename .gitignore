@@ -3,6 +3,7 @@
 *.orig
 *.gitignore
 *.zip
+*.sh
 *.tar.gz
 
 debian/files
@@ -14,11 +15,5 @@ debian/moka-icon-theme.substvars
 debian/moka-icon-theme
 
 src/OLD
-
-Moka/.icon-theme.cache
-
-create-zip.sh
-generate-symlinks.sh
-quick.sh
-
-moka-icon-theme.zip
+src/TMP
+src/WIP
