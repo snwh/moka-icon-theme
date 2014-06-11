@@ -32,9 +32,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="130.67499"
-     inkscape:cy="152.65185"
-     inkscape:current-layer="layer6"
+     inkscape:cx="418.38964"
+     inkscape:cy="132.56609"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -529,6 +529,38 @@
        x2="337.00037"
        y2="33.000019"
        gradientTransform="matrix(-9,0,0,9,3285.0033,-249.00017)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#outerBackgroundGradient"
+       id="linearGradient4245"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.03333333,0,0,0.03333333,415.2,166.66666)"
+       x1="264"
+       y1="280.00003"
+       x2="264"
+       y2="40.00005" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4759">
+      <rect
+         ry="1.5"
+         y="168"
+         x="416"
+         height="8"
+         width="8"
+         id="rect4761"
+         style="color:#bebebe;fill:url(#linearGradient4763);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#outerBackgroundGradient"
+       id="linearGradient4763"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.03333333,0,0,0.03333333,415.2,166.66666)"
+       x1="264"
+       y1="280.00003"
+       x2="264"
+       y2="40.00005" />
   </defs>
   <metadata
      id="metadata4">
@@ -679,6 +711,14 @@
          x="288"
          y="28"
          inkscape:label="96x96" />
+      <rect
+         inkscape:label="16x16"
+         y="168"
+         x="416"
+         height="8"
+         width="8"
+         id="rect4237"
+         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -855,12 +895,26 @@
          x="290"
          y="142"
          ry="12.5" />
+      <rect
+         style="color:#bebebe;fill:url(#linearGradient4245);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4243"
+         width="8"
+         height="8"
+         x="416"
+         y="168"
+         ry="1.5" />
     </g>
     <g
        inkscape:groupmode="layer"
        id="layer6"
        inkscape:label="Symbols"
        style="display:inline">
+      <path
+         sodipodi:nodetypes="ccccsacsscc"
+         inkscape:connector-curvature="0"
+         id="path4773"
+         d="m 420,170.5628 2.6195,1.78125 -2.6195,1.59375 0,-0.9375 -0.55701,0.0937 c -0.50474,0.0849 -0.96435,0.32751 -1.10156,0.75 -0.16411,0.50533 0.53906,1.5 0.53906,1.5 0,0 -1.5,-0.5625 -1.5,-1.78125 0,-1.17132 0.75,-1.96875 1.875,-1.96875 L 420,171.5003 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.2;color:#bebebe;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
       <path
          sodipodi:nodetypes="ccccsacsscc"
          inkscape:connector-curvature="0"
@@ -945,13 +999,18 @@
          id="path3952"
          d="m 152.99997,97.50001 58.2363,40.5 -58.2363,40.5 0,-22.5 -18,0 c -12.28419,0 -23.1444,7.86018 -26.4375,18 -3.93867,12.12784 12.9375,36 12.9375,36 0,0 -36,-13.5 -36,-42.75 0,-28.11169 18,-47.25 45,-47.25 l 22.5,0 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+      <path
+         sodipodi:nodetypes="ccccsacsscc"
+         inkscape:connector-curvature="0"
+         id="path4769"
+         d="m 420,169.5625 2.6195,1.78125 L 420,172.9375 420,172 l -0.55701,0.0937 c -0.50474,0.0849 -0.96435,0.32751 -1.10156,0.75 -0.16411,0.50533 0.53906,1.5 0.53906,1.5 0,0 -1.5,-0.5625 -1.5,-1.78125 0,-1.17132 0.75,-1.96875 1.875,-1.96875 L 420,170.5 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     </g>
     <g
        inkscape:groupmode="layer"
        id="layer5"
        inkscape:label="Highlights"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <rect
          ry="9"
          y="307"
@@ -959,11 +1018,11 @@
          height="42"
          width="42"
          id="rect4884"
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="opacity:0.15;color:#bebebe;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          transform="matrix(0,1,1,0,-16,488)"
          clip-path="url(#clipPath4891)" />
       <rect
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="opacity:0.15;color:#bebebe;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect5311"
          width="16"
          height="16"
@@ -979,7 +1038,7 @@
          height="220"
          width="220"
          id="rect3858"
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="opacity:0.15;color:#bebebe;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          clip-path="url(#clipPath3862)" />
       <rect
          ry="12.5"
@@ -988,10 +1047,10 @@
          height="60"
          width="60"
          id="rect4175"
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="opacity:0.15;color:#bebebe;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          clip-path="url(#clipPath4187)" />
       <rect
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="opacity:0.15;color:#bebebe;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect4342"
          width="88"
          height="88"
@@ -1006,10 +1065,10 @@
          height="22"
          width="22"
          id="rect3866"
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="opacity:0.15;color:#bebebe;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          clip-path="url(#clipPath3871)" />
       <rect
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="opacity:0.15;color:#bebebe;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect3877"
          width="30"
          height="30"
@@ -1017,6 +1076,15 @@
          y="53"
          ry="7"
          clip-path="url(#clipPath3881)" />
+      <rect
+         ry="1.5"
+         y="168"
+         x="416"
+         height="8"
+         width="8"
+         id="rect4247"
+         style="display:inline;enable-background:accumulate;color:#bebebe;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;marker:none;visibility:visible;overflow:visible;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.14999999999999999"
+         clip-path="url(#clipPath4759)" />
     </g>
   </g>
 </svg>
