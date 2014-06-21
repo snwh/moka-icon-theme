@@ -14,6 +14,10 @@ debian/moka-icon-theme.prerm.debhelper
 debian/moka-icon-theme.substvars
 debian/moka-icon-theme
 
+data
+data/
+data/*
+
 src/OLD
 src/TMP
 src/WIP
