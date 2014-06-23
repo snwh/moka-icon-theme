@@ -528,51 +528,51 @@ Type=scalable
 # Web
 
 [16x16/web]
-Context=Apps
+Context=Applications
 Size=16
 Type=Threshold
 
 [22x22/web]
-Context=Apps
+Context=Applications
 Size=22
 Type=Threshold
 
 [24x24/web]
-Context=Apps
+Context=Applications
 Size=24
 Type=Threshold
 
 [32x32/web]
-Context=Apps
+Context=Applications
 Size=32
 Type=Threshold
 
 [48x48/web]
-Context=Apps
+Context=Applications
 Size=48
 Type=Threshold
 
 [64x64/web]
-Context=Apps
+Context=Applications
 Size=64
 Type=Threshold
 
 [96x96/web]
-Context=Apps
+Context=Applications
 Size=96
 MinSize=65
 MaxSize=96
 Type=scalable
 
 [256x256/web]
-Context=Apps
+Context=Applications
 Size=256
 MinSize=97
 MaxSize=256
 Type=scalable
 
 [scalable/web]
-Context=Apps
+Context=Applications
 Size=16
 MinSize=16
 MaxSize=256
