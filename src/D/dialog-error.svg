@@ -16,7 +16,7 @@
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="dialog-error.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -32,17 +32,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="137.5274"
+     inkscape:cx="139.5274"
      inkscape:cy="215.34273"
      inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1358"
-     inkscape:window-height="704"
+     inkscape:window-width="1364"
+     inkscape:window-height="701"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      width="400px"
      height="300px"
      inkscape:snap-nodes="true"
@@ -382,7 +382,7 @@
         <dc:source />
         <cc:license
            rdf:resource="" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:subject>
           <rdf:Bag />
         </dc:subject>
@@ -715,7 +715,7 @@
            style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;enable-background:accumulate"
            id="ellipse4227"
            transform="matrix(1,0,0,0.88888889,0,25.555555)"
-           d="m 330,268.25 a 2,2.25 0 0 1 -2,2.25 2,2.25 0 0 1 -2,-2.25 2,2.25 0 0 1 2,-2.25 2,2.25 0 0 1 2,2.25 z" />
+           d="m 330,268.25 c 0,1.24264 -0.89543,2.25 -2,2.25 -1.10457,0 -2,-1.00736 -2,-2.25 0,-1.24264 0.89543,-2.25 2,-2.25 1.10457,0 2,1.00736 2,2.25 z" />
       </g>
       <g
          style="display:inline;opacity:0.2;fill:#000000;fill-opacity:1;enable-background:new"
@@ -735,7 +735,7 @@
            transform="matrix(1,0,0,0.88888889,0,25.555555)"
            id="ellipse4233"
            style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;enable-background:accumulate"
-           d="m 330,268.25 a 2,2.25 0 0 1 -2,2.25 2,2.25 0 0 1 -2,-2.25 2,2.25 0 0 1 2,-2.25 2,2.25 0 0 1 2,2.25 z" />
+           d="m 330,268.25 c 0,1.24264 -0.89543,2.25 -2,2.25 -1.10457,0 -2,-1.00736 -2,-2.25 0,-1.24264 0.89543,-2.25 2,-2.25 1.10457,0 2,1.00736 2,2.25 z" />
       </g>
       <g
          id="g4235"
@@ -755,7 +755,7 @@
            style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;enable-background:accumulate"
            id="ellipse4239"
            transform="matrix(1,0,0,0.88888889,0,25.555555)"
-           d="m 330,268.25 a 2,2.25 0 0 1 -2,2.25 2,2.25 0 0 1 -2,-2.25 2,2.25 0 0 1 2,-2.25 2,2.25 0 0 1 2,2.25 z" />
+           d="m 330,268.25 c 0,1.24264 -0.89543,2.25 -2,2.25 -1.10457,0 -2,-1.00736 -2,-2.25 0,-1.24264 0.89543,-2.25 2,-2.25 1.10457,0 2,1.00736 2,2.25 z" />
       </g>
       <g
          id="g4241"
@@ -770,8 +770,8 @@
       </g>
       <g
          id="g4245"
-         style="display:inline;opacity:0.2;fill:#000000;fill-opacity:1;enable-background:new"
-         transform="matrix(1.25,0,0,1.25,-74.5,-134.5)">
+         style="opacity:0.2;fill:#000000;fill-opacity:1;display:inline;enable-background:new"
+         transform="matrix(1.25,0,0,1.25,-75,-135)">
         <g
            style="fill:#000000;fill-opacity:1"
            id="g4247"
@@ -779,7 +779,7 @@
           <path
              sodipodi:nodetypes="ccccccc"
              d="m 329,257 -2,0 c 0,-3 -0.98417,-7.79026 -1,-11 l 0,-8 4,0 0,8 c -0.196,3.85555 -1,8 -1,11 z"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
              id="path4249"
              inkscape:connector-curvature="0" />
           <ellipse
@@ -789,8 +789,12 @@
              cx="328"
              transform="matrix(1,0,0,0.88888889,0,25.555555)"
              id="ellipse4251"
-             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;enable-background:accumulate"
-             d="m 330,268.25 a 2,2.25 0 0 1 -2,2.25 2,2.25 0 0 1 -2,-2.25 2,2.25 0 0 1 2,-2.25 2,2.25 0 0 1 2,2.25 z" />
+             style="color:#bebebe;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             d="m 330,268.25 c 0,1.24264 -0.89543,2.25 -2,2.25 -1.10457,0 -2,-1.00736 -2,-2.25 0,-1.24264 0.89543,-2.25 2,-2.25 1.10457,0 2,1.00736 2,2.25 z"
+             sodipodi:cx="328"
+             sodipodi:cy="268.25"
+             sodipodi:rx="2"
+             sodipodi:ry="2.25" />
         </g>
       </g>
       <g
@@ -811,7 +815,7 @@
            transform="matrix(1,0,0,0.88888889,0,25.555555)"
            id="ellipse4257"
            style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;enable-background:accumulate"
-           d="m 330,268.25 a 2,2.25 0 0 1 -2,2.25 2,2.25 0 0 1 -2,-2.25 2,2.25 0 0 1 2,-2.25 2,2.25 0 0 1 2,2.25 z" />
+           d="m 330,268.25 c 0,1.24264 -0.89543,2.25 -2,2.25 -1.10457,0 -2,-1.00736 -2,-2.25 0,-1.24264 0.89543,-2.25 2,-2.25 1.10457,0 2,1.00736 2,2.25 z" />
       </g>
       <g
          id="g4259"
@@ -831,7 +835,7 @@
            style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;enable-background:accumulate"
            id="ellipse4263"
            transform="matrix(1,0,0,0.88888889,0,25.555555)"
-           d="m 330,268.25 a 2,2.25 0 0 1 -2,2.25 2,2.25 0 0 1 -2,-2.25 2,2.25 0 0 1 2,-2.25 2,2.25 0 0 1 2,2.25 z" />
+           d="m 330,268.25 c 0,1.24264 -0.89543,2.25 -2,2.25 -1.10457,0 -2,-1.00736 -2,-2.25 0,-1.24264 0.89543,-2.25 2,-2.25 1.10457,0 2,1.00736 2,2.25 z" />
       </g>
       <g
          transform="matrix(5,0,0,5,-1496,-1104)"
@@ -851,7 +855,7 @@
            cy="268.25"
            rx="2"
            ry="2.25"
-           d="m 330,268.25 a 2,2.25 0 0 1 -2,2.25 2,2.25 0 0 1 -2,-2.25 2,2.25 0 0 1 2,-2.25 2,2.25 0 0 1 2,2.25 z" />
+           d="m 330,268.25 c 0,1.24264 -0.89543,2.25 -2,2.25 -1.10457,0 -2,-1.00736 -2,-2.25 0,-1.24264 0.89543,-2.25 2,-2.25 1.10457,0 2,1.00736 2,2.25 z" />
       </g>
       <g
          transform="translate(-16,-7.9999997)"
@@ -871,7 +875,7 @@
            cy="268.25"
            rx="2"
            ry="2.25"
-           d="m 330,268.25 a 2,2.25 0 0 1 -2,2.25 2,2.25 0 0 1 -2,-2.25 2,2.25 0 0 1 2,-2.25 2,2.25 0 0 1 2,2.25 z" />
+           d="m 330,268.25 c 0,1.24264 -0.89543,2.25 -2,2.25 -1.10457,0 -2,-1.00736 -2,-2.25 0,-1.24264 0.89543,-2.25 2,-2.25 1.10457,0 2,1.00736 2,2.25 z" />
       </g>
       <g
          transform="matrix(1.9285714,0,0,1.9285714,-296.57142,-409.99999)"
@@ -891,7 +895,7 @@
            cy="268.25"
            rx="2"
            ry="2.25"
-           d="m 330,268.25 a 2,2.25 0 0 1 -2,2.25 2,2.25 0 0 1 -2,-2.25 2,2.25 0 0 1 2,-2.25 2,2.25 0 0 1 2,2.25 z" />
+           d="m 330,268.25 c 0,1.24264 -0.89543,2.25 -2,2.25 -1.10457,0 -2,-1.00736 -2,-2.25 0,-1.24264 0.89543,-2.25 2,-2.25 1.10457,0 2,1.00736 2,2.25 z" />
       </g>
       <g
          transform="matrix(0.5,0,0,0.5,260,20)"
@@ -905,8 +909,8 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="matrix(1.25,0,0,1.25,-74.5,-135.5)"
-         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;enable-background:new"
+         transform="matrix(1.25,0,0,1.25,-75,-136)"
+         style="fill:#ffffff;fill-opacity:1;display:inline;enable-background:new"
          id="g3986">
         <g
            transform="translate(-12.4,-5.9999999)"
@@ -915,18 +919,22 @@
           <path
              inkscape:connector-curvature="0"
              id="path3990"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
              d="m 329,257 -2,0 c 0,-3 -0.98417,-7.79026 -1,-11 l 0,-8 4,0 0,8 c -0.196,3.85555 -1,8 -1,11 z"
              sodipodi:nodetypes="ccccccc" />
           <ellipse
-             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;enable-background:accumulate"
+             style="color:#bebebe;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
              id="path3992"
              transform="matrix(1,0,0,0.88888889,0,25.555555)"
              cx="328"
              cy="268.25"
              rx="2"
              ry="2.25"
-             d="m 330,268.25 a 2,2.25 0 0 1 -2,2.25 2,2.25 0 0 1 -2,-2.25 2,2.25 0 0 1 2,-2.25 2,2.25 0 0 1 2,2.25 z" />
+             d="m 330,268.25 c 0,1.24264 -0.89543,2.25 -2,2.25 -1.10457,0 -2,-1.00736 -2,-2.25 0,-1.24264 0.89543,-2.25 2,-2.25 1.10457,0 2,1.00736 2,2.25 z"
+             sodipodi:cx="328"
+             sodipodi:cy="268.25"
+             sodipodi:rx="2"
+             sodipodi:ry="2.25" />
         </g>
       </g>
       <g
@@ -947,7 +955,7 @@
            cy="268.25"
            rx="2"
            ry="2.25"
-           d="m 330,268.25 a 2,2.25 0 0 1 -2,2.25 2,2.25 0 0 1 -2,-2.25 2,2.25 0 0 1 2,-2.25 2,2.25 0 0 1 2,2.25 z" />
+           d="m 330,268.25 c 0,1.24264 -0.89543,2.25 -2,2.25 -1.10457,0 -2,-1.00736 -2,-2.25 0,-1.24264 0.89543,-2.25 2,-2.25 1.10457,0 2,1.00736 2,2.25 z" />
       </g>
       <g
          transform="translate(104,-188)"
@@ -967,7 +975,7 @@
            cy="268.25"
            rx="2"
            ry="2.25"
-           d="m 330,268.25 a 2,2.25 0 0 1 -2,2.25 2,2.25 0 0 1 -2,-2.25 2,2.25 0 0 1 2,-2.25 2,2.25 0 0 1 2,2.25 z" />
+           d="m 330,268.25 c 0,1.24264 -0.89543,2.25 -2,2.25 -1.10457,0 -2,-1.00736 -2,-2.25 0,-1.24264 0.89543,-2.25 2,-2.25 1.10457,0 2,1.00736 2,2.25 z" />
       </g>
     </g>
     <g
