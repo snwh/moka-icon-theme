@@ -14,20 +14,16 @@
 
 
 Name:		moka-icon-theme
-Version:	3.0
-Release:	0
-
+Version:	4.0
+Release:	1
 Summary:	Moka Icon theme
 Group:		System/GUI/Other
-License:    LGPL-3.0+ or CC-BY-SA-3.0
-
+License:    LGPL-3.0+ or CC-BY-ND-3.0
 Group:      System/GUI/GNOME
 Url:        http://www.mokaproject.com/moka-icon-theme
 Source0:	%{name}-%{version}.tar.gz
-
-Requires:	hicolor-icon-theme, gnome-icon-theme
+Requires:	faba-icon-theme hicolor-icon-theme, gnome-icon-theme
 BuildArch:	noarch
-
 
 %description
 These are the Moka icons you're looking for
@@ -35,15 +31,16 @@ These are the Moka icons you're looking for
 %prep
 %setup -q
 
-# Delete dead icon symlinks
-find -L . -type l -delete
-
 %build
 
 %install
 install -dpm 0755 $RPM_BUILD_ROOT%{_datadir}/icons/
 cp -a Moka/ $RPM_BUILD_ROOT%{_datadir}/icons/
 
+%clean
+# Delete dead icon symlinks
+find -L . -type l -delete
+
 %files
-%doc {AUTHORS,COPYING}
+%doc AUTHORS COPYING
 %{_datadir}/icons/Moka/
