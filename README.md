@@ -1,7 +1,7 @@
 Moka Icon Theme
 ===============
 
-Moka is a stylized Linux desktop icon set. They are designed to be a clear, simple and consistent.
+Moka is a stylized Linux desktop icon set, and the titular icon theme of the [Moka Project](http://mokaproject.com). They are designed to be clear, simple and consistent.
 
 Moka Icon Theme (the icon assets and sources) are licensed under a [Creative Commons Attribution-ShareAlike 4.0](http://creativecommons.org/licenses/by-sa/4.0/legalcode) license.
 
