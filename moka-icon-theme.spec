@@ -14,8 +14,8 @@
 
 
 Name:		moka-icon-theme
-Version:	4.0
-Release:	3
+Version:	5.0
+Release:	0
 Summary:	Moka Icon theme
 Group:		System/GUI/Other
 License:    LGPL-3.0+ or CC-BY-ND-3.0
