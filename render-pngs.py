@@ -10,7 +10,7 @@ import subprocess
 INKSCAPE = '/usr/bin/inkscape'
 OPTIPNG = '/usr/bin/optipng'
 MAINDIR = 'Moka'
-SOURCES = ('src-next/#', 'src-next/A', 'src-next/B', 'src-next/C', 'src-next/D', 'src-next/E', 'src-next/F', 'src-next/G', 'src-next/H', 'src-next/I', 'src-next/J', 'src-next/K', 'src-next/L', 'src-next/M', 'src-next/N', 'src-next/O', 'src-next/P', 'src-next/Q', 'src-next/R', 'src-next/S', 'src-next/T', 'src-next/U', 'src-next/V', 'src-next/W', 'src-next/web', 'src-next/X', 'src-next/Y', 'src-next/Z')
+SOURCES = ('src/#', 'src/A', 'src/B', 'src/C', 'src/D', 'src/E', 'src/F', 'src/G', 'src/H', 'src/I', 'src/J', 'src/K', 'src/L', 'src/M', 'src/N', 'src/O', 'src/P', 'src/Q', 'src/R', 'src/S', 'src/T', 'src/U', 'src/V', 'src/W', 'src/web', 'src/X', 'src/Y', 'src/Z')
 
 inkscape_process = None
 
