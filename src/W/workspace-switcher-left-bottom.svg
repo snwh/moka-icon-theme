@@ -17,7 +17,7 @@
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="workspace-switcher-right-top.svg"
+   sodipodi:docname="workspace-switcher-left-bottom.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new"
@@ -32,9 +32,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="236.52044"
-     inkscape:cy="51.721821"
-     inkscape:current-layer="layer7"
+     inkscape:cx="250.21163"
+     inkscape:cy="82.957411"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -215,7 +215,15 @@
          offset="0"
          id="stop4438" />
       <stop
-         style="stop-color:#b4b4b4;stop-opacity:1;"
+         id="stop4380"
+         offset="0.5"
+         style="stop-color:#c0c0c0;stop-opacity:1;" />
+      <stop
+         id="stop4378"
+         offset="0.5"
+         style="stop-color:#a2a2a2;stop-opacity:1;" />
+      <stop
+         style="stop-color:#c0c0c0;stop-opacity:1;"
          offset="1"
          id="stop4440" />
     </linearGradient>
@@ -386,7 +394,15 @@
          offset="0"
          id="stop3864-8-6-3-1" />
       <stop
-         style="stop-color:#90dbec;stop-opacity:1"
+         style="stop-color:#63b2e9;stop-opacity:1;"
+         offset="0.5"
+         id="stop4376" />
+      <stop
+         style="stop-color:#3689e6;stop-opacity:1;"
+         offset="0.5"
+         id="stop4374" />
+      <stop
+         style="stop-color:#63b2e9;stop-opacity:1;"
          offset="1"
          id="stop3866-9-1-7" />
     </linearGradient>
@@ -407,7 +423,7 @@
         <dc:source />
         <cc:license
            rdf:resource="" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:subject>
           <rdf:Bag />
         </dc:subject>
