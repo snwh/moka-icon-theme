@@ -7,7 +7,7 @@ import sys
 import xml.sax
 import subprocess
 
-INKSCAPE = '/usr/bin/inkscape'
+# INKSCAPE = '/usr/bin/inkscape'
 OPTIPNG = '/usr/bin/optipng'
 MAINDIR = 'Moka'
 SOURCES = ('src/#', 'src/A', 'src/B', 'src/C', 'src/D', 'src/E', 'src/F', 'src/G', 'src/H', 'src/I', 'src/J', 'src/K', 'src/L', 'src/M', 'src/N', 'src/O', 'src/P', 'src/Q', 'src/R', 'src/S', 'src/T', 'src/U', 'src/V', 'src/W', 'src/web', 'src/X', 'src/Y', 'src/Z')
