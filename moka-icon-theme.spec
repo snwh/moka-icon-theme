@@ -22,7 +22,7 @@ License:    LGPL-3.0+ or CC-BY-SA-4.0
 Group:      System/GUI/GNOME
 Url:        http://www.mokaproject.com/moka-icon-theme
 Source0:	%{name}-%{version}.tar.gz
-Requires:	faba-icon-theme hicolor-icon-theme, gnome-icon-theme
+Requires:	faba-icon-theme
 BuildArch:	noarch
 
 %description
