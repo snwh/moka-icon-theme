@@ -39,7 +39,7 @@ cp -a Moka/ $RPM_BUILD_ROOT%{_datadir}/icons/
 
 %clean
 # Delete dead icon symlinks
-find -L . -type l -delete
+# find -L . -type l -delete
 
 %files
 %doc AUTHORS COPYING
