@@ -1,5 +1,9 @@
 --------------------------------------------------------------------------------
 Install Paper Icon theme
 --------------------------------------------------------------------------------
-For personal use, copying the 'Paper' folder to '$HOME/.local/share/icons' will do
-or copy 'Paper' into '/usr/share/icons' to make it available system-wide
+
+You can build and install the theme from source or run the included install script.
+
+    bash autogen.sh
+    make
+    sudo make install

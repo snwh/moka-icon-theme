@@ -1,7 +1,7 @@
 Moka Icon Theme
 ===============
 
-Moka is a stylized Linux desktop icon set, and the titular icon theme of the [Moka Project](http://mokaproject.com). They are designed to be clear, simple and consistent.
+Moka is a stylized Linux desktop icon set, and the titular icon theme of the [Moka Project](http://snwh.org/moka/). They are designed to be clear, simple and consistent.
 
 Moka Icon Theme (the icon assets and sources) are licensed under a [Creative Commons Attribution-ShareAlike 4.0](http://creativecommons.org/licenses/by-sa/4.0/legalcode) license.
 
@@ -9,11 +9,11 @@ Any bundled software is free software; you can redistribute it and/or modify it 
 
 ###Preamble
 
-If you find any bugs or issues with Moka or if you have a question, you can visit Moka's primary issue tracker on [GitHub](https://github.com/moka-project/moka-icon-theme/issues). Also you may submit icons I've missed or that you would like using this [form](http://mokaproject.com/requests/).
+If you find any bugs or issues with Moka or if you have a question, you can visit Moka's primary issue tracker on [GitHub](https://github.com/moka-project/moka-icon-theme/issues). Also you may submit icons I've missed or that you would like using this [form](http://snwh.org/moka/help/requests/).
 
 ###Download
 
-Moka can be downloaded [here](http://www.mokaproject.com/moka-icon-theme/#download).
+Moka can be downloaded [here](http://snwh.org/moka/moka-icon-theme/download/).
 
 ###Getting the Source
 
@@ -39,5 +39,13 @@ If it's throwing an error, the script may not be executable, try:
 	chmod +x render-pngs.py
 
 This script will look in the source directories (../src/*) and render the respective icons (provided there are changes).
+
+###Installing Moka
+
+You can build and install the theme from source or run the included install script.
+
+    bash autogen.sh
+    make
+    sudo make install
 
 -----------
