@@ -32,11 +32,13 @@ There are scripts to simplify the rendering process; to run them (and edit icons
 
 To render new icons from their source SVG files, run the following:
 
-    ./render-pngs.py
+    ./render-bitmaps.py
+    ./render-bitmaps-hidpi.py
 
 If it's throwing an error, the script may not be executable, try:
 	
-	chmod +x render-pngs.py
+	chmod +x render-bitmaps.py
+	chmod +x render-bitmaps-hidpi.py
 
 This script will look in the source directories (../src/*) and render the respective icons (provided there are changes).
 
