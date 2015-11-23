@@ -7,17 +7,9 @@ Moka Icon Theme (the icon assets and sources) are licensed under a [Creative Com
 
 Any bundled software is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3, or (at your option) any later version.
 
-###Preamble
-
-If you find any bugs or issues with Moka or if you have a question, you can visit Moka's primary issue tracker on [GitHub](https://github.com/moka-project/moka-icon-theme/issues). Also you may submit icons I've missed or that you would like using this [form](http://snwh.org/moka/help/requests/).
-
-###Download
-
-Moka can be downloaded [here](http://snwh.org/moka/moka-icon-theme/download/).
-
 ###Getting the Source
 
-The source for Moka Icon Theme can be found [here](https://github.com/moka-project/moka-icon-theme).
+The original source for Moka Icon Theme can be found [here](https://github.com/moka-project/moka-icon-theme).
 
 Alternatively, you can clone the latest version its git repository:
 
