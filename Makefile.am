@@ -10,7 +10,7 @@ themedir = $(datadir)/icons
 
 install-data-hook:
 	$(MKDIR_P) $(DESTDIR)/usr/share/icons
-	cp -Rv Moka $(DESTDIR)/usr/share/icons/.
+	cp -R Moka $(DESTDIR)/usr/share/icons/.
 
 uninstall-hook:
 	test -e $(DESTDIR)/usr/share/icons/Moka && rm -rfv $(DESTDIR)/usr/share/icons/Moka
