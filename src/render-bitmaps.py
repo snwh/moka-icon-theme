@@ -1,7 +1,21 @@
 #!/usr/bin/python3
-
-# 
-
+#
+# Legal Stuff:
+#
+# This file is part of the Moka Icon Theme and is free software; you can redistribute it and/or modify it under
+# the terms of the GNU Lesser General Public License as published by the Free Software
+# Foundation; version 3.
+#
+# This file is part of the Moka Icon Theme and is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program; if not, see <https://www.gnu.org/licenses/lgpl-3.0.txt>
+#
+#
+# Thanks to the GNOME icon developers for the original version of this script
 import os
 import sys
 import xml.sax
@@ -9,8 +23,8 @@ import subprocess
 
 INKSCAPE = '/usr/bin/inkscape'
 OPTIPNG = '/usr/bin/optipng'
-MAINDIR = 'Moka'
-SOURCES = ('src/#', 'src/A', 'src/B', 'src/C', 'src/D', 'src/E', 'src/F', 'src/G', 'src/H', 'src/I', 'src/J', 'src/K', 'src/L', 'src/M', 'src/N', 'src/O', 'src/P', 'src/Q', 'src/R', 'src/S', 'src/T', 'src/U', 'src/V', 'src/W', 'src/web', 'src/X', 'src/Y', 'src/Z')
+MAINDIR = '../Moka'
+SOURCES = ('#', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'web', 'X', 'Y', 'Z')
 
 inkscape_process = None
 
