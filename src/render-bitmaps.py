@@ -20,6 +20,7 @@ import os
 import sys
 import xml.sax
 import subprocess
+import argparse
 
 INKSCAPE = '/usr/bin/inkscape'
 OPTIPNG = '/usr/bin/optipng'
@@ -28,7 +29,7 @@ SOURCES = ('#', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
 
 inkscape_process = None
 
-def main(SRC):
+def main(args, SRC):
 
     def optimize_png(png_file):
         if os.path.exists(OPTIPNG):
@@ -163,7 +164,8 @@ def main(SRC):
         def characters(self, chars):
             self.chars += chars.strip()
 
-    if len(sys.argv) == 1:
+
+    if not args.svg:
         if not os.path.exists(MAINDIR):
             os.mkdir(MAINDIR)
         print ('')
@@ -176,18 +178,24 @@ def main(SRC):
                 xml.sax.parse(open(file), handler)
         print ('')
     else:
-        file = os.path.join(SRC, sys.argv[1] + '.svg')
-        if len(sys.argv) > 2:
-            icons = sys.argv[2:]
-        else:
-            icons = None
+        file = os.path.join(SRC, args.svg + '.svg')
+
         if os.path.exists(os.path.join(file)):
-            handler = ContentHandler(file, True, filter=icons)
+            handler = ContentHandler(file, True, filter=args.filter)
             xml.sax.parse(open(file), handler)
         else:
             # icon not in this directory, try the next one
             pass
 
+parser = argparse.ArgumentParser(description='Render icons from SVG to PNG')
+
+parser.add_argument('svg', type=str, nargs='?', metavar='SVG',
+                    help="Optional SVG names (without extensions) to render. If not given, render all icons")
+parser.add_argument('filter', type=str, nargs='?', metavar='FILTER',
+                    help="Optional filter for the SVG file")
+
+args = parser.parse_args()
+
 for source in SOURCES:
     SRC = os.path.join('.', source)
-    main(SRC)
+    main(args, SRC)
