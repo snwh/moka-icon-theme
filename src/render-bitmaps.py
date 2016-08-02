@@ -185,8 +185,8 @@ def main(SRC):
             handler = ContentHandler(file, True, filter=icons)
             xml.sax.parse(open(file), handler)
         else:
-            print ("Error: No such file", file)
-            sys.exit(1)
+            # icon not in this directory, try the next one
+            pass
 
 for source in SOURCES:
     SRC = os.path.join('.', source)
