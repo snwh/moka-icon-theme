@@ -15,7 +15,7 @@
 
 Name:           moka-icon-theme
 Version:        5.3
-Release:        2
+Release:        3
 License:        CC-BY-SA-4.0
 Summary:        Moka Icon theme
 Url:            https://snwh.org/moka
