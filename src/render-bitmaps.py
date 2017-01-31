@@ -27,8 +27,8 @@ OPTIPNG = '/usr/bin/optipng'
 MAINDIR = '../Moka'
 SOURCES = ('#', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'web', 'X', 'Y', 'Z')
 
-# the resolution that non-hi-dpi icons are rendered at
-DPI_1_TO_1 = 90
+# the resolution that non-hi-dpi icons are rendered at (may be 90 or 96 depending on your inkscape build)
+DPI_1_TO_1 = 96
 # DPI multipliers to render at
 DPIS = [1, 2]
 
