@@ -17,7 +17,7 @@
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gmusicbrowser.svg"
+   sodipodi:docname="gmpc.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new"
@@ -159,130 +159,6 @@
        x2="349"
        y2="172" />
     <linearGradient
-       id="outerBackgroundGradient-5">
-      <stop
-         style="stop-color:#53b226;stop-opacity:1;"
-         offset="0"
-         id="stop3864-8-6-5" />
-      <stop
-         style="stop-color:#86ee24;stop-opacity:1;"
-         offset="1"
-         id="stop3866-9-1-0" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3901"
-       id="linearGradient3907"
-       x1="380"
-       y1="32"
-       x2="380"
-       y2="120"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0.20041267,1.9668996e-7)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3901">
-      <stop
-         style="stop-color:#475a1c;stop-opacity:1"
-         offset="0"
-         id="stop3903" />
-      <stop
-         style="stop-color:#729625;stop-opacity:1"
-         offset="1"
-         id="stop3905" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3901"
-       id="linearGradient3911"
-       gradientUnits="userSpaceOnUse"
-       x1="380"
-       y1="32"
-       x2="380"
-       y2="120"
-       gradientTransform="matrix(0.6666667,0,0,0.6666667,95.999997,121.33333)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3901"
-       id="linearGradient3915"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.46666662,0,0,0.46666662,155.82521,208.28334)"
-       x1="380"
-       y1="32"
-       x2="380"
-       y2="120" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3901"
-       id="linearGradient3919"
-       gradientUnits="userSpaceOnUse"
-       x1="380"
-       y1="32"
-       x2="380"
-       y2="120"
-       gradientTransform="matrix(2.5000001,0,0,2.5000001,-695.70052,-34.000004)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3901"
-       id="linearGradient3923"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.33333335,0,0,0.33333335,319.99999,42.666666)"
-       x1="380"
-       y1="32"
-       x2="380"
-       y2="120" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3901"
-       id="linearGradient3927"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.26666668,0,0,0.26666668,338.66516,91.733333)"
-       x1="380"
-       y1="32"
-       x2="380"
-       y2="120" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3901"
-       id="linearGradient3931"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.2,0,0,0.2,357.06878,132.50042)"
-       x1="380"
-       y1="32"
-       x2="380"
-       y2="120" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3599-836"
-       id="linearGradient3876"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-288,-316)"
-       x1="272"
-       y1="288"
-       x2="272"
-       y2="32" />
-    <linearGradient
-       id="linearGradient3599-836">
-      <stop
-         id="stop3798"
-         style="stop-color:#8fb341;stop-opacity:1;"
-         offset="0" />
-      <stop
-         id="stop3802"
-         style="stop-color:#e4fc58;stop-opacity:1;"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient25869-3"
-       id="linearGradient3876-1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,-4)"
-       x1="272"
-       y1="288"
-       x2="272"
-       y2="32" />
-    <linearGradient
        inkscape:collect="always"
        id="linearGradient25869-3">
       <stop
@@ -294,16 +170,6 @@
          offset="1"
          id="stop25873-6" />
     </linearGradient>
-    <linearGradient
-       y2="32"
-       x2="272"
-       y1="288"
-       x1="272"
-       gradientTransform="translate(423,-204)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient5391"
-       xlink:href="#linearGradient25869-3"
-       inkscape:collect="always" />
   </defs>
   <metadata
      id="metadata4">
@@ -321,7 +187,7 @@
         <dc:source />
         <cc:license
            rdf:resource="" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:subject>
           <rdf:Bag />
         </dc:subject>
@@ -369,10 +235,10 @@
          y="19.745117"
          xml:space="preserve"
          x="15.006836"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="context"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
            y="19.745117"
            x="15.006836"
            sodipodi:role="line"
@@ -381,11 +247,10 @@
          y="19.745117"
          xml:space="preserve"
          x="122.48828"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="icon-name"><tspan
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
            y="19.745117"
            x="122.48828"
            sodipodi:role="line"

@@ -17,7 +17,7 @@
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="wireframing-app.svg"
+   sodipodi:docname="wireshark.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new"
@@ -159,48 +159,6 @@
        x2="438"
        y2="112" />
     <linearGradient
-       id="outerBackgroundGradient-4">
-      <stop
-         style="stop-color:#e7e7e7;stop-opacity:1;"
-         offset="0"
-         id="stop3864-8-6-4" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="1"
-         id="stop3866-9-1-6" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#outerBackgroundGradient"
-       id="linearGradient3876"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,-4)"
-       x1="272"
-       y1="288"
-       x2="272"
-       y2="32" />
-    <linearGradient
-       id="outerBackgroundGradient">
-      <stop
-         style="stop-color:#e9e9e9;stop-opacity:1;"
-         offset="0"
-         id="stop3864-8-6" />
-      <stop
-         style="stop-color:#fdfdfd;stop-opacity:1;"
-         offset="1"
-         id="stop3866-9-1" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#outerBackgroundGradient-8"
-       id="linearGradient3876-1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,-4)"
-       x1="272"
-       y1="288"
-       x2="272"
-       y2="32" />
-    <linearGradient
        id="outerBackgroundGradient-8">
       <stop
          style="stop-color:#2c8bbc;stop-opacity:1;"
@@ -256,16 +214,6 @@
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath7163">
-      <path
-         sodipodi:nodetypes="cscccccscccccccsc"
-         id="path7165"
-         d="m 369.78125,58.000352 c -19.31866,1.440718 -29.4893,12.984045 -34.21875,23.8125 -3.63231,8.316472 -4.19392,14.896596 -4.34375,18.187498 L 307,99.995978 l 0,6.000012 27,0.004 c 1.58123,-7e-5 3.01632,-1.45012 3,-3.03126 0,0 -0.0828,-9.258982 4.0625,-18.749998 3.71634,-8.508854 10.46349,-16.943572 24.1875,-19.53125 -8.05109,20.962521 2.125,39.781248 2.125,39.781248 0.52009,0.92619 1.56278,1.53443 2.625,1.53126 l 27,-0.004 0,-6.000012 -25.0625,0.004 c -1.79918,-3.703256 -8.67753,-19.85544 0.71875,-37.593746 0.50418,-0.942916 0.45119,-2.158743 -0.13309,-3.054226 -0.58429,-0.895484 -1.67579,-1.433698 -2.74191,-1.352024 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:url(#linearGradient4083);fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Abandoned Bitplane;-inkscape-font-specification:Abandoned Bitplane"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
        id="clipPath4028">
       <rect
          style="color:#bebebe;fill:url(#linearGradient4032);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -286,37 +234,6 @@
        y1="95.995628"
        x2="96"
        y2="-0.0043739998" />
-    <linearGradient
-       id="linearGradient7170">
-      <stop
-         id="stop7172"
-         offset="0"
-         style="stop-color:#115575;stop-opacity:1;" />
-      <stop
-         id="stop7174"
-         offset="1"
-         style="stop-color:#1e8bbd;stop-opacity:1" />
-    </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7176">
-      <path
-         sodipodi:nodetypes="cscccccscccccccsc"
-         id="path7178"
-         d="m 369.78125,58.000352 c -19.31866,1.440718 -29.4893,12.984045 -34.21875,23.8125 -3.63231,8.316472 -4.19392,14.896596 -4.34375,18.187498 L 307,99.995978 l 0,6.000012 27,0.004 c 1.58123,-7e-5 3.01632,-1.45012 3,-3.03126 0,0 -0.0828,-9.258982 4.0625,-18.749998 3.71634,-8.508854 10.46349,-16.943572 24.1875,-19.53125 -8.05109,20.962521 2.125,39.781248 2.125,39.781248 0.52009,0.92619 1.56278,1.53443 2.625,1.53126 l 27,-0.004 0,-6.000012 -25.0625,0.004 c -1.79918,-3.703256 -8.67753,-19.85544 0.71875,-37.593746 0.50418,-0.942916 0.45119,-2.158743 -0.13309,-3.054226 -0.58429,-0.895484 -1.67579,-1.433698 -2.74191,-1.352024 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:url(#linearGradient4083);fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Abandoned Bitplane;-inkscape-font-specification:Abandoned Bitplane"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7180">
-      <path
-         sodipodi:nodetypes="cscccccscccccccsc"
-         id="path7182"
-         d="m 369.78125,58.000352 c -19.31866,1.440718 -29.4893,12.984045 -34.21875,23.8125 -3.63231,8.316472 -4.19392,14.896596 -4.34375,18.187498 L 307,99.995978 l 0,6.000012 27,0.004 c 1.58123,-7e-5 3.01632,-1.45012 3,-3.03126 0,0 -0.0828,-9.258982 4.0625,-18.749998 3.71634,-8.508854 10.46349,-16.943572 24.1875,-19.53125 -8.05109,20.962521 2.125,39.781248 2.125,39.781248 0.52009,0.92619 1.56278,1.53443 2.625,1.53126 l 27,-0.004 0,-6.000012 -25.0625,0.004 c -1.79918,-3.703256 -8.67753,-19.85544 0.71875,-37.593746 0.50418,-0.942916 0.45119,-2.158743 -0.13309,-3.054226 -0.58429,-0.895484 -1.67579,-1.433698 -2.74191,-1.352024 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:url(#linearGradient4083);fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Abandoned Bitplane;-inkscape-font-specification:Abandoned Bitplane"
-         inkscape:connector-curvature="0" />
-    </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4077">
@@ -340,37 +257,6 @@
        x2="96"
        y2="-0.0043739998" />
     <linearGradient
-       id="linearGradient7187">
-      <stop
-         id="stop7189"
-         offset="0"
-         style="stop-color:#115575;stop-opacity:1;" />
-      <stop
-         id="stop7191"
-         offset="1"
-         style="stop-color:#1e8bbd;stop-opacity:1" />
-    </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7193">
-      <path
-         sodipodi:nodetypes="cscccccscccccccsc"
-         id="path7195"
-         d="m 369.78125,58.000352 c -19.31866,1.440718 -29.4893,12.984045 -34.21875,23.8125 -3.63231,8.316472 -4.19392,14.896596 -4.34375,18.187498 L 307,99.995978 l 0,6.000012 27,0.004 c 1.58123,-7e-5 3.01632,-1.45012 3,-3.03126 0,0 -0.0828,-9.258982 4.0625,-18.749998 3.71634,-8.508854 10.46349,-16.943572 24.1875,-19.53125 -8.05109,20.962521 2.125,39.781248 2.125,39.781248 0.52009,0.92619 1.56278,1.53443 2.625,1.53126 l 27,-0.004 0,-6.000012 -25.0625,0.004 c -1.79918,-3.703256 -8.67753,-19.85544 0.71875,-37.593746 0.50418,-0.942916 0.45119,-2.158743 -0.13309,-3.054226 -0.58429,-0.895484 -1.67579,-1.433698 -2.74191,-1.352024 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:url(#linearGradient4083);fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Abandoned Bitplane;-inkscape-font-specification:Abandoned Bitplane"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7197">
-      <path
-         sodipodi:nodetypes="cscccccscccccccsc"
-         id="path7199"
-         d="m 369.78125,58.000352 c -19.31866,1.440718 -29.4893,12.984045 -34.21875,23.8125 -3.63231,8.316472 -4.19392,14.896596 -4.34375,18.187498 L 307,99.995978 l 0,6.000012 27,0.004 c 1.58123,-7e-5 3.01632,-1.45012 3,-3.03126 0,0 -0.0828,-9.258982 4.0625,-18.749998 3.71634,-8.508854 10.46349,-16.943572 24.1875,-19.53125 -8.05109,20.962521 2.125,39.781248 2.125,39.781248 0.52009,0.92619 1.56278,1.53443 2.625,1.53126 l 27,-0.004 0,-6.000012 -25.0625,0.004 c -1.79918,-3.703256 -8.67753,-19.85544 0.71875,-37.593746 0.50418,-0.942916 0.45119,-2.158743 -0.13309,-3.054226 -0.58429,-0.895484 -1.67579,-1.433698 -2.74191,-1.352024 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:url(#linearGradient4083);fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Abandoned Bitplane;-inkscape-font-specification:Abandoned Bitplane"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4069"
        id="linearGradient4129"
@@ -380,37 +266,6 @@
        y1="95.995628"
        x2="96"
        y2="-0.0043739998" />
-    <linearGradient
-       id="linearGradient7202">
-      <stop
-         id="stop7204"
-         offset="0"
-         style="stop-color:#115575;stop-opacity:1;" />
-      <stop
-         id="stop7206"
-         offset="1"
-         style="stop-color:#1e8bbd;stop-opacity:1" />
-    </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7208">
-      <path
-         sodipodi:nodetypes="cscccccscccccccsc"
-         id="path7210"
-         d="m 369.78125,58.000352 c -19.31866,1.440718 -29.4893,12.984045 -34.21875,23.8125 -3.63231,8.316472 -4.19392,14.896596 -4.34375,18.187498 L 307,99.995978 l 0,6.000012 27,0.004 c 1.58123,-7e-5 3.01632,-1.45012 3,-3.03126 0,0 -0.0828,-9.258982 4.0625,-18.749998 3.71634,-8.508854 10.46349,-16.943572 24.1875,-19.53125 -8.05109,20.962521 2.125,39.781248 2.125,39.781248 0.52009,0.92619 1.56278,1.53443 2.625,1.53126 l 27,-0.004 0,-6.000012 -25.0625,0.004 c -1.79918,-3.703256 -8.67753,-19.85544 0.71875,-37.593746 0.50418,-0.942916 0.45119,-2.158743 -0.13309,-3.054226 -0.58429,-0.895484 -1.67579,-1.433698 -2.74191,-1.352024 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:url(#linearGradient4083);fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Abandoned Bitplane;-inkscape-font-specification:Abandoned Bitplane"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7212">
-      <path
-         sodipodi:nodetypes="cscccccscccccccsc"
-         id="path7214"
-         d="m 369.78125,58.000352 c -19.31866,1.440718 -29.4893,12.984045 -34.21875,23.8125 -3.63231,8.316472 -4.19392,14.896596 -4.34375,18.187498 L 307,99.995978 l 0,6.000012 27,0.004 c 1.58123,-7e-5 3.01632,-1.45012 3,-3.03126 0,0 -0.0828,-9.258982 4.0625,-18.749998 3.71634,-8.508854 10.46349,-16.943572 24.1875,-19.53125 -8.05109,20.962521 2.125,39.781248 2.125,39.781248 0.52009,0.92619 1.56278,1.53443 2.625,1.53126 l 27,-0.004 0,-6.000012 -25.0625,0.004 c -1.79918,-3.703256 -8.67753,-19.85544 0.71875,-37.593746 0.50418,-0.942916 0.45119,-2.158743 -0.13309,-3.054226 -0.58429,-0.895484 -1.67579,-1.433698 -2.74191,-1.352024 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:url(#linearGradient4083);fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Abandoned Bitplane;-inkscape-font-specification:Abandoned Bitplane"
-         inkscape:connector-curvature="0" />
-    </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4161">
@@ -434,37 +289,6 @@
        x2="96"
        y2="-0.0043739998" />
     <linearGradient
-       id="linearGradient7219">
-      <stop
-         id="stop7221"
-         offset="0"
-         style="stop-color:#115575;stop-opacity:1;" />
-      <stop
-         id="stop7223"
-         offset="1"
-         style="stop-color:#1e8bbd;stop-opacity:1" />
-    </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7225">
-      <path
-         sodipodi:nodetypes="cscccccscccccccsc"
-         id="path7227"
-         d="m 369.78125,58.000352 c -19.31866,1.440718 -29.4893,12.984045 -34.21875,23.8125 -3.63231,8.316472 -4.19392,14.896596 -4.34375,18.187498 L 307,99.995978 l 0,6.000012 27,0.004 c 1.58123,-7e-5 3.01632,-1.45012 3,-3.03126 0,0 -0.0828,-9.258982 4.0625,-18.749998 3.71634,-8.508854 10.46349,-16.943572 24.1875,-19.53125 -8.05109,20.962521 2.125,39.781248 2.125,39.781248 0.52009,0.92619 1.56278,1.53443 2.625,1.53126 l 27,-0.004 0,-6.000012 -25.0625,0.004 c -1.79918,-3.703256 -8.67753,-19.85544 0.71875,-37.593746 0.50418,-0.942916 0.45119,-2.158743 -0.13309,-3.054226 -0.58429,-0.895484 -1.67579,-1.433698 -2.74191,-1.352024 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:url(#linearGradient4083);fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Abandoned Bitplane;-inkscape-font-specification:Abandoned Bitplane"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7229">
-      <path
-         sodipodi:nodetypes="cscccccscccccccsc"
-         id="path7231"
-         d="m 369.78125,58.000352 c -19.31866,1.440718 -29.4893,12.984045 -34.21875,23.8125 -3.63231,8.316472 -4.19392,14.896596 -4.34375,18.187498 L 307,99.995978 l 0,6.000012 27,0.004 c 1.58123,-7e-5 3.01632,-1.45012 3,-3.03126 0,0 -0.0828,-9.258982 4.0625,-18.749998 3.71634,-8.508854 10.46349,-16.943572 24.1875,-19.53125 -8.05109,20.962521 2.125,39.781248 2.125,39.781248 0.52009,0.92619 1.56278,1.53443 2.625,1.53126 l 27,-0.004 0,-6.000012 -25.0625,0.004 c -1.79918,-3.703256 -8.67753,-19.85544 0.71875,-37.593746 0.50418,-0.942916 0.45119,-2.158743 -0.13309,-3.054226 -0.58429,-0.895484 -1.67579,-1.433698 -2.74191,-1.352024 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:url(#linearGradient4083);fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Abandoned Bitplane;-inkscape-font-specification:Abandoned Bitplane"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4069"
        id="linearGradient4186"
@@ -475,37 +299,6 @@
        x2="96"
        y2="-0.0043739998" />
     <linearGradient
-       id="linearGradient7234">
-      <stop
-         id="stop7236"
-         offset="0"
-         style="stop-color:#115575;stop-opacity:1;" />
-      <stop
-         id="stop7238"
-         offset="1"
-         style="stop-color:#1e8bbd;stop-opacity:1" />
-    </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7240">
-      <path
-         sodipodi:nodetypes="cscccccscccccccsc"
-         id="path7242"
-         d="m 369.78125,58.000352 c -19.31866,1.440718 -29.4893,12.984045 -34.21875,23.8125 -3.63231,8.316472 -4.19392,14.896596 -4.34375,18.187498 L 307,99.995978 l 0,6.000012 27,0.004 c 1.58123,-7e-5 3.01632,-1.45012 3,-3.03126 0,0 -0.0828,-9.258982 4.0625,-18.749998 3.71634,-8.508854 10.46349,-16.943572 24.1875,-19.53125 -8.05109,20.962521 2.125,39.781248 2.125,39.781248 0.52009,0.92619 1.56278,1.53443 2.625,1.53126 l 27,-0.004 0,-6.000012 -25.0625,0.004 c -1.79918,-3.703256 -8.67753,-19.85544 0.71875,-37.593746 0.50418,-0.942916 0.45119,-2.158743 -0.13309,-3.054226 -0.58429,-0.895484 -1.67579,-1.433698 -2.74191,-1.352024 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:url(#linearGradient4083);fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Abandoned Bitplane;-inkscape-font-specification:Abandoned Bitplane"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7244">
-      <path
-         sodipodi:nodetypes="cscccccscccccccsc"
-         id="path7246"
-         d="m 369.78125,58.000352 c -19.31866,1.440718 -29.4893,12.984045 -34.21875,23.8125 -3.63231,8.316472 -4.19392,14.896596 -4.34375,18.187498 L 307,99.995978 l 0,6.000012 27,0.004 c 1.58123,-7e-5 3.01632,-1.45012 3,-3.03126 0,0 -0.0828,-9.258982 4.0625,-18.749998 3.71634,-8.508854 10.46349,-16.943572 24.1875,-19.53125 -8.05109,20.962521 2.125,39.781248 2.125,39.781248 0.52009,0.92619 1.56278,1.53443 2.625,1.53126 l 27,-0.004 0,-6.000012 -25.0625,0.004 c -1.79918,-3.703256 -8.67753,-19.85544 0.71875,-37.593746 0.50418,-0.942916 0.45119,-2.158743 -0.13309,-3.054226 -0.58429,-0.895484 -1.67579,-1.433698 -2.74191,-1.352024 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:url(#linearGradient4083);fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Abandoned Bitplane;-inkscape-font-specification:Abandoned Bitplane"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4069"
        id="linearGradient4103"
@@ -515,47 +308,6 @@
        y1="95.995628"
        x2="96"
        y2="-0.0043739998" />
-    <linearGradient
-       id="linearGradient7249">
-      <stop
-         id="stop7251"
-         offset="0"
-         style="stop-color:#115575;stop-opacity:1;" />
-      <stop
-         id="stop7253"
-         offset="1"
-         style="stop-color:#1e8bbd;stop-opacity:1" />
-    </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7255">
-      <path
-         sodipodi:nodetypes="cscccccscccccccsc"
-         id="path7257"
-         d="m 369.78125,58.000352 c -19.31866,1.440718 -29.4893,12.984045 -34.21875,23.8125 -3.63231,8.316472 -4.19392,14.896596 -4.34375,18.187498 L 307,99.995978 l 0,6.000012 27,0.004 c 1.58123,-7e-5 3.01632,-1.45012 3,-3.03126 0,0 -0.0828,-9.258982 4.0625,-18.749998 3.71634,-8.508854 10.46349,-16.943572 24.1875,-19.53125 -8.05109,20.962521 2.125,39.781248 2.125,39.781248 0.52009,0.92619 1.56278,1.53443 2.625,1.53126 l 27,-0.004 0,-6.000012 -25.0625,0.004 c -1.79918,-3.703256 -8.67753,-19.85544 0.71875,-37.593746 0.50418,-0.942916 0.45119,-2.158743 -0.13309,-3.054226 -0.58429,-0.895484 -1.67579,-1.433698 -2.74191,-1.352024 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:url(#linearGradient4083);fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Abandoned Bitplane;-inkscape-font-specification:Abandoned Bitplane"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7259">
-      <path
-         sodipodi:nodetypes="cscccccscccccccsc"
-         id="path7261"
-         d="m 369.78125,58.000352 c -19.31866,1.440718 -29.4893,12.984045 -34.21875,23.8125 -3.63231,8.316472 -4.19392,14.896596 -4.34375,18.187498 L 307,99.995978 l 0,6.000012 27,0.004 c 1.58123,-7e-5 3.01632,-1.45012 3,-3.03126 0,0 -0.0828,-9.258982 4.0625,-18.749998 3.71634,-8.508854 10.46349,-16.943572 24.1875,-19.53125 -8.05109,20.962521 2.125,39.781248 2.125,39.781248 0.52009,0.92619 1.56278,1.53443 2.625,1.53126 l 27,-0.004 0,-6.000012 -25.0625,0.004 c -1.79918,-3.703256 -8.67753,-19.85544 0.71875,-37.593746 0.50418,-0.942916 0.45119,-2.158743 -0.13309,-3.054226 -0.58429,-0.895484 -1.67579,-1.433698 -2.74191,-1.352024 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:url(#linearGradient4083);fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Abandoned Bitplane;-inkscape-font-specification:Abandoned Bitplane"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <linearGradient
-       y2="32"
-       x2="272"
-       y1="288"
-       x1="272"
-       gradientTransform="translate(-4.570694e-7,-4)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient7292"
-       xlink:href="#outerBackgroundGradient-8"
-       inkscape:collect="always" />
   </defs>
   <metadata
      id="metadata4">
@@ -573,7 +325,7 @@
         <dc:source />
         <cc:license
            rdf:resource="" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:subject>
           <rdf:Bag />
         </dc:subject>
@@ -621,10 +373,10 @@
          y="19.745117"
          xml:space="preserve"
          x="15.006836"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="context"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
            y="19.745117"
            x="15.006836"
            sodipodi:role="line"
@@ -633,11 +385,10 @@
          y="19.745117"
          xml:space="preserve"
          x="122.48828"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="icon-name"><tspan
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
            y="19.745117"
            x="122.48828"
            sodipodi:role="line"

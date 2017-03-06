@@ -64,21 +64,21 @@ Context=Actions
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256/actions]
 Context=Actions
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [scalable/actions]
 Context=Actions
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Animations
 [16x16/animations]
@@ -133,21 +133,21 @@ Context=Applications
 Size=96
 MinSize=80
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256/apps]
 Context=Applications
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [scalable/apps]
 Context=Applications
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Categories
 
@@ -186,21 +186,21 @@ Context=Categories
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256/categories]
 Context=Categories
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [scalable/categories]
 Context=Categories
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Devices
 
@@ -239,21 +239,21 @@ Context=Devices
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256/devices]
 Context=Devices
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [scalable/devices]
 Context=Devices
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Emblems
 
@@ -297,21 +297,21 @@ Context=Emblems
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256/emblems]
 Context=Emblems
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [scalable/emblems]
 Context=Emblems
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Emotes
 
@@ -350,21 +350,21 @@ Context=Emotes
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256/emotes]
 Context=Emotes
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [scalable/emotes]
 Context=Emotes
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # MimeTypes
 
@@ -403,21 +403,21 @@ Context=MimeTypes
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256/mimetypes]
 Context=MimeTypes
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [scalable/mimetypes]
 Context=MimeTypes
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Places
 
@@ -456,21 +456,21 @@ Context=Places
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256/places]
 Context=Places
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [scalable/places]
 Context=Places
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Status
 
@@ -509,21 +509,21 @@ Context=Status
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256/status]
 Context=Status
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [scalable/status]
 Context=Status
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Web
 
@@ -562,21 +562,21 @@ Context=Applications
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256/web]
 Context=Applications
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 [scalable/web]
 Context=Applications
 Size=16
 MinSize=16
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 
 #
@@ -627,7 +627,7 @@ Scale=2
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/actions]
 Context=Actions
@@ -635,7 +635,7 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Animations
 [16x16@2x/animations]
@@ -700,7 +700,7 @@ Scale=2
 Size=96
 MinSize=80
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/apps]
 Context=Applications
@@ -708,7 +708,7 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Categories
 
@@ -754,7 +754,7 @@ Scale=2
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/categories]
 Context=Categories
@@ -762,7 +762,7 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Devices
 
@@ -808,7 +808,7 @@ Scale=2
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/devices]
 Context=Devices
@@ -816,7 +816,7 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Emblems
 
@@ -868,7 +868,7 @@ Scale=2
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/emblems]
 Context=Emblems
@@ -876,7 +876,7 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Emotes
 
@@ -922,7 +922,7 @@ Scale=2
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/emotes]
 Context=Emotes
@@ -930,7 +930,7 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # MimeTypes
 
@@ -976,7 +976,7 @@ Scale=2
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/mimetypes]
 Context=MimeTypes
@@ -984,7 +984,7 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Places
 
@@ -1030,7 +1030,7 @@ Scale=2
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/places]
 Context=Places
@@ -1038,7 +1038,7 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Status
 
@@ -1084,7 +1084,7 @@ Scale=2
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/status]
 Context=Status
@@ -1092,7 +1092,7 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
 
 # Web
 
@@ -1138,7 +1138,7 @@ Scale=2
 Size=96
 MinSize=65
 MaxSize=96
-Type=scalable
+Type=Scalable
 
 [256x256@2x/web]
 Context=Applications
@@ -1146,4 +1146,4 @@ Scale=2
 Size=256
 MinSize=97
 MaxSize=256
-Type=scalable
+Type=Scalable
