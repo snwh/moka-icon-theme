@@ -7,13 +7,13 @@ Moka Icon Theme (the icon assets and sources) are licensed under a [Creative Com
 
 Any bundled software is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3, or (at your option) any later version.
 
-###Getting the Source
+### Getting the Source
 
 The original source for Moka Icon Theme can be found [here](https://github.com/moka-project/moka-icon-theme). You can clone the latest version from the git repository:
 
     git clone https://github.com/moka-project/moka-icon-theme.git
 
-###Using the Source
+### Using the Source
 
 There are scripts to simplify the rendering process; to run them (and edit icons) you will need:
 
@@ -38,7 +38,7 @@ However, if you, lets say, added an icon named `web-example` and want to install
 
 from inside of this repository's root directory.
 
-###Building/Installing Moka
+### Building/Installing Moka
 
 You can build and install the theme from source or run the included install script.
 
