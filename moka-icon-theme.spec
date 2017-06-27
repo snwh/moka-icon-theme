@@ -1,7 +1,7 @@
 #
 # Spec file for package moka-icon-theme
 #
-# Copyright (c) 2016 Sam Hewitt
+# Copyright (c) 2017 Sam Hewitt
 #
 # All modifications and additions to the file contributed by third parties
 # remain the property of their copyright owners, unless otherwise agreed
@@ -15,7 +15,7 @@
 
 Name:           moka-icon-theme
 Version:        5.3
-Release:        5
+Release:        6
 License:        CC-BY-SA-4.0
 Summary:        Moka Icon theme
 Url:            https://snwh.org/moka
