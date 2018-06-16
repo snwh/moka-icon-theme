@@ -24,7 +24,7 @@ THEME="Moka"
 # echo $DIR
 
 # Icon sizes and contexts
-CONTEXTS=("actions" "apps" "categories" "devices" "emblems" "emotes"  "mimetypes" "places" "status" "web")
+CONTEXTS=("actions" "apps" "categories" "devices" "emblems" "places" "status" "web")
 SIZES=("8x8" "16x16" "22x22" "24x24" "32x32" "48x48" "64x64" "96x96" "256x256" "8x8@2x" "16x16@2x" "22x22@2x" "24x24@2x" "32x32@2x" "48x48@2x" "64x64@2x" "96x96@2x" "256x256@2x")
 
 # Fullcolor icons
