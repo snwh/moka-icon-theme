@@ -35,8 +35,6 @@ After which you should be able to pick Moka as your icon or cursor theme in GNOM
 ```bash
 # set the icon theme
 gsettings set org.gnome.desktop.interface icon-theme "Moka"
-# or the cursor theme
-gsettings set org.gnome.desktop.interface cursor-theme "Moka"
 ```
 
 ### Uninstalling Moka
@@ -52,8 +50,6 @@ Once uninstalled you can reset your icon and cursor theme to the default setting
 ```bash
 # reset icon theme to default
 gsettings reset org.gnome.desktop.interface icon-theme
-# reset cursor theme to default
-gsettings reset org.gnome.desktop.interface cursor-theme
 ```
 
 ## Missing Icons & Requests
