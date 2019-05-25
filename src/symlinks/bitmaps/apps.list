@@ -1,4 +1,5 @@
 2048.png gnome-2048.png
+2048.png org.gnome.TwentyFortyEight.png
 abiword.png abiword_48.png
 accessories-calculator.png calc.png
 accessories-calculator.png galculator.png
@@ -11,6 +12,7 @@ accessories-character-map.png gnome-characters.png
 accessories-character-map.png gucharmap.png
 accessories-character-map.png org.gnome.Characters.png
 accessories-clipboard.png clipit.png
+accessories-clipboard.png clipit-trayicon.png
 accessories-clipboard.png klipper.png
 accessories-clipboard.png parcellite.png
 accessories-dictionary.png dictionary.png
@@ -22,6 +24,7 @@ accessories-document-viewer.png evince.png
 accessories-document-viewer.png graphics-viewer-document.png
 accessories-document-viewer.png okular.png
 accessories-document-viewer.png org.gnome.Evince.png
+accessories-document-viewer.png gnome-pdf.png
 accessories-document-viewer.png qpdfview.png
 accessories-document-viewer.png xpdf.png
 accessories-ebook-reader.png org.gnome.Books.png
@@ -64,6 +67,7 @@ addressbook.png kaddressbook.png
 addressbook.png kontact.png
 addressbook.png ktp-contacts.png
 addressbook.png org.gnome.Contacts.png
+addressbook.png gnome-contacts.png
 adobe-air.png AdobeAIR.png
 adobe-air.png air.png
 aisleriot.png gnome-aisleriot.png
@@ -72,6 +76,7 @@ amarok.png amarok-icon.png
 amarok.png amarok2.png
 applets-screenshooter.png accessories-screenshot.png
 applets-screenshooter.png gnome-screenshot.png
+applets-screenshooter.png org.gnome.Screenshot.png
 applets-screenshooter.png ksnapshot.png
 applets-screenshooter.png simplescreenrecorder.png
 archive-manager.png 7z.png
@@ -80,6 +85,7 @@ archive-manager.png archivemanager.png
 archive-manager.png ark.png
 archive-manager.png engrampa.png
 archive-manager.png file-roller.png
+archive-manager.png org.gnome.ArchiveManager.png
 archive-manager.png p7zip.png
 archive-manager.png utilities-file-archiver.png
 archive-manager.png xarchiver.png
@@ -144,6 +150,7 @@ clock.png cuckoo.png
 comix.png mcomix.png
 counter-strike.png steam_icon_240.png
 d-feet.png d-feet-icon.png
+d-feet.png org.gnome.dfeet.png
 darktable.png darktable-2.png
 darktable.png org.darktable.Darktable.png
 dart.png dart-editor.png
@@ -176,6 +183,7 @@ disk-burner.png k3b.png
 disk-burner.png ripperx.png
 disk-burner.png xfburn.png
 disk-usage-analyzer.png baobab.png
+disk-usage-analyzer.png org.gnome.baobab.png
 disk-usage-analyzer.png filelight.png
 disk-usage-analyzer.png mate-disk-usage-analyzer.png
 disk-usage-analyzer.png serpentine.png
@@ -198,7 +206,6 @@ emule.png amule.png
 espeak.png espeak-gui.png
 eufloria.png eufloriahd.png
 eufloria.png steam_icon_41210.png
-evince.png gnome-pdf.png
 extensions.png 67EF_addoninstaller.0.png
 extensions.png cs-extensions.png
 extensions.png gnome-shell-extension-prefs.png
@@ -262,11 +269,11 @@ gnome-disks.png disks.png
 gnome-disks.png gnome-device-manager.png
 gnome-disks.png gsmartcontrol.png
 gnome-disks.png palimpsest.png
+gnome-disks.png org.gnome.DiskUtility.png
 gnome-documents.png org.gnome.Documents.png
 gnome-documents.png org.gnome.Documents.png
 gnome-games.png org.gnome.Games.png
 gnome-klotski.png gnotski.png
-gnome-mahjongg.png org.gnome.Mahjongg.png
 gnome-maps.png org.gnome.Maps.png
 gnome-music.png org.gnome.Music.png
 gnome-nettool.png nmap_icon.png
@@ -290,6 +297,7 @@ gnome-weather.png org.gnome.Weather.png
 gnome-weather.png org.gnome.Weather.png
 gnomines.png gnome-mines.png
 gnomines.png winemine.png
+gnomines.png org.gnome.Mines.png
 gnu-r.png jabref.png
 gnu-r.png Rlogo.png
 gnu-r.png rlogo_icon.png
@@ -430,9 +438,11 @@ logviewer.png gpk-log.png
 logviewer.png logview.png
 logviewer.png system-utilities-logviewer.png
 logviewer.png utilities-log-viewer.png
+logviewer.png org.gnome.Logs.png
 lollypop.png org.gnome.Lollypop.png
 lollypop.png org.gnome.Lollypop.png
 mahjongg.png gnome-mahjongg.png
+mahjongg.png org.gnome.Mahjongg.png
 mathematica.png wolfram-mathematica.png
 maxthon.png maxthon-browser.png
 meld.png org.gnome.Meld.png
@@ -490,6 +500,7 @@ notes.png gnote.png
 notes.png knotes.png
 notes.png org.gnome.Bijiben.png
 notes.png org.gnome.bijiben.png
+notes.png org.gnome.Notes.png
 notes.png tomboy.png
 notes.png xfce4-notes-plugin.png
 nvidia-settings.png nvidia-current-settings.png
@@ -560,6 +571,7 @@ preferences-desktop-display.png mate-preferences-desktop-display.png
 preferences-desktop-display.png unity-display-panel.png
 preferences-desktop-font.png cs-fonts.png
 preferences-desktop-font.png font-viewer.png
+preferences-desktop-font.png org.gnome.font-viewer.png
 preferences-desktop-font.png kfontview.png
 preferences-desktop-keyboard.png cs-keyboard.png
 preferences-desktop-keyboard.png eekboard.png
@@ -592,6 +604,7 @@ preferences-system-login.png login.png
 preferences-system-login.png mdmsetup.png
 preferences-system-login.png system-config-authentication.png
 preferences-system-login.png user_auth.png
+preferences-system-login.png lightdm-settings.png
 preferences-system-network.png cs-network.png
 preferences-system-network.png knetattach.png
 preferences-system-network.png mate-network-properties.png
@@ -685,6 +698,7 @@ sublime-text.png sublime_text.png
 sublime-text.png sublimetext.png
 sudoku.png gnome-sudoku.png
 sudoku.png ksudoku.png
+sudoku.png org.gnome.Sudoku.png
 sunflower.png sunflower-fm.png
 supertuxkart.png supertux.png
 supertuxkart.png supertuxkart_128.png
@@ -722,6 +736,7 @@ system-software-install.png software-center.png
 system-software-install.png softwarecenter.png
 system-software-install.png ubuntusoftware.png
 system-software-install.png yumex.png
+system-software-install.png gnome-mime-application-x-deb.png
 system-software-package-manager.png aptik-gtk.png
 system-software-package-manager.png aptik.png
 system-software-package-manager.png gnome-apt.png
@@ -771,6 +786,8 @@ utilities-system-monitor.png htop.png
 utilities-system-monitor.png ksysguard.png
 utilities-system-monitor.png org.gnome.Usage.png
 utilities-system-monitor.png preferences-system-performance.png
+utilities-system-monitor.png gnome-system-monitor.png
+utilities-system-monitor.png org.gnome.SystemMonitor.png
 utilities-terminal.png bash.png
 utilities-terminal.png deepin-terminal.png
 utilities-terminal.png Etermutilities-terminal.png
