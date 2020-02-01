@@ -15,6 +15,10 @@ When reusing this work please include a proper attribution:
 
 > "[Moka Icons](http://snwh.org/moka)" by [Sam Hewitt](http://samuelhewitt.com/) is licensed under [CC-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/)
 
+This repository is a soft-fork of upstream that adds pull requests made upstream without needing
+to wait for a formal release upstream.  The fourth . version number (e.g. 5.4.0.1) is this project
+specific - the first three . numbers (5.4.0) follow upstream release numbers. Please make all pull requests via upstream - not via this soft-fork.
+
 ## Downloading Moka
 
 Download instructions for all sorts of systems are available [here](https://snwh.org/moka/download).
