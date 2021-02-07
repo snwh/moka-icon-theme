@@ -54,6 +54,7 @@ accessories-text-editor.png kate.png
 accessories-text-editor.png kwrite.png
 accessories-text-editor.png medit.png
 accessories-text-editor.png org.gnome.gedit.png
+accessories-text-editor.png org.xfce.mousepad.png
 accessories-text-editor.png Sci48M.png
 accessories-text-editor.png text-editor.png
 accessories-thesaurus.png kthesaurus.png
@@ -157,6 +158,7 @@ darktable.png org.darktable.Darktable.png
 dart.png dart-editor.png
 dconf-editor.png ca.desrt.dconf-editor.png
 dconf-editor.png gconf-editor.png
+dconf-editor.png org.xfce.settings.editor.png
 deja-dup.png luckybackup.png
 deja-dup.png org.gnome.DejaDup.png
 desktop-environment-kde.png kde-windows.png
@@ -170,6 +172,7 @@ desktop-environment-xfce.png xfce4-panel.png
 desktop-magnifier.png kmag.png
 desktop-tweaks.png cs-desktop-effects.png
 desktop-tweaks.png org.gnome.tweaks.png
+desktop-tweaks.png org.xfce.xfwm4-tweaks.png
 desktop-tweaks.png wmtweaks.png
 devhelp.png org.gnome.Devhelp.png
 digikam.png photolayoutseditor.png
@@ -324,6 +327,7 @@ handbrake.png hb-icon.png
 help-about.png 4137_winhlp32.0.png
 help-about.png gtk-about.png
 help-about.png stock_about.png
+help-about.png org.xfce.about.png
 hp-logo.png hp-toolbox.png
 hp-logo.png hplip.png
 iagno.png gnome-iagno.png
@@ -340,6 +344,7 @@ internet-mail.png geary.png
 internet-mail.png kmail.png
 internet-mail.png mail-generic.png
 internet-mail.png mail_generic.png
+internet-mail.png org.xfce.mailreader.png
 internet-mail.png sylpheed.png
 internet-mail.png unity-mail.png
 internet-news-reader.png akregator.png
@@ -355,6 +360,7 @@ internet-web-browser.png epiphany-webkit.png
 internet-web-browser.png epiphany-webkit.png
 internet-web-browser.png epiphany.png
 internet-web-browser.png org.gnome.Epiphany.png
+internet-web-browser.png org.xfce.webbrowser.png
 internet-web-browser.png webbrowser-app.png
 irc-chat.png org.gnome.Polari.png
 jabber.png im-jabber.png
@@ -528,6 +534,7 @@ panel-applets.png dockbarx.png
 panel.png cs-panel.png
 panel.png gnome-panel.png
 panel.png mate-panel.png
+panel.png org.xfce.panel.png
 panel.png tint2conf.png
 passwords.png 1password.png
 passwords.png enpass.png
@@ -562,6 +569,7 @@ preferences-color.png cs-cat-appearance.png
 preferences-color.png cs-color.png
 preferences-color.png gnome-color-manager.png
 preferences-color.png mate-color-manager.png
+preferences-color.png org.xfce.settings.color.png
 preferences-color.png preferences-desktop-color.png
 preferences-color.png unity-color-panel.png
 preferences-desktop-accessibility.png access.png
@@ -570,16 +578,19 @@ preferences-desktop-accessibility.png accessibility_section.png
 preferences-desktop-accessibility.png ax-applet.png
 preferences-desktop-accessibility.png cs-universal-access.png
 preferences-desktop-accessibility.png orca.png
+preferences-desktop-accessibility.png org.xfce.settings.accessibility.png
 preferences-desktop-display.png cs-display.png
 preferences-desktop-display.png gnome-display-properties.png
 preferences-desktop-display.png mate-preferences-desktop-display.png
 preferences-desktop-display.png unity-display-panel.png
+preferences-desktop-display.png org.xfce.settings.display.png
 preferences-desktop-font.png cs-fonts.png
 preferences-desktop-font.png font-viewer.png
 preferences-desktop-font.png org.gnome.font-viewer.png
 preferences-desktop-font.png kfontview.png
 preferences-desktop-keyboard.png cs-keyboard.png
 preferences-desktop-keyboard.png eekboard.png
+preferences-desktop-keyboard.png org.xfce.settings.keyboard.png
 preferences-desktop-keyboard.png klavaro.png
 preferences-desktop-locale.png cs-language.png
 preferences-desktop-locale.png cs-region.png
@@ -590,6 +601,7 @@ preferences-desktop-theme.png cs-themes.png
 preferences-desktop-theme.png gtk-theme-config.png
 preferences-desktop-theme.png preferences-theme.png
 preferences-desktop-theme.png style.png
+preferences-desktop-theme.png org.xfce.settings.appearance.png
 preferences-desktop-user.png avatar-default.png
 preferences-desktop-user.png cs-user-accounts.png
 preferences-desktop-user.png cs-user.png
@@ -597,6 +609,7 @@ preferences-desktop-user.png goa-account.png
 preferences-desktop-user.png user_icon.png
 preferences-desktop-wallpaper.png background.png
 preferences-desktop-wallpaper.png cs-backgrounds.png
+preferences-desktop-wallpaper.png org.xfce.xfdesktop.png
 preferences-plugins.png preferences-plugin.png
 preferences-system-hotcorners.png brightside.png
 preferences-system-hotcorners.png cs-overview.png
@@ -619,9 +632,11 @@ preferences-system-notifications.png preferences-desktop-notification-bell.png
 preferences-system-notifications.png preferences-desktop-notification.png
 preferences-system-notifications.png preferences-desktop-notifications.png
 preferences-system-notifications.png xfce4-notifyd.png
+preferences-system-notifications.png org.xfce.notification.png
 preferences-system-power.png cs-power.png
 preferences-system-power.png gnome-power-manager.png
 preferences-system-power.png mate-power-manager.png
+preferences-system-power.png org.xfce.powermanager.png
 preferences-system-power.png preferences-system-power-management.png
 preferences-system-power.png unity-power-panel.png
 preferences-system-power.png xfpm-ac-adapter.png
@@ -634,6 +649,7 @@ preferences-system-search.png search.png
 preferences-system-search.png system-search.png
 preferences-system-search.png tracker.png
 preferences-system-search.png xfce4-appfinder.png
+preferences-system-search.png org.xfce.appfinder.png
 preferences-system-sharing.png preferences-system-network-sharing.png
 preferences-system-sound.png cs-sound.png
 preferences-system-sound.png gstreamer-properties.png
@@ -656,6 +672,7 @@ preferences-system.png cs-cat-prefs.png
 preferences-system.png cs-general.png
 preferences-system.png gtk-preferences.png
 preferences-system.png org.gnome.Settings.png
+preferences-system.png org.xfce.settings.manager.png
 preferences-system.png system-settings.png
 preferences-system.png v4l2ucp.png
 psensor.png Psensor_normal.png
@@ -686,6 +703,7 @@ session-properties.png cs-startup-programs.png
 session-properties.png gnome-session-properties.png
 session-properties.png gnome-session.png
 session-properties.png mate-session-properties.png
+session-properties.png org.xfce.session.png
 session-properties.png preferences-system-session-services.png
 session-properties.png preferences-system-session.png
 session-properties.png system-config-services.png
@@ -724,6 +742,8 @@ system-file-manager.png nautilus.png
 system-file-manager.png org.gnome.Files.png
 system-file-manager.png org.gnome.Nautilus.png
 system-file-manager.png org.gnome.Nautilus.png
+system-file-manager.png org.xfce.filemanager.png
+system-file-manager.png org.xfce.thunar.png
 system-file-manager.png Thunar.png
 system-file-manager.png thunar.png
 system-help.png chmsee-icon.png
@@ -794,6 +814,7 @@ utilities-system-monitor.png chrome-ocjnemjmlhjkeilmaidemofakmpclcbi-Default.png
 utilities-system-monitor.png htop.png
 utilities-system-monitor.png ksysguard.png
 utilities-system-monitor.png org.gnome.Usage.png
+utilities-system-monitor.png org.xfce.taskmanager.png
 utilities-system-monitor.png preferences-system-performance.png
 utilities-system-monitor.png gnome-system-monitor.png
 utilities-system-monitor.png org.gnome.SystemMonitor.png
@@ -805,6 +826,9 @@ utilities-terminal.png gnome-xterm.png
 utilities-terminal.png lxterminal.png
 utilities-terminal.png openterm.png
 utilities-terminal.png org.gnome.Terminal.png
+utilities-terminal.png org.xfce.terminal.png
+utilities-terminal.png org.xfce.terminal-settings.png
+utilities-terminal.png org.xfce.terminalemulator.png
 utilities-terminal.png qterminal.png
 utilities-terminal.png terminal-tango.png
 utilities-terminal.png terra.png
@@ -854,8 +878,10 @@ wireframing-app.png WireframeSketcherStudio.png
 workspace-switcher-top-left.png cs-workspaces.png
 workspace-switcher-top-left.png mate-panel-workspace-switcher.png
 workspace-switcher-top-left.png workspace-switcher.png
+workspace-switcher-top-left.png org.xfce.workspaces.png
 workspace-switcher-top-left.png xfce4-workspaces.png
 xchat.png xchat-gnome.png
+xfwm4.png org.xfce.xfwm4.png
 xiphos.png bibletime.png
 xmind.png xmind-logo-36.png
 xterm.png xterm-color.png
