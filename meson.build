@@ -1,5 +1,5 @@
-project('paper-icon-theme',
-    version: '5.4',
+project('moka-icon-theme',
+    version: '5.4.0.4',
     meson_version: '>= 0.40',
     license: 'CC-by-SA',
     default_options: ['prefix=/usr']
